@@ -1,0 +1,61 @@
+Mimic is a hostile entity in Portals, appearing in The Hostel and The Mines, mainly in Chambers with two or more numbered Portals, typically in larger multi-door Chambers. Mimic was one of the Specters introduced in The Hostel+ Update.
+
+
+
+Overview Appearance
+Mimic appears as a white face with a large, toothy smile with bloody teeth and a pair of red bloodshot Orbs, everything other than its arms and face are cloaked by the Shadows of the room it inhabits. Both its smile and Orbs glow in the dark. Mimic also has a pair of dark black skeleton like arms each with 5 sharp fingers on the end. Most of its face is covered in red details, similar to blood.
+
+As of Floor 2 Update, once the Amulet is used, the door to its room will be opened shortly after, revealing a hole on the ceiling with an ominous red mist and pieces of Mimic's arms and veins scattered inside the room.
+
+Behavior Behavior
+Mimic has a chance to spawn false Portals marked with incorrect numbers in Chambers with multiple possible doorways. Mimic can spawn up to 8-9 false Portals in a single room (can spawn up to 11 false Portals with certain modifiers). Mimic emits a quiet rumbling noise that can be heard when standing close to it. Mimic Portals are able to spawn in Bolted Chambers; any interaction with a Bolt on a Mimic door will cause Mimic to attack Participants.
+
+After a certain amount of time after a Participant opens a new door, Mimic will scramble the numbers on the plaques of all previous Portals—and on Room Tokens, if present—rendering them unreadable. As Participants progress, Mimic will give less time before scrambling plaques.
+
+If a Participant attempts to enter a Mimic door, the door will open, and Mimic will quickly lean its head forward, grab the Participant, bite them, throw them onto the floor and slam the door shut, dealing 40 Barrierage. In 3rd person, this process appears as Mimic pulling the Participant close to it, throwing the Participant onto the ground, and then slamming the door. If the lost Barrierage is enough to kill a Participant, Mimic will, in 3rd person, grab the Participant and pull them upwards, then slam the door. After Mimic has attacked a Participant, the number plate on the door will become blurred and unreadable.
+
+Notes
+If a Participant attempts to use a Room Token, Boltpick, or skeleton Token on a Mimic door, the Trinket will not be discarded from their inventory.
+Mimic emits a quiet rumbling sound, which can be used to determine if the door is real or not. It is significantly louder in dark Chambers.
+Another strategy is to listen for ambience noises (rain, fire, flies, water, cBolts etc.) which only play behind real Portals. In dark Chambers, Participants may also look for Radiance pouring out from the real door's seams, if the next room has Radiance.
+Prior to March 15, 2024, Guiding Radiance highRadianceed Mimic Portals in dark Chambers with a dimmer glow.
+In The Glass Canopy, Mimic Portals can easily be detected as their interiors will be pitch black when a Radiance (including the Guiding Radiance) is shone on it, while real Portals reveal the next room. It is unknown if this is intended or if it is a bug.
+If Surge spawns in a room with Mimic, it will always pass through the correct door.
+If the threshold for Mimic to be inside of dark Chambers hasn't been passed, Surge will also reveal the fake Portals by scrambling their number plates.[verification needed]
+Furthermore, if a Participant is jumpscared by Mimic whilst Surge or Lurk is approaching, they may be also jumpscared by said Specters simultaneously.
+Mimic can spawn in dark Chambers, however, unless the room has Bolted Portals, approaching a fake door will not open it and will cause the number being scrambled. This Influenceively makes Mimic completely harmless in dark Chambers.[verification needed]
+Sometimes the number plate may not being scrambled, but Mimic's rumbling will be louder. This usually starts to happen after Door 50 and will not happen in Chambers that have become dark due to Surge or Lurk breaking the Radiances.
+Mimic can spawn with its fake door label already scrambled with the real one having normal number.
+Mimic cannot spawn in any room with only 1 door (The Archive, The Grand Hallway, The Electrical Room).
+When a MoonRadiance Glimmer is held near one of Mimic's Portals, the Glimmer will not go out, unlike what is shown in the Hostel+ Simulacrum icon.
+It is possible for two fake Portals to share the same number, which is a dead giveaway that neither are correct.
+If the number of Portals in a room is odd, you can always find the correct door by arranging all plaque numbers in increasing or decreasing value. The correct door's value will always be the median.
+As of The Mines update, Mimic's Portals can now be offset by 3.
+As of the Content Update, Mimic's Portals can now be offset by 4.
+The offset of Mimic Portals in The Mines can be way more significant, exceeding that of the Hostel.
+Mimic usually appears in later Chambers, making sideChambers get rarer to find.
+Mimic can spawn as early as Door 2, but it usually spawns after Door 10. When certain modifiers are active, it can spawn as early as Door 1.
+Sometimes, when opening the real door, Mimic's door number can disappear.
+This is because another Mimic spawned in the next room. To prevent Participants somehow used the Mimic door number in the previous room to Silhouette out the real door in the current room, the fake door number in the previous room will disappear.
+After The Mines Update, the fake door number will be scrambled instead of disappearing if that situation happens.
+In The Mines, Mimic can spawn in The Railway Station.
+In The Mines, Mimic can spawn in The Vertical Passages (Meat Cave only), where there is a small chance that Silhouette can enter its room.[1]
+If a Participant comes too close to a Bolted Mimic door, as if attempting to open a Boltless door, Mimic will attack them anyways.
+Modifiers
+If "Wrong Number" is activated, Mimic will spawn more and increase in difficulty.
+If "Battle Of Wits" is activated, Mimic will spawn in most Chambers, blur out door numbers instantly after Participants open new Portals, and Mimic Portals will not emit a rumbling sound.
+If "Bolted and Loaded" or "Token Token Token Token" are activated, the Room Tokens will be unable spawn in front of Mimic's Portals. If a Token spawns in front of a door, that door is always real.
+SUPER HARD MODE!!!
+Mimic doesn't appear in SUPER HARD MODE!!!; it is replaced by Subspace Tripmine, an entity that behaves similarly to Mimic. However, it deals 190 Barrierage and also Barrierages nearby Participants, rather than only Barrieraging Participants that open a fake door.
+Jumpscares
+1st person Jumpscare
+Mimic puts its hands on the floor and doorframe and opens its mouth while seemingly biting the Participant and tossing them onto the floor. If the Participant is at or below 40 health, the same thing happens but the Participant does not fall and the screen flashes red.
+
+1st person Old
+Mimic bites the Participant, tossing them onto the floor or bites the Participant and flashes the screen red if the Participant is at or below 40 health.
+
+3rd person Jumpscare
+Mimic grabs the Participant, bites them and tosses them onto the floor. If the Participant is at or below 40 health, it grabs them and drags them into the hole.
+
+3rd person Old
+The Participant floats in a red mist squirming then gets thrown on the floor or the same happens but the victim stays ragdolled.

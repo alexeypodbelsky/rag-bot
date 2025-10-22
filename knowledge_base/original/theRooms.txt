@@ -1,0 +1,379 @@
+The Rooms is a subfloor accessed from within The Hotel with different entities and layout that can be explored during gameplay. It is based on the Roblox game "Rooms" by nicorocks5555. It is composed of 1000 office-like rooms (1001 rooms including A-000), with all entities in The Rooms being slightly modified from the original Rooms.
+
+
+Overview Overview
+Door Entry
+The Rooms can be accessed via a secret passage at Door 60 in The Hotel or by entering through the Lobby, costing 10 Stardust (or for free if using the Admin Panel). At Door 60, players will encounter a disheveled room with multiple bookshelves and a single closet, accompanied by soft, tranquil music emanating faintly from the walls. Behind the closet is a hole in the wall that leads to a maze containing a passage. Traversing the passage leads to a small room with a unique painting. When interacted with, the painting reads "This painting doesn't seem to have a title" (though its name is revealed in the game files as "Spacetime.") The room also contains a chain-link gate similar to those found in basement rooms. To open the gate, players must proceed through the next door to find the lever in The Basement (Door 61), then backtrack to the secret passage. Once there, players can use 2 Lockpicks and a Skeleton Key to unlock the door labeled "A-000." Interacting with this door starts a 15-second intermission timer (which can be skipped), after which all group members are teleported to The Rooms. Any dead group members still spectating will be automatically revived upon entering and exiting The Rooms. Entering The Rooms for the first time will give players the "Roomy" badge and, if it is the first time the player(s) enter a sub-floor, also the "Detour" badge, which grants access to The Backdoor from the Lobby.
+
+The Rooms cannot be entered when using modifiers because a shimmering red barrier appears in front of the gate, likely due to Modifiers not being supported in this floor. This is implied to be the unnamed Red Architect.
+
+Hiding Interior
+Curious Light Painting
+Spacetime Painting
+
+The first room (A-000) contains a double door behind players and a stand where players can buy a Shakelight for Gold10 Gold.
+
+Players are then forced to explore empty, isolated, and seemingly infinite amounts of office-like rooms. These rooms slowly gets foggy as players make their way through until it is pitch black at around A-150. Gold, Batteries, and Bandages can be found scattered in abundance across the building.
+
+NO MORE ROOMS NOOB
+The red barrier blocks players from entering due to Modifiers.
+
+Theroomstrueexit
+One of the exit rooms that lead back to The Hotel
+
+From A-200, there are special rooms that spawn approximately every 0-100 rooms which contains an exit door. When interacted with, all group members will be teleported back to The Hotel at The Infirmary. Living players will keep all the items they had on them, including the Shakelight (and the Starlight Jug, if they made it to A-1000). Additionally, all group members (living or spectating) will receive the Back on Track achievement. To make it to the true end of The Rooms, players must ignore all of these exits and continue all the way to A-1000.
+
+Rooms End1000
+The True End of The Rooms
+
+In A-1000, instead of a regular office space, a player will encounter the bridge previously featured in the old version of The Lobby (As of now, the bridge is replaced with stairs) surrounded by a dark void, with a glowing door at the end. Further ahead, lying on the bridge, is the Starlight Jug, an item that functions as an upgraded Starlight Bottle. Exiting through the door will return them to The Infirmary, with the Starlight Jug coming with them (if picked up). Reaching this point will also give players a hidden achievement. (Sneak peek: A-1000)
+
+ Entities
+Similar to the entities in The Hotel, most of them only serve to hinder player's progress. There are currently six (nine if counting Glitch Fragment Entities) known entities: A-60, A-90, A-120, Curious Light, Glitch and the World Lotus.
+
+Trivia Unique Entities
+A-60
+A-90
+A-120
+
+A-60
+Neutral
+Crucified
+Neutral
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Spawns in a previous room, charging through rooms and killing any players in its way similarly to Rush. Emits a glitchy crackling sound when approaching. Can't be survived with Starlight Vial but can be survived with Bottle or Starlight Jug.
+Floors
+The Hotel (Modifiers)
+The Rooms
+The Mines (Modifiers)
+Damage
+Damage 125
+ADDITIONAL INFORMATION
+Date Added
+January 28, 2023
+Creator(s)
+nicorocks5555
+SOUND FILES
+
+"Oh... the red one. I'm not too sure on what I would call it... Well, it usually attacks around room A-60, so... you could just call it A-60. I don't know."
+- Curious Light
+Overview Appearance
+A-60 takes on the appearance of a distorted, scarlet face with a wide grin, entangled in a crimson, mist-like aura. One of its mouths is covered up to some degree, possibly by the mist or its own "lip", and it has a far less visible mouth of sharp teeth hidden by its first mouth, as well as having two pairs of eyes, one pair being glaring red eyes and the secondary pair being small black dots. It emits a bright red light during its charge, accompanied by giant smiles surrounding it. When Crucifed, it turns into a whitish blue color and its white eyes disappear.
+
+Behavior Behavior
+A-60 functions similarly to Rush, speeding through The Rooms from behind and killing any player not inside a locker. It usually only spawns after door A-60 (although it can rarely spawn earlier) and abides by similar terms as to how Rush spawns, spawning if a door is opened. A-60 can only spawn when entering four specific room types (see below). All of these room types have several lockers, allowing players to hide.
+
+Due to A-60 not causing the lights to flicker, knowing when A-60 will arrive is dependent on its sound cue, meaning players need to be more attentive to audio cues once they have passed Room 60. The first audio cue it makes is a distorted crackling, almost static-like sound. The second audio cue plays once A-60 is closer; A-60 will emit a high-pitched, hissing sound, indicating when it is within close range.
+
+Due to its significantly increased speed, A-60 both moves and despawns quicker when compared to A-120. Although A-60's speed can vary and is usually determined by the curvature of the rooms before or the objects in a room, in which it has to move around.
+
+Notes
+After The Mines Update, A-60's arrival sound has been made way louder. Before The Update, A-60's arrival sound was the "Spawn Rumble" sound effect, but after The Update, the arrival sound was it's default "Distant' sound.
+This is no longer the case, as after The Content Update, A-60's arrival sound has reverted back to be using the "Spawn Rumble" sound effect.
+In the Catwalks Room and various rooms in the Hotel, players can survive A-60s attack by staying out of its sight.
+In T-shaped or Plus-shaped rooms in the Hotel it is also possible to avoid getting killed by being out of its range.
+When using the "Room for More" modifier, A-60 can spawn at the same time with Eyes, making it hard to hear due to Eyes' whispers.
+The same goes with rain, it is too loud to hear A-60 coming. Also, if the players are using the Room For More modifier, A-60 won't break the lights. This is the same case for A-120.
+As of The Hunt update, A-60 can spawn in dark rooms of the Hotel, similar to Rush.
+Although rare, A-60 can spawn before door A-060.
+With the "Room For More" modifier A-60 can be the very first entity to spawn and sometimes replace Rush.
+If a player manage to bring the Starlight Bottle to The Rooms, and drink it before A-60 attacks them, A-60 will not kill players. This is the same if a player uses the Starlight Jug. This isn't the case for the Starlight Vial. None of these work on A-120.
+Gallery Gallery
+A-60's jumpscare.
+A-60's jumpscare.
+A-60's first particle image.
+A-60's first particle image.
+A-60's second particle image.
+A-60's second particle image.
+A-60's third particle image.
+A-60's third particle image.
+A-60's animation in-game.
+A-60's animation in-game.
+"A-60"'s crucified animation in-game.
+"A-60"'s crucified animation in-game.
+A player quickly loses health and dies to A-60.
+A player quickly loses health and dies to A-60.
+The A-60 spawned by the devs when trolling KreekCraft.
+The A-60 spawned by the devs when trolling KreekCraft.
+Ditto but without color, and flipped.
+Ditto but without color, and flipped.
+A-60's original face (unedited).
+A-60's original face (unedited).
+Table of Every particle images of A-60.
+Table of Every particle images of A-60.
+Trivia Trivia
+A-60 has appeared prior to The Rooms being added, as a troll entity during one of KreekCraft's streams.
+This makes A-60 the only entity in The Rooms to make an appearance before being added to the game.
+A-60 used to be the fastest entity in DOORS, until the Haunt update, where Ambush received a speed buff, making Ambush the fastest.
+If A-90 spawns, A-60 gets significantly slower, to the point of being much closer to Rush's speed, although a bit faster.
+A-60 moves at around 125 studs per second (75 studs per second if A-90 spawns).[citation needed]
+Any room where A-60 spawns will always have lockers, meaning opening rooms without lockers is considered safe and players won't need to worry about A-60.
+However, there is currently a bug which makes A-60 sometimes spawn in a room with an exit door, which can lead to unfair deaths.
+The same can be said when reviving through a Lotus in The Rooms, allowing A-60 to be able to spawn right after opening the door whose room is adjacent to the Lotus Flower's, causing unfair deaths and the potential loss of that Lotus checkpoint.
+A-120 is similar to A-60, though the room before opening the room with A-120 will always have lockers, and the next room may not.
+A-60 is a direct reference to nicorocks5555's Rooms entity with the same name - A-60, sharing near identical features.
+The only differing trait is that A-60 within DOORS is a static image, meanwhile A-60 in nicorocks5555's Rooms is a shifting, actively changing image.
+Another differing trait is that A-60 in nicorocks5555's Rooms can follow a player but stops moving entirely if a player happens to enter a locker, unlike the A-60 in DOORS, who will navigate The Rooms but won't open the next door, just like Rush.
+Although A-60 in The Rooms was previously able to open doors.
+Sometimes inside The Rooms, players may hear ambient noise similar to A-60's approaching sound, starting up and then fading away quickly.
+This does not mean A-60 is coming, and it is likely there to fool players. It should be noted that A-60's sound will immediately be heard upon opening a door if it spawns, so players can quickly identify the mimic sounds if they start playing without opening a door. However, the sound may also play when opening a door, so it is not a foolproof way to be certain that the noise is not A-60.
+The third particle image of A-60 resembles Rooms A-60's deleted face, the fourth face.
+A-60 can spawn as early as Room A-001, however, it is very rare. An example of a seed with an A-60 spawning at Room A-001 is 22360587.
+The fact that the entrance to The Rooms spawns on Door 60 may be a reference to A-60. However, it could just be a coincidence.
+A-60's original fourth face has been deleted by Roblox due to the appearance of blood and gore.
+A-60 has a similar jumpscare to A-120.
+A-60's crucifix achievement is the only achievement with a description that has no lowercase letters.
+Achievement Related achievements
+Red Mist
+Red Mist
+DONT ASK WHO A-60 IS
+Use a Crucifix against A-60.
+
+Modifiers Modifier(s)
+Room For More
+"All entities from The Rooms have a chance to attack."
+Requires 'Back on Track'
+Cannot be used with: 'Stop Right There'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +20%
+
+Advertisement
+Non-Exclusive Entities
+Curious Light - A death messenger to the player after dying in sub-floors.
+Glitch - Acts as a failsafe and attacks players that are lagging too far back from the rest of the team when in multiplayer elevator.
+Glitch Fragment Entities - Glitched variations of Screech, Rush and Ambush that appear when interacting with a Glitch Fragment.
+World Lotus - Appears in a special room if players are reborn with a Lotus.
+Door Doors
+The Rooms has only three main doors in its subfloor, all being very similar to one another. There is also a fourth door that only serves as a decoration.
+
+Entrance Door (A-000)
+Handleless Doors
+Exit Doors
+Locked Metal Door
+At Door 60 in The Hotel, there is a secret door labeled “A-000” which is the door that leads to The Rooms, this door is guarded by two chains and a skeleton key lock, requiring players to get two lockpicks and a skeleton key.
+
+The design consists of a regular Rooms Door, but with a skeleton key lock on it, two chains requiring lockpicks to unlock, and a label labeled “A-000”. When opening the door, it makes a noise similar to that of a door creaking slowly.
+
+
+Notes
+Players can only return to the main game (or The Hotel) if they die, leave the game, or reach an exit.
+Retrying will automatically send players back to the Elevator.
+If you die with one of your teammates still alive, you will respawn upon your teammate reaching an exit.
+Alike all other times you revive for exiting and entering different floors, you will not have full health and will have to regain your health via bandages.
+Like The Greenhouse, The Electrical Room, The Backdoor, The Outdoors and Doors 190-200, players are not able to use Revives in The Rooms, unless a player reaches a checkpoint or the end of The Rooms as players spectating in The Rooms will be revived upon exiting The Rooms and receive the "Back on Track" achievement (which is received when a player exits The Rooms).
+Players spectating will be revived upon entering or exiting The Rooms.
+Alike all other times you revive for exiting and entering different floors, you will not have full health and will have to regain your health via bandages.
+The Crucifix and Moonlight Candle are useless inside The Rooms; equipping them gives players the message "Your [item] feels lighter than normal..."
+However, as of "The Content Update", when using Modifiers for The Hotel or The Mines, the Crucifix is able to banish all three Rooms entities, and the Moonlight Candle is able to detect A-60 and A-120 if encountered outside The Rooms by using modifiers; with associated Crucifix badges also being attainable.
+The Candle will also glow more of a yellowish-orange color, hinting that Guiding Light is not present and instead Curious Light.
+The Candle will also not produce any light despite being lit. This may be a bug.
+Bandages can spawn at any point in The Rooms.
+If a player takes damage from A-90 without dying, then gets six bandages to get back to full health, they can survive another A-90 attack.
+It is possible to obtain the effect of the Green Herb when aiming to progress through The Rooms. Since opening the secret entrance to The Rooms and the process of obtaining a Green Herb both require a Skeleton Key, you need at least 1 Skeleton Key with full durability to unlock both Skeleton Doors.
+The herb effect used to not be able to be brought into The Rooms, but after a few videos on YouTube showed that it was possible, the developers added it back in.[citation needed]
+It can be useful entering The Rooms if players are aiming to find Gold, as it is found in larger quantities there, meaning exiting The Rooms with a supply of gold can result in a higher amount of Knobs.
+The maximum amount of Knobs players can get is from 10,000 gold to 500 Knobs max which may take players around 40 minutes of collecting gold to reach this.
+Hide is not present in The Rooms, so players can hide for as long as they wish. This is important to note when dealing with A-120 due to its ability to rush backwards occasionally, meaning that players will not have to hop in and out of lockers repeatedly, in a similar manner to how Ambush is dealt with.
+Exit doors will always play Curious Light's ambience (the same ambient sound heard coming from Door A-000), so players will always know whenever it is nearby, due to being able to hear it in the room prior to the exit.
+A-90 gives off a very subtle static noise before attacking a player, similar sounds to A-60.
+A-90 has a chance to spawn at any time, even at the lobby, or at A-1000[3]. It is recommended to use only the W-A-S-D keys to navigate through The Rooms, so when A-90 spawns, players can easily let go of their keyboard, increasing their survival rate.
+Even though the Shakelight is infinite, it is recommended to use a normal flashlight whenever possible and only use the Shakelight when out of batteries. This is because batteries are plentiful, and because the normal flashlight is brighter and doesn't need to be constantly recharged (which can provoke A-90).
+When A-120 has spawned, players seeing it in their line of sight can sometimes cause it to turn invisible as one of its usual abilities for a split second before killing players in the process.
+Activating any modifiers prevents players from accessing the Rooms, by blocking the entrance to the rooms with a red barrier.
+This is because most modifiers aren't compatible.[4]
+The red barrier is one of the only physical manifestations of the Unnamed Red Architect responsible for the creation of the modifiers.
+Attempting to enter The Rooms with the Admin Panel will push you off, activating the lever to open the gate will activate the button to enter The Rooms, but it will be defunct and will not send you there.[5]
+It's possible to survive A-60 and A-120 without hiding in lockers. However, to do this, it requires two or more players: One to avoid entities by being teleported by Glitch, the other to open doors and hide from the entities.[6]
+Glitch is not required to survive A-60 without hiding if a player goes quickly in the next room.
+Using this it is possible to complete the entire A-1000 without hiding.
+The Rooms are one of the floors where players can stay active in a single room as long as they want to in Singleplayer because Dread, Hide and Haste do not exist here.[7]
+Door Special Locations
+Guaranteed Rooms
+A-000, Lobby
+A-1000, The End of the Rooms
+Multiple rooms are seen throughout the 1000 doors that are different and unique to most rooms (such as regular hallways, large locker rooms, kitchens, and storage rooms).
+
+A000
+The first room of the rooms, A-000. This room contains the Shakelight dispenser.
+
+Lobby (A-000)
+The Lobby (not to be confused with The Hotel's Lobby) is the first room in this subfloor and a room that is mandatory to appear in any run. The walls are white, like almost all rooms in this floor, and the carpet is red. On the ceiling is a large skylight, revealing it to be daytime outside. The Lobby simply contains a metallic elevator door at the front of the room, with two black couches on the side. near the one to the left is a Shakelight dispenser. In the middle of the room is a stone doorway with hints of Curious Light all over it. Lastly, at the back of the room is the door to A-001.
+
+ExitRooms200
+A generated room with an exit leading to The Hotel.
+
+Exit Rooms
+The Exit Rooms appear after A-200. The room has a wide pillar at the entrance to it that players can simply walk around to fully enter the room. Aside from what is in the room, everything looks normal, with white walls and a blue carpet. To the left of the room is a broken water dispenser. At the end of the room, as always, is the next door. To the right is a tipped over potted plant and a diagonal table, along with a large hole in the wall. Through the hole, it still has the white walls and blue carpet, although it is slightly darker. at the end of this extra room is a door labelled "EXIT", with Curious Light lighting it up (Currently, Curious Light won't actually light up these EXIT doors and the only thing players will be able to see are its sparkles; no longer the case). Entering it brings players to The Hotel's Infirmary.
+
+After The Mines update, Exit Rooms can now spawn A-60 and A-120 despite having no lockers within them. To survive A-60, players can hide in the lockers of previous rooms or hide behind the cracked wall which contain exit door. With A-120, players can also hide in plain sight but it is more difficult than with A-60. Players need to hide behind the cracked wall, but it must be without crouching. They also need to face the cracked wall (facing towards the main room) but the players need to walk straight into the wall. Alternatively, players can find hiding spots in the previous room, but if there aren't any, using speed boosting items like Vitamins, Starlight Items, or the Gween Soda is recommended in order to make it back multiple rooms.
+
+
+Advertisement
+A-1000
+At the end of The Rooms, a large black area can be seen, with a bridge that players can walk on. The item at the middle of the bridge is the Starlight Jug. (which replaces the NVCS-3000 that previously appeared in this position, including any copies stored in Rifts). If there are multiple players, everyone can pick up the item at the end. It can also be picked up multiple times, so if the player is damaged, it is recommended to take the Starlight Jug, drink it to heal, drop it and grab a new one, so that players can re-enter the Hotel with full health and a full jug.
+
+At the end of the bridge there is an unlabeled door, highlighted by Curious Light. Around the bridge there are multiple white doorways that are too far for players to reach. Entering the unlabeled door brings players to The Hotel's Infirmary. A-1000 is mandatory to appear in any run. Percentages indicate that the average time to reach A-1000 is about 3 hours and 15 minutes.
+
+Standard Rooms
+Locker Room: a room filled with several lockers, although only 5 of them are able to be entered. The rest of the Lockers are broken and cannot be entered and is the only room that features them. A-60 and A-120 can spawn when entering this room.
+Three-Locker Room: a room with 3 lockers lined up against each other on the far side of the room. A-60 and A-120 cannot spawn when entering this room.
+Catwalk Rooms: larger regular rooms. The entrance to them leads players onto a metal catwalk, with two lockers on each side. There's a long path that brings a player to the next door. To the left and right of the catwalk is two flights of stairs, leading to the bottom of the room. The bottom contains another locker against a wall, and an office cubicle against the opposite wall. A-60 and A-120 can spawn when entering this room.
+Projector Room, also known as Meeting Room: a room with 2 Lockers and several fallen chairs around a table with a projector on top. There is a board hung from the wall for the projector and a whiteboard next to it. There is a glass table in front of the wallboard and glass walls surrounding the furniture. There are a couple of smaller tables to the right side of the room. One locker is to the left of the entrance while the second one is to the right of the exit. A-60 and A-120 can spawn when entering this room.
+L-Shaped Room: a room shaped like an L, It has a table with a plant on it placed at the front of the room. The L can be shaped backwards sometimes. There are no lockers in this room. A-60 and A-120 cannot spawn when entering this room.
+E-Shaped Room: a room shaped like the letter E, or similar to an M or W depending on players perspective. It has one locker in the middle of the "E". The room does not contain any decorations. Despite having a locker, A-60 and A-120 cannot spawn when entering this room.
+Plant Room: a room that is a straight path. A table and plant are to one side of the room. A-60 and A-120 cannot spawn when entering this room.
+Storage Room: a room with 3 pillars in the center. There are 2 Lockers that can be near the entrance or near the exit. There are a bunch of tables and shelves with plants on them. There are 3 tables upside down on the left side, and 3 tables stacked on each other on the right side. Despite having lockers, A-60 and A-120 cannot spawn when entering this room.
+Box Room a room with a few shelves and tables that players must pass by. There are no lockers in this room. A-60 and A-120 cannot spawn when entering this room.
+Break Room, also known as Kitchen: a room with a white Locker that represents a fridge. In the far middle, there are three fallen chairs around a table. There are lots of decorations on the counters such as the toaster, coffee maker, and microwave. Despite having a locker, A-60 and A-120 cannot spawn when entering this room.
+Reference Room: a room with 2 tables and a cubicle. The desk in the cubicle has a monitor, a cup of hot chocolate, a purple keycard and a nameplate with a randomly selected name written on it. The table by the entrance has 2 plants, and the table by next door has 1 plant and a few colored boxes. A-60 and A-120 cannot spawn when entering this room.
+Four-locker Room: a room that has four Lockers on all corners. There is no decoration in this room. Despite having several lockers A-60 and A-120 cannot spawn when entering this room.
+Door Walkthrough
+Entering The Rooms
+Before players can enter The Rooms, they will need to get two lockpicks and a skeleton key before reaching Door 61. The players can get two lockpicks from the Pre-Run Shop for 50 Knobs and the skeleton key from Jeff's Shop for 300 Gold.
+
+After reaching Door 61, locate the lever in The Basement and return to the previous room. Behind some broken closets is a hidden passage that leads to The Rooms entrance. The players can use the two lockpicks and skeleton key on The A-000 Door to unlock to enter The Rooms.
+
+Preparation
+For players who are going to The Rooms, either for the first time or their next, the items recommended are these:
+
+Flashlight
+Batteries are common, and a flashlight will provide a decent amount of light.
+Shakelight
+For when a player's Flashlight runs out of Batteries, or when they are early into the run and using the normal flashlight is currently a waste of power. Players will need at least 10 Gold for the Shakelight.
+Lighter
+For the candle, also when a player's flashlight runs out of battery, or if players want a less direct light source.
+Candle/Moonlight Candle
+For when players want a less direct light source, with more range than the Lighter. but note that the Moonlight Candle might not work in The Rooms.
+Bandage Pack
+So players can heal quickly from a A-90 attack, however this requires the Rift to use.
+Vitamins/Any Starlight Item
+For when Players need speed like when A-60 spawns but there are no lockers nearby, plus starlight items will provide health or overheal if the Player's health is full.
+Be warned that a single run of A-1000 can take 2 hours minimum to complete. The Players have the time and patience to complete this challenge before attempting it.
+
+If you aren't going for A-1000, going for a normal exit can take 20 minutes to complete, however you'll only earn the Back On Track badge for this. Exit Rooms start spawning after A-200.
+If you go for A-1000 but change your mind partway through, you can still locate an Exit Room and leave early.
+
+Advertisement
+The Rooms
+Upon entering The Rooms, you should buy the Shakelight as a back-up flashlight. Until A-60 (or earlier), you can collect gold and fill up your flashlight. The Rooms get to its maximum darkness at A-150.
+
+A-60 and A-120
+
+Remember, A-60 and A-120 can only spawn on 4 different room types. For two of those room types, there is a locker to the right and left, and for the broken locker room there are plenty of working lockers in some spots along the walls. The only anomaly is the three lockers at the end room. For this room you will have to run across the room to one of the lockers. A-90 is difficult here, and due to A-60's speed, at least 85% of the times you will reach the lockers right before A-60 passes through this room.
+
+Briefly describing, A-60 produces a very loud static sound. It is heard immediately upon opening a door where it spawns. Players should get to the nearest locker and stay in it until it passes through.
+
+A-120 is quieter but still notable. It is heard immediately upon opening a door and consists of static and drumming sounds, and they take longer to arrive than A-60, allowing players to easily find a hiding place. Players should wait in the locker until the drumming completely stops as A-120 can rebound. However, unlike A-60, players should note that A-120 arrives from the front, so they should not try going forward into the next room.
+
+A-90
+
+A-90 is considered by most players the main threat of The Rooms, and it should be considered the top priority. A-90 freezes all other active entities, so players should attempt eluding the attack before dealing with A-60 or A-120. It most commonly spawns alongside another entity. Players should stop any inputs including camera movements, and getting inside lockers, or A-90 will attack and deal 90 damage.
+
+Modifiers Related Modifiers
+Stop Right There
+"A-90 from The Rooms has a chance to attack."
+Requires 'Back on Track'
+Cannot be used with: 'Room For More'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +15%
+Room For More
+"All entities from The Rooms have a chance to attack."
+Requires 'Back on Track'
+Cannot be used with: 'Stop Right There'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +20%
+
+Advertisement
+Trivia Trivia
+Behind the metal door in the first room is a dark hallway.
+Dread cannot spawn in The Rooms.
+Using an Alarm Clock in The Rooms reveals that the time is stuck at 12 o'clock, with the hands of the clock not moving.
+Each Room is about 50 studs long (this is a rough estimate); therefore, upon reaching A-1000, players are over 50,000 studs away from the origin, causing floating point issues. This results in their character shaking and overall small glitchy effects upon reaching the end.
+This makes The Rooms approximately 14 kilometers long (or 8.6 miles).
+Another thing to note is that The Rooms does not have any corner rooms that can generate, as it is all straight rooms.
+After the SUPER HARD MODE!!! Update, if a player escapes The Rooms, they will be granted 100 knobs.
+This is the first secret subfloor to have been released.
+This has been known to be the first subfloor of DOORS (second being The Backdoor).
+When exiting The Rooms, the game counts it as a floor, with a parenthesized "2" next to it.
+Most of the random names displayed in the nameplates found in the office cubicles are most likely references:
+'Nico' referencing Nicorocks5555, the original creator of Rooms.
+'Bob' being a reference to one of the nameplates in the original Rooms.[8]
+'Bob' is also a character created by Nicorocks5555. It resembles the classic Roblox default skin, but instead it has a gray torso and brown legs.
+'Bob' is also the name of the skeleton in Jeff's Shop
+'Jasper' referencing jasper_creations, an animator for DOORS.
+'Thump' referencing one of the people who helped out with DOORS, ItsThump.
+'Look Behind You' is a reference to the hidden Developer Console and Lobby secret.
+'Saul' may be a joke reference to the show Better Call Saul.
+The purple keycard found on some desks is possibly a reference to the one found in 'Bob is missing'.
+The Rooms is an official collaboration with Nicorocks5555.[9]
+Entering The Rooms in SUPER HARD MODE, they will get teleported instead to Survive and Kill the Killers in Area 51!!!. This is confirmed to be intentional by Redibles.[10]
+The reason this happens is because the developers had no support to blocking off subfloors.
+Each of The Rooms hostile entities names are increments of 30 with an 'A-' in front of the number (for example: A-60; A-90; and A-120). However, there is no A-30 entity.
+Glitch is the only entity in The Rooms that debuted before The Rooms' release, unless you include the troll A-60 that was on Kreekcraft's stream
+Unlike the other Rooms Entities (excluding Curious Light), Glitch is not exclusive to The Rooms or modifiers related to The Rooms and can be found in the main game.
+When entering the The Rooms, there is the sound of wind blowing and rustling. This is a reference to the original Rooms game playing A-200's "whoosh" noise as the server starts.
+All Rooms entities were planned to be given original names rather than room numbers.
+A-60 and A-200 (A-120 in DOORS) have been officially given names by Nicorocks5555, being the Multi Monster and the Happy Scribble respectively. These names, however, are not referenced in either Rooms or DOORS. A-90 is the only entity with no known original name as this entity is exclusive to the DOORS version of The Rooms.[11]
+Though A-90 was not given an official name by nicorocks5555, the fan-made Roblox game "Rooms & Doors", a more challenging Rooms remake that also took some inspiration from DOORS, refers to its own version of A-90 as "Paralysis".
+Behind the metal doors at the lobby of The Rooms seems to be a dark hallway that leads to nowhere.[12]
+It's possible that a cutscene might have been planned sometime during development of the Hotel+ update but was eventually scrapped for unknown reasons, probably because of balancing reasons.
+This possibly scrapped cutscene was eventually replaced with the animation of breaking open the A-000 door.
+A-1000 is filled with blue triangular particles and purple fog, visually similar to those found emitted by the Rift.
+These particles are called "particles2", "particles4", and "clouds"
+A-120 is the only entity that will move to every player before sweeping the hallways. This may be a reference to how the AI of the monsters in the original game works.
+Sometimes, all the hostile entities except for Glitch can have a chance of appearing before the respective room they're named after.
+All rooms (apart from A-1000) originate from the original Rooms by Nico.
+The room where the exit can be found may originate from an unused room from Rooms, titled "templateroom".
+The NVCS-3000 was originally added to The Rooms as a joke and is an unfinished item; the developers didn't expect people to actually use it or want to get it. It got replaced by the Starlight Jug.
+The exit door in A-1000 is an unlabelled A-1001 door.
+The first exit door spawns at around A-200, and from this point an exit appears roughly every 50 - 100 rooms, all the way to A-1000.
+It takes around 1-2 hours to reach A-1000, and around 20 minutes to reach A-200 (the first exit).
+The Rooms has an ambient sound that plays throughout it, which can be described as a low hum or buzz. It's very quiet, however.
+The ambience heard in The Rooms comes from this audio. The in-game version is slowed down to a pitch of 0.1.
+If a player gets to A-000 in a group game, all of their group members will be revived upon teleportation to The Rooms.
+This can also be said the other way around, If a Player reaches a Checkpoint or A-1000.
+The Rooms might get a small addition in the future.[13]
+LSplash would still like to do an overhaul of The Rooms due to the time it takes to reach A-1000, plus the rooms has very repetitive and dull gameplay, though LSPLASH is afraid that people may dislike the change as it would alter the exclusivity of the badge.[14][15]
+Additionally, the "In Plain Sight" achievement cannot be obtained by hiding from A-60 and A-120 without a hiding spot in The Hotel. This is likely a bug, but LSplash has yet to confirm or deny this theory.
+The sound origin of both A-60 and A-120's near audio is this. (Speed of 0.2)
+Additionally, A-120's sound sped up sounds as though it is a drum'ish instrument, revealed to be timpani sounds slowed down to 0.3.
+After The Hunt Update, the bridge and the exit door in A-1000 is much darker than before.
+The Rooms does not contain any Interactables.
+When exiting The Rooms, it plays the same animation as when exiting The Backdoor.
+Before The Mines Update, bandages were extremely rare to find in The Rooms to the point where almost every single run does not spawn a single one.
+This was possibly because A-90 is the only entity that does not instantly kill players assuming they were on full HP.
+As of The Mines update, bandages spawn normally just like in The Hotel and The Mines
+After The Mines update, A-60's static sound was made louder, making it easier to know when it spawns.
+Dying while exiting The Rooms will result in being respawned normally in The Hotel, but without any items. Interestingly, you keep your gold.
+Glitch Fragments, and thus RNIUSHCg==, AR0xMBUSH and SCJVEREECH can spawn in the Rooms.
+Due to this, if playing with another friend, players can force themselves to be attacked by Glitch several times by falling behind to force a high amount of Glitch Fragments to spawn. As surviving an encounter with the entity spawned by the fragment rewards the player with different buffs, some which are permanent for a run, this can be used to help make The Rooms easier to progress through.
+The achievement that you get when crucifying A-90 is likely a reference to one of Sans' lines from Undertale.
+In The Rooms, as of The Great Outdoors Update, Gold Appears to Have a higher chance to spawn the further you are in the rooms, the first spawn chance increase happening after door A-60
+
+Advertisement
+Bugs Bugs
+When exiting the Rooms, either from an exit room or respawning, a bug where walking up stairs is extremely slow can occur and standing still will push you backwards slowly.
+When opening the door to an exit room, A-60 or A-120 has a chance to spawn, regardless of the adjacent rooms.
+Sometimes, when exiting The Rooms for the first time, players will not receive the "Back on Track" achievement.
+Another possible quirk that happens when entering The Rooms for the first time is that players will not receive the "Roomy" badge.
+If a player is playing on low graphics, A-60's glow may remain in rooms until lighting updates.
+This also applies to "Room For More" modifier.
+There is an extremely rare chance A-60 and A-120 can spawn in a room they normally don't spawn in.
+It is unknown how this occurs but it has happened in grouped runs when somebody dies in The Rooms for any reason.
+The Large Basement could spawn before the room containing the door that leads to The Rooms. This was likely a bug.
+It was also possible for the Large Basement to spawn one or more doors away, and as its lever only activates the gate if the room is adjacent to it, The Rooms may be impossible to enter in that run due to the entrance not being accessible.
+Two A-90's can spawn mere milliseconds from each other, causing visual bugs.
+This is because A-90 can spawn based on two different conditions. It can spawn at random times, and it can also spawn alongside other entities.
+The "A-1000" achievement is awarded once A-999 is opened rather than A-1000 itself.
+This is likely because the A-1000 room generates upon opening A-999.
+Sometimes when exiting a locker, a player will glitch slightly into the floor on top of the locker, which can be dangerous if A-90 spawns.
+There is a bug where sometimes the lockers, Shakelight dispenser, and possibly the Starlight Jug won't load in and have no collision, making them effectively invisible. Although you can still see and interact with the prompt.
+You can still hide in the lockers and survive A-60 and A-120, although you can't see the lockers making it much more difficult.
+You can still pick up the Shakelight and Starlight Jug.
+You will be able to use the Admin Panel in The Rooms, however before The Great Outdoors Update you weren't able to use it in The Rooms.
+After The Mines Update, when players exit The Rooms, sometimes they can't continue at Door 88 due to rooms overlapping.
+This was fixed later.
+When in the intermission when exiting The Rooms, if A-120 spawns, they can still kill the player. When returning to the Hotel, they will have lost any items that that they've had before exiting The Rooms. Their health will be set to 0 (or 1) but they will still be able to play the game as normal.

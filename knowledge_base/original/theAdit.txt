@@ -1,0 +1,12 @@
+The Adit, also known as Door 100.5, is the starting area and first room players encounter when entering The Mines. It appears as the first definite room even before The Shafts.
+
+
+Overview Overview
+The Adit features a seemingly rusted minecart sits on wooden tracks, hinting that this room was once part of a functional mining operation. It contains a generator which has two missing fuses, and toolboxes and shelves scattered around. You will need to find the two missing fuses to progress to the next room. Dread takes extremely long to spawn here, so you can treat this as a "preparation" room or just a rest room before the vast amount of rooms ahead.
+
+If a run is continued from The Hotel, all dead players who are still spectating will be revived upon entry.
+
+Door Gameplay
+In terms of gameplay, The Adit serves as a crucial area for players to familiarize themselves with the basic mechanics of The Mines. It's the first room you enter in The Mines and also the first generator room you encounter.
+
+To complete The Adit, players must gather two fuses that are randomly generated within the item lockers/drawers/and or toolboxes and place them in the generator before walking up to the gate and clicking the button. It works like The Reception in The Hotel where you had to use a key to progress.

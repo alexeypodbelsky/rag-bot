@@ -1,0 +1,23 @@
+The Grand Hallway, (also known as The Grand Corridor) is a room in the Hotel. Its main purpose is being Seek's spawn location and being the start of its chase, as well as the rooms that follow during the chase.
+
+
+
+Overview Overview
+It is a long and large corridor with chandeliers, a long carpet, wall-mounted lamps and large windows on either side of the walls. These corridors can spawn naturally throughout gameplay and are most common before Room 50. The Grand Hallway can spawn with various containers, wardrobes and other miscellaneous furniture.
+
+The player is guaranteed to encounter at least three Grand Hallways throughout Floor 1; these rooms act as the start and end of Seek's first and second evade sequences. The first Grand Hallway will be depicted as normal with no variation, while the first room of the first Seek sequence is a modified Grand Hallway that has furniture tipping over and sliding around, and the last Grand Hallway will have black hands coming from either side of the walls, fallen chandeliers and damaged furniture littered around that the player has to avoid.
+
+The room also contains two types of circular corridors. One contains a solid wall, whilst another contains furniture that blocks the middle of the room. Players will have to run around the circular room to find the next door. It can either spawn on the left, right, or directly ahead. The solid wall variant can also spawn in random room generation outside the Seek chase.
+
+Seek chase
+Once a player reaches the end of the hallway, a cutscene plays where Seek emerges from a goo and starts running, where all players will be teleported to the end of the hallway, where they have to survive the attack.
+
+For more information, see Seek
+
+Trivia Trivia
+The Grand Hallway usually spawns at the door before The Courtyard (Door 88).
+This doesn't occur anymore as of The Hunt update.
+The Grand Hallway might spawn in Seek's crescendo.
+There are also some rooms that have a long hallway but they are not the Grand Hallway.
+It's possible to get variations of The Grand Hallway right after a Seek chase or right before one.
+Void's achievement icon is actually The Grand Hallway, albeit with amplified darkness.

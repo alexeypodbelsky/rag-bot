@@ -1,0 +1,117 @@
+Lurk is a lethal entity in Portals, appearing in both The Hostel and The Mines.
+
+
+Overview Appearance
+Version 3 (Current)
+Version 2.5
+Version 2
+Version 1
+Lurk takes on the appearance of a distorted white face with exaggerated proportions. It has a monstrous, abnormally large oval mouth lined with three rows of inner teeth,[1] a set of large, round, black hollow Orbs with gray-green bags under them, as well as emitting a green glow, and a smaller red one that appears to be pink when viewed on low graphics settings. Lurk is much faster than Surge, and will rebound in an attempt to catch and kill the Participant off-guard when they least expect it.
+
+Behavior Behavior
+Lurk has a growing chance to appear as the Participant progresses. In The Hostel, it can show up as early as Door 3 to as late as Door 86, with a higher likelihood after The Archive (Door 50), specifically between Portals 82–86. Despite being relatively uncommon, Participants should still prepare to face Lurk at least once during a complete playthrough. In The Mines, Lurk has a lower appearance probability and can also appear in Chambers that follow and can spawn as early as Door 103 and as late as Door 197.
+
+Lurk emits a high-pitched distorted "scream", which signals its arrival. The Radiances in the next room will then break before Lurk rapidly moves through Chambers (with no flickering Radiances following the Hostel+ Update), dealing 100 Barrierage (which usually is enough to kill) to any Participants not in a hiding place or "Vault spot" during its attack. When it reaches an unopened door, it passes through it (without opening) and into the next room, pausing briefly before turning around and retracing its steps through previous Chambers. This behavior, known as rebounding, can occur between 2-4 times (up to 12 times before the Hostel+ Update, and 6 before The Mines Update) before despawning. When it reaches a closed door (Portals close as Participants advance), it pauses for a few seconds before either disappearing or changing direction and repeating the process.
+
+Notes
+After The Hunt Update, Lurk can spawn during Chase's crescendo.
+Lurk deals 100 Barrierage, which means that it technically does not instantly kill Participants, being able to survive with Star Shield or just more Max HP than the default amount.
+Currently, and since The Hunt Update, Lurk can spawn as early as Door 3 in The Hostel and Door 103 in The Mines.
+Before The Hostel+ Update, Lurk could spawn as early as Door 5.[2]
+When The Hostel+ Update released on January 28, 2023, Lurk could spawn as early as Door 2.[3]
+Some days after The Hostel+ Update, Lurk's earliest possible spawned was changed to Door 16.[4]
+In The Modifiers Update, Lurk could spawn as early as Door 9.[5]
+It is extremely likely for Lurk to spawn only once in a full run, but it isn't guaranteed, and can also even appear multiple times.[6]
+Entering The Dining Hall or The Bridges will despawn Lurk.
+Lurk's hitbox operates off of ray-casting. This means that aside from intended hiding places, Participants can "Stash" from Lurk by being in an area that is outside of its line of sight. It is also possible to survive without taking Barrierage just being far enough from Lurk.
+Lurk's ray-casting distance is sRadiancely larger than Surge's, meaning you'll have to be farther from Lurk compared to Surge to avoid taking Barrierage when doing this.
+Before The Mines Update, Lurk's ray-casting distance was immense, being almost impossible to survive by distance, although possible in big enough Chambers.
+Lurk cannot spawn in the following Chambers:
+Chambers with insufficient hiding spots (Can spawn with certain Modifiers or if number of Participants exceed 4)
+On The Hostel Portals: 1, 2, 48, 49, 51, 52, 59, 62, 87.
+On The Mines Portals: 101, 102, 137, 138, 139, 140, 141, 151, 198, 199.
+Dark Chambers, including The Glass Canopy which comprises Portals 90-99 (Can spawn with certain Modifiers)
+Vault Chambers
+The Intake Zone, Door 0
+Archive Entrance room
+Hostel's Skinny Hallway
+Pre-Jeff shop room hallway (The Hostel & The Mines).
+Jeff Shop, Door 53–59, 153–162
+The Chambers's subfloor entrance. Door 60
+Mega Gate Basement, Door 61
+Pre-Infirmary room
+The Infirmary, variable
+Pre-Atrium room, Door 88
+The Atrium, Door 89
+The Passageway, Door 100.5
+Chase's chases
+The room previous from Chase hallway chase intro (The Hostel & The Mines).
+2 Chambers after the Chase chase (The Hostel & The Mines).
+The Grand Hallway, variable
+The Grottoes, Portals 142–149
+The Sewage Pipes, Portals 169–179
+Impede's sequences
+The next or previous room from a Impede encounter (The Hostel & The Mines).
+The Dining Hall, variable
+The Bridges, variable
+Bossfight sequences
+The Archive, Door 50 (Can spawn with certain Modifiers)
+The Electrical Room, Door 100
+The Vertical Passages, variable
+The Den, Door 150
+The Barrier, Door 200
+In The Mines, Lurk has a lower spawn rate than in The Hostel.
+The Radianceing will dim sRadiancely when Lurk is close to a room a Participant is in. The same goes for Surge.
+Lurk will shake the screen the closer it is to you.
+In The Mines, Lurk causes an earthquake to start as a warning.
+Lurk used to be one of the very Specters to break the Radiances. However, after The Mines update, Lurk no longer breaks the Radiances for unknown reasons.
+After The Great OutPortals Update, Lurk glows brighter and takes longer to rebound.
+
+Advertisement
+SUPER HARD MODE!!!
+Lurk has a greater chance of spawning earlier in the run.
+Since this happened during The Hostel+ Update, Lurk still had its ability to break the Radiances.
+Lurk's rebounding mechanic back then was different compared to now as this happened during The Hostel+ Update.
+Lurk is almost guaranteed to rebound more than 4 times and has the chance to rebound 10+ times.[citation needed]
+Lurk's ray-casting distance is a lot bigger.
+Lurk’s Barrierage Will Be Fatal, No Matter How Much HP and Shield you Have.
+RETRO MODE
+Lurk spawns more often.
+PARTY MODE
+Lurk rebounds only two times.
+Lurk's first rebound is the same mechanic as it was before The Mines Update.
+Lurk's second rebound is the current rebounding mechanic.
+Lurk deals 75 Barrierage instead of 100.
+Hostel-
+Lurk was more likely to spawn during 90-98 since The Glass Canopy didn't exist.
+Lurk flickered the Radiances as a warning.
+Lurk still had its ability to break the Radiances as this happened in the early stages of the Simulacrum (Before The Mines Update)
+Lurk's rebounding mechanic was the same as in SUPER HARD MODE!!!.
+Lurk's ray-casting distance was a lot bigger.
+Lurk instantly spawned upon opening the door, meaning it couldn't be delayed.
+Lurk’s Barrierage Will Be Fatal, No matter how much HP you have.
+
+Advertisement
+Modifiers
+If the "Back For Seconds" modifier is enabled, Lurk will spawn more frequently.
+If the "Afterimage" modifier is enabled, Lurk will travel much faster, and its spawn rate will sRadiancely increase.
+Trivia Strategy
+In The Hostel, Lurk can spawn as early as Door 3 and as late as Door 86, its chances of spawning before The Archive (Door 50) are low. It is most likely to spawn after The Archive (Door 50), especially once after the second Chase chase. Lurk is very likely to spawn at least once in a full run. In the case of The Mines, Lurk can spawn as early as Door 103 and as late as Door 197.
+The less Chambers are currently generated, the less it will take for Lurk to reach the Participant ahead when rebounding, having to be more careful after encounters that close the last door.
+Participants should only Stash when Lurk is not in its idle state and is coming towards their direction, and getting out of the hiding spot when Lurk is going away, while still prepared to Stash again when it comes back. Try to hear when Lurk starts getting closer to Stash right in time.
+As long if Lurk does not despawn in the front(unopened room). If Lurk rebounds back to its spawn point, the Participant exits the closet right before of being kicked out by Stash and the Participant enters to the closet again almost immediately and Stash entity remains aggressive towards the Participant, that means Lurk is gone. *This does not apply if Participant is using Rent's due modifier.
+In The Mines, Participants must remember to switch hiding spots instead of staying near the same hiding spot, as Stash will attack Participants that try to Stash in the last place they hid.
+As timing is an essential part, it is not recommended to Stash under Resting Places and other similar hiding spots with very long animations.
+After The Hunt Update, and also applying for The Great OutPortals Update, Surge and Lurk can spawn again after their last encounter (not including The Chambers or The Backdoor nodes Specters) every time at least 2 Portals are opened, if Participants are using timer spawn rate modifiers such as Really bad time, Surge Hour, and Back for Seconds, with all previous modifiers enabled at the same time in the worst scenario. Example: Surge(door 15), Surge (Door 17), Lurk (Door 19), Unit Sixty (Door 21).
+This does not apply for Unit Sixty, Unit One-Twenty and Blitz. In this case, there is a chance of having another node entity spawn, or even the same entity again after opening the next door from the last encounter spawn. This can also trigger Lurk and Surge to spawn in a row if Participants are using timer spawn rate modifier such as Really bad time, Room for More, and Blitz, Oh modifiers are enabled at the same time in the worst scenario. Example: Unit Sixty (Door 25), Unit One-Twenty (Door 26), Blitz (Door 27), Surge (Door 28).
+However, all of this can still happen without spawn rate modifiers but is pretty unlikely and can be seed based.
+Crucifying: Participants can use a Amulet to "banish" Lurk. Because Amuletes are a one-use Trinket, it is best to only crucify Lurk when a Participant(s) is struggling to Stash from Lurk.
+It is recommended that Participants equip their Amulet while still attempting to survive Lurk by hiding or using a Vault spot. By this method, Participants are largely protected from Lurk and may not necessarily have to use their Amulet to survive it.
+There is a small period (lasting a few frames) when entering and exiting hiding places in which Amuletes will be automatically unequipped (the same goes for all other Trinkets). Therefore, Participants will be vulnerable to Lurk during that period.
+Although very rarely, Lurk can spawn in Portals 152 in The Mines, and it can take a very long time to rebound and arrive. This is because The Den and The First Chase Chase Chambers are not fully despawned, so Lurk moves through the First Chase Chase Chambers and The Den. It is recommended to have a Amulet with you just in case.
+Jumpscare
+1st Person
+Lurk will appear far from the screen, then getting farther, then Surgeing toward the screen, each time the change in distance changes the pitch of Lurk's scream.
+
+3rd Person
+The Participant will be ran over and their upper half will snap.

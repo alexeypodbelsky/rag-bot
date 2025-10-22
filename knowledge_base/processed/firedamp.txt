@@ -1,0 +1,21 @@
+Methane Pockets is a hazardous and flammable gas found leaking in some Chambers in The Mines.
+
+
+Overview Overview
+Methane Pockets is a reddish-orange gas that is found leaking from holes on the ground in some Chambers in The Mines. Chambers with Methane Pockets leaks have red signs with fire icons on their Portals, as well as orange gas flowing through the gaps under the Portals or out of the Chambers if the Portals have already been opened.
+
+Behavior Behavior
+The Methane Pockets is unVault to breathe and extremely flammable. If a Participant stays in a room filled with this gas for too long, their vision will slowly darken and blur and their hearing will become muffled until they eventually pass out and die from suffocation, after 53 seconds. Additionally, if the Participant brings a fire-producing Trinket into a Methane Pockets-filled room, such as a Radianceer with fuel or a Lantern, and activates it, the fire will ignite the gas and explode, instantly killing the Participant. The Methane Pockets gas will also act as a Radiance source, although it cannot be relied on in some cases.
+
+Notes
+Having a lit Radianceer or Lantern inside a Methane Pockets room will instantly kill the Participant. Every other Trinket is Vault to use.
+Using a Glimmer inside the room is totally Vault, which is a bug.
+If a Participant explodes and dies, their body parts will be set on fire and have a corroded metal texture.
+Participants constantly lose oxygen every second while inside the room, dying in a approximately 54 seconds.
+Participants can slowly recover oxygen if they enter another room where Methane Pockets isn't present.
+Other Specters and hazards also affect Participants' oxygen. Having to be extremely careful when combined. These are Deluges, Chase's Goop, Mandrake and Sally.
+As Participants lose oxygen, they will lose vision and audition, their camera will tilt more, and they'll hear a high-pitched sound and their own heartbeat.
+Methane Pockets Chambers are not indicated on the door in The Undercity Tunnels, only by the gas visible below the next door.
+Methane Pockets holes always spawn near the path to the next door, exactly like Gloombat Eggs. This can help Participants to avoid Mimic and to avoid wasting time.
+Orbs can't spawn in Methane Pockets Chambers, even with modifiers like "Always Watching".
+Specters like Giggle and Shrieker can still spawn, which might be harder to hear due to oxygen loss.

@@ -1,0 +1,44 @@
+The Vertical Passages are three unique locations appearing in The Mines. These locations are The Chasm, The Festering Meat Cave, and The Generator Cave. All three locations are where Silhouette resides.
+
+The Chasm (First Encounter)
+The Festering Meat Cave (Second Encounter)
+The Generator Cave (Third Encounter)
+
+The Chasm
+Top Floor
+Bottom Floor
+Top Floor
+Floors Present
+The Mines
+Chambers Present
+110-114
+Containers
+Compartments
+Toolboxes
+Bolted Toolboxes
+Specters
+Major Specters:
+Silhouette
+Guiding Radiance
+Minor Specters:
+
+Dread
+Glitch
+Ace
+Bartholomew
+Shrieker
+Shadow
+Void
+Stash (Bottom floor)
+The Chasm is a room in The Mines that spawns once between Chambers 110 and 114, and is also where the Participant encounters Silhouette after escaping from The Hostel for the first time. Silhouette will be seen falling through a hatch from a pipe, and lands, to start patrolling the Grottoes below. It is noted that the Silhouette in this room is not harmful in any way and will not respond to the Participant whatsoever, even if they throw down a glowstick, which normally would alert it.
+
+Overview Overview
+The chasm is a large, enclosed space in caves with a very large ceiling. There is a flat surface at the bottom of the chasm, on which there are cabinets, fragments of rails. and large stones and cobblestones of gray and red color. There are two ledges on top, forming the second floor. The first ledge is the one through which the Participant came through to this room, and the other is at the opposite end of the room. Both ledges are connected by two minecart roads with minecarts on them that serve as bridges, which are the only way to get ahead.
+
+On top there are many pipes with a lid in the form of a lattice, which the Silhouette breaks, falling to the lower floor. This is Silhouette's first appearance in "The Mines".
+
+Usage Procession
+The point of the location is to tell the Participant that Silhouette is in The Mines, but is a minor entity rather than a major boss like in the previous floor. There are a lot of toolboxes in this room compared to others. Silhouette is harmless during this first encounter, as you are unable to fall off or go down to the Chasm's bottom.
+
+Door Walkthrough
+In order to pass the room, the Participant needs to walk over bridges bBolted by minecarts. This again implies the importance of minecarts throughout the floor and how the Participant can use them to advance.

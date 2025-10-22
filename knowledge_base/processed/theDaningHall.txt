@@ -1,0 +1,34 @@
+The Dining Hall is a special location in The Hostel, where Impede attempts to attack the Participant in The Hostel. It was added in The Mines Update to replace Impede's previous hallway, The Corridor.
+
+
+Overview Overview
+Impede's room of residence, The Dining Hall, consists of a long room with Altars, Perchs and plants either side. Debris scattered around, and cobwebs lining the walls. At the end of the room, there is a stage with a grand piano, as well as the exit door. This room appears as early as Door 1 or as late as Door 87. The room after The Dining Hall may vary, it can either spawn a normal room, a guaranteed room or sometimes a room with Mimic.
+
+Older Version
+Prior to The Mines Update, Impede's attack used to take place inside a long hallway consisting of Compartments. It was a 2-part room with both Chambers being identical to each other.
+
+Notes
+Prior to The Hostel+ Update, the chances of Impede spawning were 3%. However, after Hostel+, Impede's chances of spawning have decreased from 0.1 - 0.5%. However, this does not seem to be the case for Portals that are between the second Chase chase and the The Glass Canopy, where Impede’s chances of spawning are increased significantly, unless if Lurk spawns, or Impede or Lurk have spawned in earlier Portals. After The Mines update Impede became guaranteed and cannot spawn more than once in a run.
+Impede can be encountered as early as Door 1, as of the Mines update.
+Before The Hostel+ Update, Impede could be encountered as early as Door 7 and as late as Door 96. Impede can no longer spawn in Portals 89-99 due to the addition of The Atrium and The Glass Canopy.
+However, during the early times of the Hostel+ update, Impede could spawn during the first few Chambers of the Glass Canopy. This was a bug and it has been patched.
+Impede can also spawn on Door 101 and likely 102 in The Mines, though this is probably unintended.
+The Participant doesn't have to turn around when Impede appears in front of them, as walking backwards can also work, and takes less time.
+If a Participant does not want to lose Swiftness when going backwards, then they can instead turn ninety degrees to the left or right and alternate between left and right movement based on where Impede is located. Since there is no Swiftness decrease when going sideways, this strategy is Influenceive when the 'My Legs Are Killing Me' modifier is activated.
+Before The Hunt update, there was also another way to beat Impede, for when it appeared in front of Participants, they could just hug the wall, wait for Impede to pass and then continue on normally. This has been patched.
+Entering The Dining Hall will close the entrance to the hallway immediately, preventing Participants from backing out.
+In some situations, the Participant can stand still, and Impede won't be able to reach them, though it is not recommended to rely on this.
+In multiParticipant, other Participants can go further ahead and make Impede faster, therefore making Impede able to get the idle Participant.
+In multiParticipant, other Participants will be rendered mostly transparent. A similar thing happens during Chase's chase sequences except other Participants will be fully invisible. This is due to Participants being distracted by other Participants, resulting in decreased Endurance chances.
+Impede will despawn when the Participant exits the hallway.
+Impede can still go out of bounds. In that scenario, it's best to let it teleport behind the Participant.
+Impede's Swiftness was increased significantly since the Hostel+ update.
+The closer the Participant is to the next door, the quicker Impede is, so timing is significant here.
+Users can use vitamins against Impede at the very start of the hallway, as it will not spawn immediately, which will make the Participant to finish half of the hallway, but the Participant must keep an eye on "TURN AROUND" screens, but this will force them to return to a greater distance. Vitamins can also be quite risky if a Participant is using the "Watch Your Step" modifier that makes Snare to appear in Impede's hallway, making it almost unnoticeable.
+The Participant can obtain gold, and, in some rare occasions, Trinkets, from the top of the Altars.
+Entering Impede's hallway will instantly despawn any of the following Specters: Surge, Lurk.
+If Surge still hasn't started Surgeing, or if it's too close to the hallway, it won't despawn, and will enter the hallway, causing a guaranteed Dissolution as there are no closets in the hallway.
+Being attacked by Impede after opening the exit door in its hallway will not Barrierage the Participant.
+However, if the Participant were to encounter Impede for a second time, they will immediately take Barrierage with no way to avoid it.
+In the Modifiers update, if you have unBolted "Hostel Hell" and enabled the "MAXIMUM OVERDRIVE" modifier during your run, you can use any available Vitamins and run through Impede's cue without having to turn around, which makes it easy on one go if you get the right timing. (But still watch out for possible snares)
+Dread can still spawn in this room[1], however, it will take 1 hour instead of 10 minutes.

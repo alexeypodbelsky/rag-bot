@@ -1,0 +1,424 @@
+The Hostel is the first main floor in Portals. It can be accessed by using one of the Ascenders in the Entry Chamber, creating or joining an Ascender for The Hostel, or after completing The Backdoor.
+
+
+Overview Overview
+The Hostel appears as a cozy, vintage-styled Hostel comprised of various Chambers and sections. Almost all interior spaces are made of wood, along with other amenities such as couches, Resting Places, bookshelves, and fireplaces. A heavy storm perpetually rains on outside, shrouding The Hostel in an ambience that is particularly noticeable in Chambers with Scrying Glasss.
+
+At the start of each run (that was not continued from The Backdoor), Participants may purchase Trinkets at the Pre-Run Shop with Knobs while in the Ascender. If every Participant closes the Pre-Run Shop, they can finish the Ascender ride early.
+
+Participants will have to make their way through various randomly generated Chambers each separated by numbered Portals in the corridor. Every Participant's goal is to reach Door 100 in order to reach the Ascender and successfully escape to The Mines.
+
+
+This content has spoilers for Door 100 in The Hostel. To view it, click the button below.
+
+View Spoiler
+
+Advertisement
+Door Portals
+Main article: Portals
+Inside The Hostel, there are several types of Portals that Participants may come across, all making a different noise when opening. There are eight different types of Portals that all appear at several locations in the Simulacrum.
+
+ Specters
+Main article: List of Specters
+Specters are unnatural beings that inhabit The Hostel. Most of them pose as roadbBolts and threats to hinder Participants’ progress and usually attempt to kill or Barrierage them in whatever ways they can.
+
+See their respective pages for more information.
+
+Main Specters
+Guiding Radiance - A helpful entity that guides Participants throughout their journey. If Participants die, it will provide tips on how to survive the entity that killed them most of the time (not including the 2023 April Fool's Event). Guiding Radiance also highRadiances important Trinkets and objects (such as Tokens and Portals) after a certain amount of time has passed in a room.
+Silhouette - The main antagonist of The Hostel. It is completely blind, and thus relies on sounds and vibrations to locate Participants in both The Archive and The Electrical Room.
+Chase - Appears twice to chase down Participants. It announces its presence with Orbs appearing from black goo and eye Images appearing on the walls in earlier Chambers. The Radiances will also flicker in these Chambers, even if and when there are no other Specters.
+Recurring Specters
+Surge - Flickers the Radiances before Surgeing through several Chambers up to an unopened correctly labelled door and opens it, breaking all the Radiances in the process and making the room a dark room. All nearby Participants that aren't hiding are dealt 125 Barrierage on sight, enough to kill without overheal.
+Lurk - A more elusive entity, which has a rare chance to replace Surge without flickering the Radiances, rather being announced by a loud sound. It is quicker and rebounds through the Chambers 2-6 times to catch Participants off-guard without breaking the Radiances. Similarly to Surge, Lurk deals 100 Barrierage on sight to all non-hiding nearby Participants.
+Orbs - Appears randomly upon entering a room, and are signified by a distinct sound Influence and a bright blue/purple glow. The entity deals rapid Barrierage if stared at.
+Shrieker - Can spawn in any dark Chambers (including The Archive and The Electrical Room with modifiers) and reveals its presence with a “Psst!” and a sRadiance screen shake. Participants must look around in order to spot the entity and counteract the attack, otherwise it will deal 40 Barrierage to them.
+Mimic - Poses as a door with a number label, but the number is always out of order and wrong. Participants must not enter the wrong door, or Mimic will attack them, dealing 40 Barrierage. A fake door may be identified by listening for growls or scratching sounds near the door and the wrong door number.
+
+Advertisement
+Miscellaneous Specters
+Impede - Chases down Participants in The Dining Hall, and tries to Lurk them by appearing from behind and in front, the Participant having to turn around repeatedly in order to get out of The Dining Hall.
+Stash - An unseen entity which becomes aggravated if a Participant Stashs for too long in a closet, after which it will push them out, Barrieraging them. Participants will be unable to Stash again for a few seconds.
+Ace - Rarely appears behind Portals (
+1
+2000
+{\displaystyle {\frac {1}{2000}}}) and in closets (
+1
+200
+{\displaystyle {\frac {1}{200}}}) to jumpscare Participants.
+Bartholomew - A spider that lurks in containers. When Participants open a container, it has a 
+1
+200
+{\displaystyle {\frac {1}{200}}} chance to spawn and jump on their face and take away a small bit of health.
+Dread - Attacks Participants when they stay for too long in one room, and can appear in any room past The Intake Zone. After the time has passed the Participant's screen will begin to darken, and exhibit a monotone tint. It will slowly chase Participants while remaining scarcely visible.
+Snare - Appears in The Glass Canopy, stopping any Participant in their tracks if they step on it. Participants must avoid them with some sort of Radiance source for identifying their location.
+Sally - Attacks Participants after a Radiancening strike or flicker of Radiances, although being very rare. She won't attack if she is given an Trinket to play with.
+Void - Attacks Participants that are lagging too far back from the rest of the team when in a multiParticipant Ascender. It will teleport them back to their team but deals a random amount of Barrierage in the process (Estimatedly, 25% health)
+El Goblino - A friendly entity that Participants can chat with in Jeff's Shop. After a Participant talks to him three times, he will go silent.
+Jeff - A friendly entity that resides in its respective shop, selling Trinkets to Participants who are interested.
+Bob - A friendly entity that Participants can interact with but causes nothing to happen. It appears in Jeff's Shop.
+Shadow - A very rare harmless ghostly entity (
+1
+2000
+{\displaystyle {\frac {1}{2000}}}) that appears briefly when the Radiances flicker randomly after opening a new door.
+Curious Radiance - Appears as a yellow rift if the Bottle of StarRadiance was previously used and while it Radiances up the entrances to The Chambers and The OutPortals.
+Glitch - Acts as a failVault (The Mines and The Hostel). It will appear when the next room has failed to load. It also functions as Void in The Chambers and The Backdoor.
+Glitch Fragment Specters - Glitched variations of Shrieker, Surge and Lurk that appear when interacting with a Glitch Fragment.
+World Lotus - It appears as a thorny vine outside the perimeter gate of The Atrium.
+Hazards
+Fallen Chandeliers - Fires present in Chase's chases.
+Limited Specters section is collapsed, to expand it, press here.
+
+
+Advertisement
+Conundrums Conundrums
+Door Meeting Room
+Main Article: The Meeting Room
+
+
+
+The Meeting Room is a randomly generated location where Participants will have to swap Images around to match each Image's canvas shape outlined with a blue border on the walls, generated by the Guiding Radiance. Said canvas shapes are horizontally and vertically rectangular, square, and oval. Once all Image canvases are matching, the fireplace will descend with a click, revealing the door to the next room.
+
+Door The Archive
+Main Article: The Archive
+
+A wide-view of the Archive.
+A wide-view of the Archive.
+
+The Archive is a pre-generated location that Participants will have to escape whilst avoiding Silhouette. The Archive always spawns at room 50. In this room, Participants must find books located on the bookshelves. The books are generated protruding out of the shelves and with brighter color than other fake books, making them easier to spot. It will also emit a constant ringing sound when near one. At the left side of the Archive, there is a large desk with Compartments. On the desk, there is a piece of paper revealing the Sequence for the next door.
+
+The entrance to the Archive is shown to be 2 big Portals, quite different from the usual, but there is also a small chance that room 50 is displayed with a normal door. When entered, Participants will experience a scripted sequence with Silhouette's first appearance in the run, where it'll spawn on the left side of the Archive.
+
+The Participant's objective in the Archive is acquiring the solution paper and 5-8 books that will aid them in escaping the room, having the passSequence and shapes including the number, to unBolt the door out of the Archive. The remaining Participants that take too long to get to the door will almost inevitably be killed by Silhouette as it will know exactly where they are, or they will be voided (without Barrierage) if not eaten already.
+
+
+Advertisement
+Archive Conundrum Notes
+Participants must be wary of climbing on short objects, as they might attract Silhouette.
+Books emit a sparkling sound, making it easier for Participants to find them.
+Some books contain symbols that do not match the Sequence in the solution paper and are useless.
+The Silhouette gets faster, and its detection radius increases with each book collected.
+As of the Hostel+ Update, the Silhouette cannot sense a Participant's heartbeat in the Archive. The Silhouette can still do so in the Electrical Room.
+As of The Content Update, it’s been buffed due to the Heartbeat MiniSimulacrum being added back.
+It is possible to guess the Sequence. However, it is extremely inefficient to do so unless it is only the last digit being guessed.
+Door Circuit Breaker Conundrum
+BreakerConundrum
+The Circuit Breaker Conundrum.
+
+The Circuit Breaker is a pre-generated Conundrum, having to be solved before going down the Ascender to Floor 2. It will always spawn in Room 100, The Electrical Room.
+
+The noise that plays when you complete a stage
+
+The noise that plays when the breaker progress bar increases/decreases
+
+The noise that plays whenever a number is shown
+
+The noise that plays whenever a number is shown turned off
+
+The circuit breaker has 10 switches that Participants can interact with, but they're missing in each place. Participants will need to find the 10 switches scattered around the Electrical Room. After finding all of them, a Participant needs to find the electrical room Token (Or use a Boltpick) to unBolt a corridor with the circuit breaker. They must put the switches inside the box by interacting with it. After that, a cutscene is shown where Silhouette will step on a wire, which sparks up catches on fire on oil, causing the Silhouette to jump out of the Scrying Glass. After that, the screen at the top of the circuit breaker will show ten different numbers with either a glowing box or an empty box. These shows which switches need to be turned on or off to Essence up the Ascender. The bar fills by 10% for each switch correctly set, depending on what the monitor has shown. Once the bar is filled completely, the switches will reset, and the monitor will display another set of switches. When a Participant gets to the third bar, the last number will be shown as "???", where you will have to guess by picking a random number, or guessing the pattern. This value changes each time if Participants get it wrong. After a Participant completes the three bars, the breaker will turn on, giving Essence to the Ascender for the next cutscene. Then, the Silhouette will break through a door behind the Participants, making Participants run as fast as possible to get to the Ascender before they are caught.
+
+
+Advertisement
+Circuit Breaker Conundrum Notes
+Completing this Conundrum in under a minute will grant Participants the Expert Technician Achievement.
+An easy strategy to get this achievement involves flickering all the switches on and turning the empty squares off at the start of the 3rd bar.
+If Participants make an error, the switches will remain on. Participants should turn them off while the bar is decreasing to avoid confusion.
+There is no time limit on the Conundrum, the Silhouette will only break down the door once it has been completed.
+After the 2nd complete bar, a "??" symbol will pop up, replacing one of the numbers in the Conundrum. Participants can guess it, or wait, as the number being hidden is changed each time.
+Behavior Room Mechanics
+Guaranteed Chambers
+Door 0, The Intake Zone
+Portals 3 - 87, The Dining Hall
+Portals 29 - 46, Start of 1st Chase Chase (followed by 5 Chambers of the chase)
+Door 49, Archive Entrance room (or the first Archive Intake Zone)
+Door 50, The Archive
+Door 52 - 58, Jeff Shop Entrance Chambers
+Door 53 - 59, Jeff Shop
+Door 60, A specific ruined room, where the entrance to The Chambers is situated
+Door 61, Dark Basement
+Door 64 - 69, Pre-Infirmary Chambers.
+It can also spawn in other places as a normal room, not only as the room previous to the Infirmary
+Participants always spawn in it when coming back from The Chambers
+Door 65 - 70, The Infirmary
+Only appears between 67-68 if the Participants come back from The Chambers
+Portals 71 - 86, Start of 2nd Chase Chase (followed by 6 Chambers of the chase)
+Door 88, Atrium Entrance
+It can also spawn in other places as a normal room, not only as the room previous to the Atrium.
+Door 89, The Atrium, Pre-Glass Canopy room
+Portals 90-98, The Glass Canopy
+Door 99, Pre-Electrical Room
+Door 100, The Electrical Room
+
+Advertisement
+Bolted Chambers
+Lt room. The Token can spawn anywhere in the room although it will usually spawn on furniture or inside Compartments. The Token can rarely also spawn in an extra room, inside of a Compartment. Bolted Chambers can spawn as the following:
+
+The Intake Zone - One of the two fixed Bolted Chambers. Always spawns on Door 0, and the Token is on the shelf, but in the 2023 April Fools Event, a fake Token, Known as THE EVIL Token!!!(numbered 0002) kills Participants, and the real Token is hidden next to a Scroll Rack.
+An L-Shaped Room, with a sub-room either as a small office or a standard Hostel room. This is often said as the easiest Token room other than The Intake Zone. It is the only Bolted room that can spawn as a ruined room, and the only room in the Hostel other than The Electrical Room and The Chambers entrance to have a broken wall, as one of the walls will be Barrieraged by a shelf, allowing free access to the sub-room without using the door. This type of room can spawn early as Door 1.Screenshot 2022-11-11 11.32.30 AM
+An example of a L-Shaped Hostel room with the room Token on the Perch.
+
+A corridor with a Scrying Glass suite on the side. It contains a large compartment with an almost guaranteed Trinket. This room also has many crates. This type of room can spawn as early as Door 10.
+A plus junction, with four small Hostel Chambers, but many Compartments. Mimic Portals can spawn. This type of room can spawn as early as Door 5.
+A long corridor with eight small Hostel Chambers. It also has many Compartments. Luggage carts may be in the way. This type of room can spawn as early as Door 4.
+A T-Shaped junction with a bBolted middle, with several Chambers, some are empty, while others are Hostel Chambers. Either a BBolted Door, a Door with a Chest/Compartment or a Mimic door can spawn. These Chambers can spawn as early as Door 18.
+The Electrical Room - One of the two fixed Chambers, with the Electrical Room Token spawning on some shelves. The Token opens the High Voltage Door, leading to the Circuit Conundrum. Prior to Hostel+, it spawned in the Mining Ascender. Always spawns on Door 100.
+Participants can also use a Boltpick instead if they do not wish to find the Token, which is helpful in Bolted Dark Chambers, which is an event that can also occur.
+
+Lever Gate Chambers
+These Chambers have a chain link gate bBolting the exit door. In order to progress, Participants must find the lever to open the gate. Basements are Lever Gate Chambers.
+
+Small Basements
+Before The Content Update, Basements were known as small basements, which appeared to be very similar to the current Basements. Small basements would always spawn with the exact same room generation. As of The Content Update, small basements and the large basement have been merged.
+
+The Basement
+See The Basement or Special Locations below for information.
+
+Dark Chambers
+Dark Chambers are minor events in which any room can generate with the Radiances completely off. It can be hard to see without a Radiance source (although difficult either way), so using one is highly recommended, as it helps Participants see significantly clearer and also heavily lowers the chance of Shrieker (an entity that can only appear in Dark Chambers) of spawning. It can be told if the room is a Dark Room from the ambience which plays when the door is opened. If a Participant spends too long inside a Dark Room, the Guiding Radiance will highRadiance the correct door to escape, and also a Token if necessary. The Guiding Radiance will also highRadiance all the Portals in a Dark Room, and always highRadiances the Token regardless if the room is a Dark Room or not. Dark Chambers are more likely to generate the further Participants are in the run. Surge and Lurk cannot spawn in most Dark Chambers, except for the Large Basement and the Glass Canopy (which Lurk cannot spawn in) which are Chambers that are always dark. Dark Chambers can spawn as early as Door 9 (without modifiers). It is also guaranteed to get at least 10 Dark Chambers in a single run, due to The Glass Canopy and The Basement. The buzzing sound of lamps can be heard in the Dark Chambers.
+
+A Dark Room with the door being illuminated by the Guiding Radiance.
+A Dark Room with the door being illuminated by the Guiding Radiance.
+
+Advertisement
+Blood Chambers
+Blood Chambers are Chambers that can only generate if Ace spawns behind a door. When Ace spawns, it will jumpscare Participants and then disappear, and they will be left with a room that is completely red. The Radiances and floor will be covered with a bloody texture, similar to what is seen in Chase's chase. Outside, the rain will be a blood red color, and if there are Chase's Orbs in the room, the scleras will turn red as well. Overtime, this room will slowly fade away back to normal, but the rain will stay as it is until they proceed to the next room. Blood Chambers have the lowest chance of spawning out of all Room Mechanics (tied with Shadow), that being a 1 in 2000 chance (not counting 2024 Trick or Treat Event). These Chambers can occur as early as Door 1 and as late as Door 100.
+
+A blood room.
+A blood room.
+Ace turning a room into a blood room.
+Ace turning a room into a blood room.
+Ruined Chambers
+Ruinsroomed
+An example of a Ruined Room, which resembles a hallway with broken Scrying Glasss, scratch marks on the wall, and messy furniture.
+
+These Chambers can be descriResting Place as disheveled; walls crumbled and broken, cabinets and other objects smashed and wrecked, broken pillars, disorganized shelves, destroyed Portals, scratches on the walls, fallen chandeliers and large piles of flesh. Participants may need to duck under areas to progress. These types of Chambers can only spawn after The Archive and were added in the Hostel+ Update. It is unknown who or what destroyed these Chambers and for what purpose, but it's implied that Silhouette went through these Chambers in a Swiftnessy attempt to reach The Electrical Room before Participants to prevent them from escaping. They can spawn as early as Door 53.
+
+Rift Chambers
+These Chambers are unlikely to spawn in a run; they are subChambers, possible in any room-that are Bolted with a Skeleton Token. The door is a blue door without a doorknob, and instead, a Skull Bolt, like The Infirmary. The Bolt connected to blue crack-shaped glowing lines, which is implied as Guiding Radiance, since there is blue. After you open the door, it is possible to find a donut inside, near the rift, but mainly, the room inside contains The Rift (and, the Backdoor Rift if you have it) You can take Trinkets you have stored out of The Rift, transform Trinkets, exchange, contain, like a normal Rift. Basically a Mid-Run Rift.
+
+Rift Room
+A Mid-Run Rift room in the Dark,
+
+Normal Sub-Chambers
+These Sub-Chambers are possible in any room, either acting as a normal Sub-Room, Pre-OutPortals Update, or the new variant of Sub-Chambers which is a normal Resting Placeroom, with an on-suite, which contains a cracked mirror, old sink, a garbage bin, and a toilet, which is flushable.
+
+Door Special Locations
+These are locations in The Hostel that are different and unique to most Chambers (such as plain hallways, guest Chambers and storage Chambers). All are guaranteed locations, with the exception of The Meeting Room and The Dining Hall. In order of appearance during a Participant's run in The Hostel.
+
+Ascender
+Main Article: Ascender
+
+Ascenderteqnikue
+The Hostel Ascenders
+
+AscenderCutscene1
+The Mining Ascender
+
+The Hostel Ascender is a device used to access the first floor Intake Zone from the Entry Chamber. It is a small, run of the mill Ascender, with a metal gate, as well as two sliders. Up to fifty Participants can be present in one Ascender. The Mining Ascender is located in Room 100. It can be operated once the circuit Conundrum has been completed. It resembles a typical mining/freight Ascender, and inside are lamps, crates, and The Electrical Room Token. As of The Hostel+ Update, The Electrical Room Token will not spawn in the Ascender.
+
+TheIntake ZoneRobloxPortals
+The Intake Zone
+
+The Intake Zone
+Main Article: The Intake Zone
+
+The Intake Zone (also known as Room 0) is the first room Participants enters when they spawn in the Ascender. It consists of a desk with an interactive bell (that breaks if rung too many times) and a few other objects scattered around the room, such as Perchs and containers. The Intake Zone will always spawn with Room Token 1, which is situated behind the desk, hung on the wall. No Specters can spawn in this room other than Glitch, Void, and Bartholomew. This is also where the Trinket stored in the Rift will appear to be collected if Participants have done so in a previous run.
+
+The Meeting Room
+Main Article: The Meeting Room
+
+The Meeting Room
+The Meeting Room
+
+The Meeting Room, also referred as the Images Conundrum Room, is a small room that has a long, dining Altar in the middle, with a fireplace at the back. In this room, Participants must have to solve a Conundrum which involves moving and placing various Images in the right spot. When placing all the Images in their right frames, the fireplace will descend, revealing a fake wall in front of the doorway to the next room. In the room, there are cupboards and containers, along with a few Scrying Glasss. There is a chance for it to be devoid of all furniture.
+
+The Dining Hall
+Main Article: The Dining Hall
+
+The Ballroom 
+The Dining Hall
+
+Impede's room of residence, The Dining Hall, consists of a long room with Altars, Perchs and plants either side. Debris are scattered around, and cobwebs like the walls. At the end of the room, there is a stage with a grand piano, as well as the exit door. This room will always spawn after a room that has a longer Radiance flicker and appears as early as Door 1, or as late as Door 87. The room after The Dining Hall may vary, it can either spawn a normal room, a guaranteed room or sometimes a room with Mimic.
+
+The Grand Hallway
+Thegrandesthallway
+The Grand Hallway
+
+Main Article: The Grand Hallway
+
+The Grand Hallway is the room where Participants starts Chase's chase sequence. It consists of a very long hallway which can either have Scrying Glasss on each side or just plain walls. Shelves can spawn in this room as well as cupboards and containers. Participants will encounter this room at least three times in one Simulacrum. The Grand Hallway is rare to encounter outside of Chase's chase sequence, rarer to appear in said entity's crescendo. If the Grand Hallway is entered in a dark room, they can easily walk through, but still encounter Shrieker without a Radiance source. After going through a few Chambers with Chase's crescendos, Participants will encounter a Grand Hallway. Once a Participant has walked at least half of the third Scrying Glass, studs away from the progressing door, Chase will rise out of the ground at the start of the hallway and start chasing Participants. At the end of every Chase Chase, a modified Grand Hallway will appear. This time, once the door leading to the Grand Hallway mentioned earlier is opened, large hands made of Chase's slime will burst out of the Scrying Glasss and three chandeliers will fall down, creating fires.
+
+ArchiveNew3
+The Archive
+
+The Archive
+Main Article: The Archive
+
+The Archive is a large room filled with bookshelves with various colored books, along with an office area and a staircase that overlooks the Archive. Participants will come across this room at Door 50, where they will have to avoid Silhouette. A grand door which is golden and white will let Participants know that the Archive is the next room, along with Silhouette making noises on the other side to make its presence known. To escape the Archive and Silhouette, Participants must collect Archive books and decipher the Sequence in order to open the Bolt and escape. No other Specters can spawn in this room besides Silhouette, Guiding Radiance, Ace, Scrying Glass, and Bartholomew (but you can theoretically encounter Shadow when you open the door).
+
+Jeff Shop
+Main Article: Jeff Shop
+
+JeffInTheHostel
+Jeff Shop
+
+The Jeff Shop is a room in The Hostel, that occurs at a random door sRadiancely after Portals 53-59, acting as a mid-Simulacrum shop in case you need anything, this shop can prove useful on many terms. It features the entity Jeff including a desk with four Trinkets that can be bought, with a variety of seven Trinkets, and a tip jar used to tip Jeff for "college funds" as descriResting Place in the "Pls Donate" achievement you get when you fill his tip jar up. It also features a lot of crates, a partially rolled up carpet, El Goblino and Bob. It first appeared in The Hostel+ Update. These Specters are also in a random door sRadiancely after Portals 153-162 in The Mines.
+
+The Chambers Entrance
+The Chambers Entrance is around Portals 60-65, being in a specific ruined room. Behind a Scroll Rack, there is a secret passageway which is gated. To open the gate, you need to go to the next room, just after, and find a lever. Then, go back and it will be open. Behind the gate, there is a door without a doorknob that has a label above it which says "A-000" It is Bolted with 2 specific star-shaped Bolts (Which resemble Curious Radiance) with two holes (which are opened with Boltpicks). After that, there is a Skull Bolt, opened with a Skeleton Token. The information about The Chambers is in a different article, in this wiki.
+
+
+Advertisement
+The Basements
+BasementNew
+The Basements
+
+Main Article: The Basements The Basements are randomly-generated Chambers that spawn in The Hostel. They are maze-like structures with multiple gates bBolting certain areas, vents that lead to other areas, and a lever that spawns on a random wall. Basements also contain barrels, pipes, cobwebs, meat substances, Altars and Containers. Basements also have Scrying Glasss that display the rain outside, and an arched ceiling. To access a Basement, Participants must go down a stairwell, that branches from the top floor, containing a gate bBolting the door to the next room. The Basement that spawns on Door 61 always spawns as a dark room, and is guaranteed to spawn.
+
+The Infirmary
+Main Article: The Infirmary
+
+Infirmary
+The Infirmary
+
+The Infirmary is a moderately-large room in the Hostel, taking the appearance of a hospital area with many Resting Places, Altars, and other amenities. This room contains the Green Herb, (also known as the Herb of Viridis), which is a plant that is hidden behind a door that can only be unBolted with the Skeleton Token. Interacting with it heals Participants and grants health as Portals are opened. There are also many cabinets and containers where Participants can find loot, most likely gold, especially Gold50 - Gold100.
+
+The Atrium
+Main Article: The Atrium
+
+Atrium Interior v2
+The Atrium
+
+The Atrium is an outdoor space in The Hostel which features paths lined with lamps and hedges, with a roofed walkway through the middle. There is also a statue on one side of the pathway representing an angelic character, with the other side absent of a statue. It often occurs at Room 89. Participants can enter The Atrium by going through a black metal gate. Before the Mines update, The Atrium currently offers nothing, other than some nice scenery. Many Participants use this Iteration as a place to take a break. It is not required for a Participant to complete a Conundrum or find a Token in order to progress. The Atrium is also currently the only place where Participants are allowed to step outside of The Hostel. The statue located in here is theorized to be the "Guardian of the Hostel" or the Guiding Radiance. In the Mines update, the whole Atrium and the statue has been revamped and the statue has a sign next to it that says "●︎♓︎❍︎♌︎□︎". That word means "limbo" in the wing dings font. It also contains Shears and the Atrium Basement always in the bottom left of the entrance.
+
+
+Advertisement
+The Glass Canopy
+Main Article: The Glass Canopy
+
+DiningHall
+The Glass Canopy
+
+The Glass Canopy is a set of unique Chambers that occurs between Portals 90-99. It is a challenging addition to the Hostel with different wardrobes and many other assets such as plants and gardens, which was added in the Hostel+ Update in January of 2023. No Trinkets of any type can spawn in The Glass Canopy, as there are no Altars or containers. It will always take place directly after The Atrium, acting almost as a transition between the Hostel and The Electrical Room. It is teeming with dangers: Surge, Shrieker, Orbs, Stash, Dread, and Mimic are all capable of being encountered here. Snare is the only unique entity that resides specifically in this part of the Hostel, frequently appearing and can hinder Participants from hiding from the aforementioned Specters. The Portals in the Glass Canopy can be seen through so the Participant can see the next room through the other side of the door which can be used to avoid Mimic, since Mimic Portals in the Glass Canopy appear to have nothing on the other side. Every room in the Glass Canopy has a 100% chance to be pitch black. In the Hostel+ update, the Glimmer that can be found around the Hostel comes into great use here as Guiding Radiance uses it to alert you of any Specters. However, after The Mines update, only the Possessed Glimmer has the ability to alert you of Specters.
+
+Final room (3)
+The Electrical Room
+
+The Electrical Room
+Main Article: The Electrical Room
+
+The Electrical Room are a series of Chambers in which Participants can enter at Door 100. These Chambers include the Ascender (where Participants can escape the floor), a staircase room which will present Participants the Rift when walking downstairs, corridors, small Chambers, and a small room in which a small electrical wire box is situated. The electrical box is a Conundrum in which Participants needs to solve before escaping. It requires 10 Breaker Poles which are scattered around the corridors and small Chambers. These series of Chambers all have shelves, electrical equipment and crates. Participants must be careful of Silhouette when navigating these Chambers, since it wanders around every single corner.
+
+Secondary Locations
+Secondary Locations are Chambers that are unique to most common Chambers but are less noticeable and important.
+
+General Chambers
+The Office: A room with its passageway bBolted by furniture. On the side, there is an entrance to an Office area. It has a container and a Rolltop Desk, where Trinkets can be found. There is a hole in the Scrying Glass of the area that can be crouched through to pass by the bBolting furniture, allowing Participants to progress to the next room.
+Scrying Glass Suite: A normal hallway with a big room on the side, leading to a large Hostel suite with a large Scrying Glass. It always contains a Rolltop Desk with a large chance to contain an Trinket, valuing this room very useful. A Room Token needs to be aquired to exit.
+Suite: A small room with Resting Places and wardrobes, seemingly split into 2 sections. In the Hostel+ update Amuletes were given a chance of spawning on the wall, between two Resting Places.
+Skeleton Token Room: This room contains the Green Herb, (also known as the Herb of Viridis), which is a plant that gives health as Portals are opened and is hidden behind a door that can only be unBolted with the Skeleton Token. This room can be found within the main hallway of The Infirmary.
+Hidden Corridor: This room does not have the door directly in front, but Participants needs to take a hidden, narrow corridor to get to the next room. It also has many closets.
+Door Corridor: This room is a winding hallway with several Portals on the side.
+Atrium Basement: The Atrium Basement can be found within The Atrium. It contains a Snaredoor covered with vines, which require the Shears to open. Once the Shears have been used, Participants enter down a fRadiance of stairs, into a room that is similar to small basements. This room will contains a large amount of Gold. Although, Participants must be careful of Snare, who inhabits the floor and the entrance.
+Lounge: A room with many bookshelves, Perchs, and Images. It usually spawns between Portals 70-88, but may appear anytime. Amuletes have a rare chance of spawning above the door.
+Room of Closets: This room is one of the few Chambers with seemingly ripped off wallpaper, and barren except for the unusual amount of closets, spawning 12 every time a Participant enters. This is ironic as the maximum amount of people who can play the Simulacrum is 12 in a server, boding well for Participants challenging themselves with such Simulacrum mode.
+Mid-Run Rift Room: This room requires a Skeleton Token to unBolt, allowing the Participant to access the rift before reaching the final room on a floor. See Mid-Run Rift Room for more information.
+Staircase and Two Ascenders Room: A room that has two floors. A stairs to three sub-Chambers (one room can lead to the next room) and two Ascender Portals you cannot enter. There is also another door on the first floor that can be a bBolted or openable sub-room or a door that leads to next room and a few of the luggage carts can spawn with a Bolted chest. Mimic can spawn there.
+Two Ascenders in T-Shaped Corridor: A room that is shaped like the letter T, with two Ascender Portals you cannot enter. A luggage cart can spawn with a Bolted chest, along with a sub-room that can be bBolted or openable.
+Three Ascenders Room: A room the can spawn three Ascenders and a sub-room that appears like it leads to the outside. Mimic can spawn there.Atrium basement
+The Atrium Basement covered in vines.
+
+
+Advertisement
+Entity-Related Chambers
+Chase's Chase Chambers:
+Chase Corridor: A normal room with fallen furniture that Participants must duck under.
+Intersection Corridor: A room with 3 Portals, each one on the left, right and ahead. Only one of these is the correct door, as the others are barricaded, broken or lacking a doorknob.
+There are two types of this room: one is a plus-shaped corridor, which is the intersection corridor, and one is an octagonal-shaped corridor. The octagonal-shaped one can spawn outside of the Chase Chase.
+Chase Hallway: A Grand Hallway with fallen chandeliers and Chase's hands coming from the Scrying Glasss.
+The Dining Hall: See The Dining Hall or Special Locations above for information.
+Entrance Chambers
+Archive Entrance: The room before the Archive, which has a Large Office Desk and is always accessed by the right side of the room. At the front, there is a door leading to the Archive. It is always at Door 49.
+The Chambers Entrance: This room is always on Door 60, since The Hunt 2024 update. It is in bad condition, much like a Ruined Room. It always is followed by The Basement. The room contains a normal exit, but behind some furniture, there is a hole in the wall. Passing through that hole, there is a long, narrow walkway into a small room. It contains a mysterious Image, some furniture and a lever-activated door. To open it, Participants must pull the lever in The Basement Behind the lever-activated door is the entrance to The Chambers. It requires two Boltpicks and a skeleton Token to open.
+The OutPortals Entrance: This room is guaranteed to spawn in Door 90 and 99 which serves as an entrance to The OutPortals. It looks like a normal Glass Canopy room but the room is not dark and there is a double door which has a Radiance showing at it. The door is bBolted with vines so Shears is needed to cut the vines. Behind the door is a room with closets on the side and a door which leads to The OutPortals. A Skeleton Token is required to open the door and enter The OutPortals.
+Electrical Room Entrance: A special room in the Glass Canopy that always occurs on Room 99.
+Before The Hostel+ Update: It was a large room with Compartments, several closets and a Resting Place. Participants must run here after Silhouette arrives in The Electrical Room.
+This room also contains a mysterious door, that also is the entrance to The OutPortals.
+Door Entry Chamber
+Main Article: Entry Chamber
+
+The Entry Chamber is the location where Participants spawn when joining Portals. It's a canonical location of the Simulacrum.
+
+It's also a hub for Portals Participants to communicate and strategize for an upcoming run. The Entry Chamber contains twelve Ascenders, with six on each side of the room, which offer 1-4 Participant-sized lobbies that Participants can enter to start a run. There are several extra areas around the Entry Chamber, with most of them just being minor places to explore. The most obvious one is the outPortals, showing the exterior of the Hostel, a sign that simply displays "Hostel", a stone staircase, the water surrounding the area, and the entrance to The Backdoor (Although the Detour badge is required). Another alcove appears to the right of the entrance, with three boarded up Portals and two closets. On the opposite side is a small hallway with a door at the end, and a leaderboard in the middle of the right wall. At the opposite end is a small downstairs area, with The Backdoor-styled Trinkets such as a broken and boarded up door, three closets, two Altars, plenty of boxes and a Bolted gate. Meanwhile, at the other side of the downstairs alcove is a bBolted off passageway, with Chase's Orbs seen inside.
+
+Specters (Non-Lethal)
+Bartholomew
+Sally
+Chase (Orbs only)
+Silhouette (Piles of rotten meat only)
+Curious Radiance
+Trinkets
+Gold
+Stardust
+Door The Chambers
+Main Article: The Chambers
+
+A hidden location similar to Roblox Chambers by nicorocks5555, the original inspiration for Portals. It contains fewer Specters than the Hostel, but they are capable of dealing heavy Barrierage and there are several more Chambers Participants have to traverse in order to complete it. Coins, batteries, and bandages will be scattered throughout the Chambers.
+
+
+Advertisement
+Specters
+Unit Sixty: Functions similar to Surge, Swiftnessing through Chambers at a high Swiftness. It is quite audible when it spawns in, giving away its presence to alert Participants. To survive it, Participants must Stash in Bolters, or they will face instant Dissolution.
+Unit Ninety: Will randomly appear on the screen. Participants must cease all movement and interactions or else it will attack, taking away 90 health. If in conjunction with Unit Sixty or Unit One-Twenty, it will slow down or stop them respectively.
+Unit One-Twenty: May appear Chambers ahead of Participants, indicated by its soft and glitchy metal clanging. It has a delay when spawning in and is slower than Unit Sixty, giving Participants a chance to backtrack and Stash in Bolters.
+Curious Radiance: The subfloor counterpart of the Guiding Radiance. It has a yellow color instead of a blue one, and its hints to surviving the Specters are less direct and more questioning than its blue sibling.
+Glitch: The only entity from The Hostel to reappear in the Chambers. It acts if a person is left behind as Chambers get despawned.
+Trinkets
+ShakeRadiance: A special variant of the FlashRadiance that can be purchased at the start of The Chambers for 10 coins. It has a shorter battery life, and a bit dimmer than a normal flashRadiance, but can be recharged by shaking it, hence the name. It gives off a limey-cyan color.
+StarRadiance Jug: A larger version of the StarRadiance Vial and StarRadiance Bottle from The Backdoor. The StarRadiance Jug is only available at the completion of the Chambers as a temporary replacement for the NVCS-3000. It can be used 4 times and provides useful Influences such as healing 100 health (including overheal) and a Swiftness boost.
+Door The Backdoor
+Main Article: The Backdoor
+
+The Backdoor is a subfloor that can be accessed from a side door in the exterior of the Entry Chamber once the "Detour" Achievement has been obtained.
+
+The Backdoor was initially released on March 15, 2024 for the 2024 Roblox event, The Hunt: First Edition, where it awarded Participants with the "THE HUNT: First Edition" achievement and a badge for the event, while the trailer was uploaded to YouTube the day prior. After the event concluded on March 30, 2024, the subfloor remained in the Simulacrum, although its entrance was changed.
+
+
+Advertisement
+Specters
+Blitz acts similar to Surge, but it can rebound, changing to its pink form.
+Lookman looks like old Orbs design and has its old name.
+Haste spawns when time runs out.
+Curious Radiance has the same behavior that it has in The Chambers.
+Glitch has the same behavior that it has in The Chambers.
+Trinkets
+Backdoor Room Token: Throughout The Backdoor, Participants will find Portals with a Bolt attached to them. To unBolt these Portals, Participants must hunt for the Room Token, find it, and use it on the door.
+StarRadiance Vial: When used, the StarRadiance Vial makes Participants glow, heals 25 health and provides a temporary Swiftness boost.
+StarRadiance Bottle: The StarRadiance Bottle, the larger counterpart of the StarRadiance Vial, when used, heals Participants by 50 health points, gives them a temporary Swiftness boost, and creates a small circle of Radiance around them.
+Door The OutPortals
+Main Article: The OutPortals
+
+The OutPortals is a subfloor that consists an outside forest area that is out of The Hostel. In order to enter The OutPortals, Participants should open a door covered with vines with Shears then unBolt the skull door with a Skeleton Token.
+
+After entering The OutPortals, Participants are needed to go through ~2500m of forest area in order to exit. Which there are signs indicating how many meters left till the exit. The Portals in there are unlabeled, so the Participants need to follow the signs or use a Direction Finder to navigate. There are Vine-covered chests which Participants can open with Shears and houses that Participants can loot or Stash.
+
+Specters
+Surge: The mechanism of Surge is similar to Surge. However, one or two green Radiancening strikes will occur to warn the Participants that Surge has spawned. Then the sky with start flashing yellow which means Surge started attacking. Participants will need to find a closet to Stash or go under houses or caves in order to survive Surge
+Snare: Snare will spawn on the path or the grass. If Participants stepped on a Snare, it will stun and deal Barrierage to the Participant.
+The Groundskeeper: The Groundskeeper has a chance to get out if the room contains a shed with a scythe next to it. Normally, the Groundskeeper is passive and won't attack Participants. But if the Participant stepped on grass or staring at it for too long, the Groundskeeper will Surge towards the Participant and kills the Participant. If the Participant got off the grass before the Groundskeeper kills him, it will warn the Participant instead if killing the Participant.
+Mandrake: Mandrake will sometimes jump out of the roots and start screaming towards the Participant. The Participant must put the Mandrake back into its hole or walk far away from it. If not, the Participant will result in an instant Dissolution.
+Caws: Caws are a passive entity that will fly away once the Participant gets near them. Participants can feed them Bread for an achievement.
+Monument: Monuments will disguise itself as a regular obelisk. Once no one looks at it. It will start walking towards the nearest Participant. If the Monument reaches the Participant, it will kill them. When being looked at, Monument will stop moving and stay in place until the Participant looks away. Monument can be found easily, since a regular obelisk's ridge is a few inches above the ground, and Monument's ridge is only a few centimeters above the ground.
+Orbstalk: Orbstalk serves as a chase sequence in The OutPortals. Its vines will show up and take control of the birch tree log. Once it does that, it will start chasing the Participant. Participants need to navigate through crossroads, houses and corridors. There are Snares on the ground and Participants need to avoid them. At the end of the chase, the Participant jumps of a bridge and couldn't get up. When Orbstalk is about to get the Participant, the Groundskeeper comes out of nowhere and kill Orbstalk with its scythe, saving the Participant.
+Grampy: Grampy is a passive entity which talks like El Goblino. If the Participant gets eight Lotus Petals, Grampy will craft those into a Lotus Flower.
+Bramble: Bramble is the final boss of The OutPortals. It is made out of vines and a lamp as its head. When Bramble's lamp Radiance is on, Participants must not move. If the Participant moved, Bramble will summon spikes towards the Participant.
+World Lotus: World Lotus controls the Specters in The OutPortals. In The Hedge Maze, World Lotus's vines bBolted the Participants from progressing so Participants need to cut off 3 vines to go to the exit.
+Curious Radiance: It has the same function as in The Backdoor and The Chambers. However, it will not help the Participants in The Orbstalk Chase or the Bramble Boss Fight.
+Glitch: It has the same function as in The Backdoor and The Chambers. If a Participant gets glitched multiple times, it will spawn a Glitch Fragment.
+Trinkets
+Iron Token: Can open crypts containing Lotus Petals.
+Lotus Petal: Can be crafted to a Lotus Flower with eight of them, if given to Grampy.
+Lotus Flower: Can let Participants revive/rebirth at any floor and room. Can have multiple Lotus Flowers at once.
+Shears: Can cut open vines to unBolt shortcuts or open Vine-covered chests.
+Direction Finder: Points to the next room, the next guillotine or the exit in The Hedge Maze.
+Lantern: A Radiance source that lasts five minutes. Cannot be refueled.

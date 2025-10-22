@@ -1,0 +1,31 @@
+The Caverns are a major location in The Mines. Notably, it's where the first Seek chase takes place. Immediately after, you will be led straight into The Nest at Door 150.
+
+
+
+Overview Overview
+SeekMines
+Seek in The Ravine.
+
+The Ravine (Room 142)
+The Caverns begin with a long, flooded room with exposure to the outside, with a pipe overhead. When a player reaches the end of this room, goo will begin to leak from the pipe and Seek will rise from the water before giving chase. This room spawns at Door 142. The Guiding Light takes the form of a trail of blue particles.
+
+Broken Bridges (Rooms 143 - 146)
+The first half of The Caverns consists of caves, with broken bridges that players have to jump across. Players will have their jump enabled for the first half of the Seek chase. In Room 146, players will enter a cutscene in which players fails the jump and falls onto a moving minecart, formed by Guiding Light.
+
+Minecart Section (Rooms 147 - 148)
+The corresponding half is a minecart rail, where players have to duck to avoid obstacles and steer between different tracks. There will be tracks splitting into 2 or 3 paths, with the Guiding Light showing the correct path. If players select the wrong track or do not select a track in time, the minecart will follow the incorrect track and crash into a wall or fall into a pit, resulting in their death. A player will take 40 damage and temporarily have their vision blurred if they fail to duck under the obstacles in time.
+
+Room 149 (Nest Entrance)
+The final room consists of a platform with lockers each side, and a gate and buffer stop that prevents the minecart from moving, therefore ending the Seek chase. The minecart then starts moving again and continues on the rail, until a cutscene plays in which Queen Grumble appears and player/s fall/s into The Nest.
+
+The Caverns last for 7 Doors, starting from Door 142 and ending at Door 149.
+
+Hazards
+Stalagmites: Stalagmites are located in the middle of Broken Bridges, specifically, in the Broken Bridges section, if the player jumps too early towards a broken bridge, the player will fall into the spikes and die with their torso being brutally impaled by them. Stalagmites can also be found in pits at the end of some of the wrong ways in the minecart chase.
+Falling Boulders: Boulders appear in the Broken Bridges section, they usually fall out of the ceiling and towards the path of the correct bridge. This can potentially block the players way and causes Seek to be able to slightly catch up, however, they don't deal any damage and they can't directly kill the player.
+Wooden Barriers: Wooden Barriers appear in the Minecart Rail section, it appears to be a obstacle where players must crouch in order to get past, it will usually appear on the correct path of split paths and sometimes on the incorrect path or even may appear right before divided paths which might cause the player to just crouch instead of steering the minecart, causing the player to automatically go to the wrong path, this does not apply to the inside variant as it's always guaranteed on the right path and not in front of the path. If they are not dodged, the player will take 40 damage and temporarily have blurred vision.
+Cave-ins: Cave-ins can be found at the wrong way in The Inside Cave variant in The Minecart Rails. They instantly kill the player
+Stalagmite Pits: These are the Minecart Rail Cave variant of the cave-ins , they appear to be a pit with spikes. If a player takes the wrong path, the minecart will stop on a buffer stop, the player will get flinged out of the minecart and fall to the pit, causing them to get killed.
+Notes
+It's important to know that while holding A/D to steer, it slows down a player's minecart which might result in Seek catching up.
+Whilst in a minecart, you cannot use, or even select any items, such as a Crucifix, to save you. This makes Doors 146-148 extremely difficult due to the speed of the minecart and the little time you have to pick the right path, illuminated by Guiding Light.

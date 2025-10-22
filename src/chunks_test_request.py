@@ -9,7 +9,7 @@ embeddings = HuggingFaceEmbeddings(model_name=model_name)
 db = FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
 
 # 2. Поиск по запросу
-query = "Что известно о школе?"
+query = "what is Archive?"
 results = db.similarity_search_with_score(
     query, k=30
 )  # Или db.similarity_search_with_score(query)

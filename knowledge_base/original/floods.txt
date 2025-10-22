@@ -1,0 +1,19 @@
+Floods are common hazards/events that may randomly occur in random rooms of The Mines and The Outdoors.
+
+
+Overview Overview
+Floods are hazards that cause shallow water accumulation where players can begin to drown if being under the water for too long, they will slow down, light sources like lighters and flashlights start to malfunction, their vision will get blurry and their eyes start to close.
+
+Behavior Behavior
+Flooded rooms are most common in The Sewers (Door 153–194) with many rooms such as Jeff's Shop and others being flooded. The water is shallow enough so the player can only begin to drown by submerging their face in the water.
+
+There is also an underwater maze-like room where the players must crouch through flooded tunnels with air pockets in some intersections where the player can stand up to breathe. Some of these have ladders that lead to upper rooms although the next door will not spawn in these upper rooms.
+
+While crouched or if the water level is too high, a status effect of two red droplets () will be triggered and appear, indicating that the player is currently submerged in water and will be permanently wet until they leave. After a while, the player's vision will start to become obscured, and if the player doesn't find breathable air soon, they would pass out resulting in a death, similar to Firedamp leaks, with the only difference being that the process of drowning is faster.
+
+In The Outdoors, It appears as a shallow pond rather than a flood. Ponds are deep enough to drown Players.
+
+Notes
+If a player has a Lighter in their inventory while under the effect, its fuel will slowly drain until either it runs out, or the effect goes away.
+Being under the effect also causes other light sources, such as the Flashlight, to malfunction until it goes away, preventing the player from turning them on.
+Players will run out of oxygen after staying underwater, in a flood, for ~22.17 seconds. Some rooms have a very shallow layer of water on the ground. You cannot drown in these rooms, even while crouching. These rooms will still slow down the player while they are in water.

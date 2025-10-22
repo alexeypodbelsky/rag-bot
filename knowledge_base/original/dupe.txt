@@ -1,0 +1,61 @@
+Dupe is a hostile entity in DOORS, appearing in The Hotel and The Mines, mainly in rooms with two or more numbered doors, typically in larger multi-door rooms. Dupe was one of the entities introduced in The Hotel+ Update.
+
+
+
+Overview Appearance
+Dupe appears as a white face with a large, toothy smile with bloody teeth and a pair of red bloodshot eyes, everything other than its arms and face are cloaked by the darkness of the room it inhabits. Both its smile and eyes glow in the dark. Dupe also has a pair of dark black skeleton like arms each with 5 sharp fingers on the end. Most of its face is covered in red details, similar to blood.
+
+As of Floor 2 Update, once the Crucifix is used, the door to its room will be opened shortly after, revealing a hole on the ceiling with an ominous red mist and pieces of Dupe's arms and veins scattered inside the room.
+
+Behavior Behavior
+Dupe has a chance to spawn false doors marked with incorrect numbers in rooms with multiple possible doorways. Dupe can spawn up to 8-9 false doors in a single room (can spawn up to 11 false doors with certain modifiers). Dupe emits a quiet rumbling noise that can be heard when standing close to it. Dupe doors are able to spawn in locked rooms; any interaction with a lock on a Dupe door will cause Dupe to attack players.
+
+After a certain amount of time after a player opens a new door, Dupe will scramble the numbers on the plaques of all previous doors—and on Room Keys, if present—rendering them unreadable. As players progress, Dupe will give less time before scrambling plaques.
+
+If a player attempts to enter a Dupe door, the door will open, and Dupe will quickly lean its head forward, grab the player, bite them, throw them onto the floor and slam the door shut, dealing 40 damage. In 3rd person, this process appears as Dupe pulling the player close to it, throwing the player onto the ground, and then slamming the door. If the lost damage is enough to kill a player, Dupe will, in 3rd person, grab the player and pull them upwards, then slam the door. After Dupe has attacked a player, the number plate on the door will become blurred and unreadable.
+
+Notes
+If a player attempts to use a Room Key, lockpick, or skeleton key on a Dupe door, the item will not be discarded from their inventory.
+Dupe emits a quiet rumbling sound, which can be used to determine if the door is real or not. It is significantly louder in dark rooms.
+Another strategy is to listen for ambience noises (rain, fire, flies, water, clocks etc.) which only play behind real doors. In dark rooms, players may also look for light pouring out from the real door's seams, if the next room has light.
+Prior to March 15, 2024, Guiding Light highlighted Dupe doors in dark rooms with a dimmer glow.
+In The Greenhouse, Dupe doors can easily be detected as their interiors will be pitch black when a light (including the Guiding Light) is shone on it, while real doors reveal the next room. It is unknown if this is intended or if it is a bug.
+If Rush spawns in a room with Dupe, it will always pass through the correct door.
+If the threshold for Dupe to be inside of dark rooms hasn't been passed, Rush will also reveal the fake doors by scrambling their number plates.[verification needed]
+Furthermore, if a player is jumpscared by Dupe whilst Rush or Ambush is approaching, they may be also jumpscared by said entities simultaneously.
+Dupe can spawn in dark rooms, however, unless the room has locked doors, approaching a fake door will not open it and will cause the number being scrambled. This effectively makes Dupe completely harmless in dark rooms.[verification needed]
+Sometimes the number plate may not being scrambled, but Dupe's rumbling will be louder. This usually starts to happen after Door 50 and will not happen in rooms that have become dark due to Rush or Ambush breaking the lights.
+Dupe can spawn with its fake door label already scrambled with the real one having normal number.
+Dupe cannot spawn in any room with only 1 door (The Library, The Grand Hallway, The Electrical Room).
+When a Moonlight Candle is held near one of Dupe's doors, the candle will not go out, unlike what is shown in the Hotel+ game icon.
+It is possible for two fake doors to share the same number, which is a dead giveaway that neither are correct.
+If the number of doors in a room is odd, you can always find the correct door by arranging all plaque numbers in increasing or decreasing value. The correct door's value will always be the median.
+As of The Mines update, Dupe's doors can now be offset by 3.
+As of the Content Update, Dupe's doors can now be offset by 4.
+The offset of Dupe doors in The Mines can be way more significant, exceeding that of the Hotel.
+Dupe usually appears in later rooms, making siderooms get rarer to find.
+Dupe can spawn as early as Door 2, but it usually spawns after Door 10. When certain modifiers are active, it can spawn as early as Door 1.
+Sometimes, when opening the real door, Dupe's door number can disappear.
+This is because another Dupe spawned in the next room. To prevent players somehow used the Dupe door number in the previous room to figure out the real door in the current room, the fake door number in the previous room will disappear.
+After The Mines Update, the fake door number will be scrambled instead of disappearing if that situation happens.
+In The Mines, Dupe can spawn in The Railway Station.
+In The Mines, Dupe can spawn in The Shafts (Meat Cave only), where there is a small chance that Figure can enter its room.[1]
+If a player comes too close to a locked Dupe door, as if attempting to open a lockless door, Dupe will attack them anyways.
+Modifiers
+If "Wrong Number" is activated, Dupe will spawn more and increase in difficulty.
+If "Battle Of Wits" is activated, Dupe will spawn in most rooms, blur out door numbers instantly after players open new doors, and Dupe doors will not emit a rumbling sound.
+If "Locked and Loaded" or "Key Key Key Key" are activated, the Room Keys will be unable spawn in front of Dupe's doors. If a key spawns in front of a door, that door is always real.
+SUPER HARD MODE!!!
+Dupe doesn't appear in SUPER HARD MODE!!!; it is replaced by Subspace Tripmine, an entity that behaves similarly to Dupe. However, it deals 190 damage and also damages nearby players, rather than only damaging players that open a fake door.
+Jumpscares
+1st person Jumpscare
+Dupe puts its hands on the floor and doorframe and opens its mouth while seemingly biting the player and tossing them onto the floor. If the player is at or below 40 health, the same thing happens but the player does not fall and the screen flashes red.
+
+1st person Old
+Dupe bites the player, tossing them onto the floor or bites the player and flashes the screen red if the player is at or below 40 health.
+
+3rd person Jumpscare
+Dupe grabs the player, bites them and tosses them onto the floor. If the player is at or below 40 health, it grabs them and drags them into the hole.
+
+3rd person Old
+The player floats in a red mist squirming then gets thrown on the floor or the same happens but the victim stays ragdolled.

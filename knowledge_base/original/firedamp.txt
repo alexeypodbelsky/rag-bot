@@ -1,0 +1,21 @@
+Firedamp is a hazardous and flammable gas found leaking in some rooms in The Mines.
+
+
+Overview Overview
+Firedamp is a reddish-orange gas that is found leaking from holes on the ground in some rooms in The Mines. Rooms with Firedamp leaks have red signs with fire icons on their doors, as well as orange gas flowing through the gaps under the doors or out of the rooms if the doors have already been opened.
+
+Behavior Behavior
+The Firedamp is unsafe to breathe and extremely flammable. If a player stays in a room filled with this gas for too long, their vision will slowly darken and blur and their hearing will become muffled until they eventually pass out and die from suffocation, after 53 seconds. Additionally, if the player brings a fire-producing item into a Firedamp-filled room, such as a Lighter with fuel or a Lantern, and activates it, the fire will ignite the gas and explode, instantly killing the player. The Firedamp gas will also act as a light source, although it cannot be relied on in some cases.
+
+Notes
+Having a lit Lighter or Lantern inside a Firedamp room will instantly kill the player. Every other item is safe to use.
+Using a Candle inside the room is totally safe, which is a bug.
+If a player explodes and dies, their body parts will be set on fire and have a corroded metal texture.
+Players constantly lose oxygen every second while inside the room, dying in a approximately 54 seconds.
+Players can slowly recover oxygen if they enter another room where Firedamp isn't present.
+Other entities and hazards also affect players' oxygen. Having to be extremely careful when combined. These are Floods, Seek's Goop, Mandrake and Sally.
+As players lose oxygen, they will lose vision and audition, their camera will tilt more, and they'll hear a high-pitched sound and their own heartbeat.
+Firedamp rooms are not indicated on the door in The Sewers, only by the gas visible below the next door.
+Firedamp holes always spawn near the path to the next door, exactly like Gloombat Eggs. This can help players to avoid Dupe and to avoid wasting time.
+Eyes can't spawn in Firedamp rooms, even with modifiers like "Always Watching".
+Entities like Giggle and Screech can still spawn, which might be harder to hear due to oxygen loss.

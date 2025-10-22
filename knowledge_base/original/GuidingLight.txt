@@ -1,0 +1,51 @@
+Guiding Light, also named Moonlight after the names of some items and a painting in The Outdoors, is a mysterious blue light, one of The Three Architects, and the deuteragonist of DOORS known for its helpful and welcoming nature.
+
+
+Overview Appearance
+Guiding Light appears as a simple glowing, light blue (or cyan) aura/light with small bright cyan sparkles emanating from it. It is associated with a glowing cyan moon, which is seen in the "Spacetime" painting and the symbol seen in the middle of multiple sigils throughout the main floors and when the player dies. Its appearance changes when it's seen creating or regenerating something (such as a Minecart), in which it appears as a glowing cyan-ish blue burst.
+
+Behavior Behavior
+Guiding Light assists players throughout the game, below is a list of the different ways it helps the player.
+
+Finding essential minor objects
+When the players struggle to find a required item to go to the next door such as Keys or Fuses, Guiding Light will illuminate the object's location and the location it should be used (such as a Generator or a Door, helping the player to find it, then showing the location where the object should be used.
+
+Seek encounters
+In Seek's chases, Guiding Light helps the players by illuminating the correct path to take, such as the correct Doors or where to crouch and jump, and shuts the door(s) behind the players at the end of each chase. In The Dam, Guiding Light applies a glow effect on the Valves that need to be turned. Furthermore, according to its dialogues, it also placed the valves in the room.[1]
+
+Figure encounters
+In the Figure's encounters, Guiding Light helps players in various ways.
+
+In The Library, Guiding Light distracts the Figure by breaking a lamp to prevent it from attacking the players. It also adds a moon symbol to the Book containing useful information to help players escape, and closes The Library door after the players have escaped.
+
+In The Electrical Room, Guiding Light illuminates the Breaker Poles dispersed throughout the room.
+
+Finally, in The Shafts, Guiding Light seals the doors to prevent the Figure from passing through them.
+
+Post-Death
+Each time a player dies, Guiding Light provides useful information on how to avoid dying to the entity responsible. This guidance appears underwater, where the player swims and looks towards Guiding Light. The tips become increasingly precise as the player dies to the same entity.
+
+
+Advertisement
+Notes
+Some objects that Guiding Light will highlight and emit sounds to include levers, switches in The Electrical Room, Books in The Library, fuses and keys.
+Guiding Light will highlight the "frame" of each puzzle painting in the Meeting Room to show players where to place them.
+If a player dies in a dark room, any items they had in their inventory will be highlighted by Guiding Light (This also goes for any player dying in The Rooms and The Backdoor, although Guiding Light is evidenced not to present in these sub-floors due to this being its only appearance in them. This is widely thought to be a bug, although it has not been changed in nearly two years.)
+Items relating to Guiding Light in some way (i.e. the Moonlight Candle, Crucifix or Moonlight Float) do not function while in The Rooms, stating they "feel lighter than usual" when held.
+This is seemingly due to Guiding Light not being present in The Rooms, and instead Curious Light.
+The Moonlight Candle will not lose fuel but will not light up as well while held in The Rooms because of this.
+The Moonlight Candle was given infinite durability as of The Great Outdoors Update.
+There is a bug where if a player has held the Moonlight Candle in The Rooms, it refuses to blow the Moonlight Candle out once traveled back to The Hotel.
+Guiding Light will still highlight doors or objects even if players have escaped from the dark room or found the item without its help.
+Guiding Light will not directly give tips on some entities (e.g. Eyes) when a player first dies.
+Before an update, Rush could extinguish Guiding Light's highlights, though the particles would still remain.
+Prior to The Hunt update, Guiding Light will light a Dupe door with a dimmer glow in a dark room. Now, Guiding Light's glow will have the same brightness between the normal door and the Dupe door.
+If any modifiers are active, Guiding Light will not give any death messages (excluding SUPER HARD MODE!!! and Trick Or Treat).
+If 'Gone Fishing' is active, Guiding Light will not light up keys, doors (including those in the Seek chase), books, breaker switches, etc. Some things are still highlighted (like crawlspaces in Chase sequences)
+Before the Hotel+ Update, when Guiding Light illuminated doors, items, or other objects, the lighting was slightly brighter and more particles were visible.
+
+Advertisement
+SUPER HARD MODE!!!
+Guiding Light does not light up any doors and items.
+However, it lights up/interacts with crawlspaces in Seek's chases, library books, blowing out the Candle, the lever in The Electrical Room, breaker switches and the Crucifix
+Guiding Light had unique death messages, all of which do not help players at all, such as just emojis, making fun of players or saying it's going to play a different Roblox game.

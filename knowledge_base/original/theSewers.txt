@@ -1,0 +1,62 @@
+The Sewers are a location in The Mines. It consists of a long series of rooms, starting from the end of The Nest and ending at The Dam. There are six main rooms that are located in The Sewers, that being the Jeff Shop, The Railway Station, The Sewage Cells, The Sewage Pipes and the The Dam.
+
+
+Overview Appearance
+The Sewers appear to be a series of large, long rooms with stone brick walls and dim green lighting. Many wooden pallets, boxes, closed barrels, and opened burning barrels are placed throughout the sewers. The Sewers can generate multiple different room types, most commonly spawning as large, empty rectangular rooms that can contain up to four doors. Rooms with ladders surrounded in stone sewer-like tubes can also be found here. Almost all mines rooms can show up throughout The Sewers. Hiding spots such as Lockers, Grates and Dumpsters are all found in The Sewers.
+
+Door Locations
+The Sewers contain many notable locations as seen below.
+
+Door Jeff Shop
+Main article: Jeff Shop
+Appears around doors 152-159, shortly after The Nest.
+
+The room is built with three sections: one the player enters and one they exit as well as one to the right.
+A vine plant holding a lamp can be seen behind a grate.
+There are fairy lights/Christmas lights hung up glowing in different colours.
+Jeff sells the following items:
+Battery Pack
+Bandage Pack
+Flashlight
+Spotlight
+Straplight
+Door The Railway Station
+Main article: The Railway Station
+The Railway Station is a puzzle room found in The Sewers based around moving a minecart around a track until it reaches a section of planks blocking the exit.
+
+This room almost always has Dupe on the far door, but the correct door is always behind the boards.
+The player must go up the ladder and pull the lever, then push the minecart until it reaches the end.
+
+Door The Sewage Cells
+Main article: The Sewage Cells
+The Sewage Cells contain an extensive number of interconnected rooms that form a maze-like structure. These rooms include manholes, Sewer and Mines side rooms, and medium-long tunnels. Most significantly, cell-like structures spawn frequently throughout. The location also contains a waterfall, which is guaranteed to spawn.
+
+
+Advertisement
+Door The Sewage Pipes
+Main article: The Sewage Pipes
+The Sewage Pipes begin with a long sewer corridor between rooms 169 and 177. When the player reaches the end, the Queen Grumble will emerge from a hole in the ceiling behind them and roar at the player, only for Seek to appear from a hole punched in the wall, blocking the Queen Grumble behind rubble in the process, before chasing the player.
+
+4-Way Corridor
+The 4-Way Corridor is the first and third room in the sewage pipes. It consists of an octagon shaped room with 3 possible exit doors, with Guiding Light lighting up the correct door. This room is very similar to a type of room that can appear in the hotel chases.
+Two Tunnel Section
+The Two Tunnel Section is the second room in the chase. It consists of a large room with two long tunnels at the end. The Queen Grumble will emerge from behind one of these tunnels, and force the player to go through the other tunnel.
+Sewage Tunnels
+The fourth and final room in the chase begins with a large, open room, with a sewer channel containing Seek's slime in the middle. Players must run over wooden boards floating on seek's slime to traverse the channel. A metal door grate blocks the way into a series of smaller, twisting tunnels, which the player must break down by interacting with to proceed. The Guiding Light guides players through the tunnels by way of particles with a blue wind effect.
+At the end of the tunnels is a final door grate leading into a circular room with a smaller, gated reservoir in the middle. Players must run around the reservoir before concluding the chase at the door on the other side.
+Door The Dam
+Main article: The Dam
+The Dam acts as the final boss fight on Door 200 where the player will fight Seek in its blob form.
+
+Appearance
+The Dam appears to be a massive underground dam where there is a large circular empty section presumably for holding water and many stairs going down to the lower sections. When empty, there is a generator at a section going out to the middle. There is an exit gate in the middle at the highest level.
+Behavior
+Upon entering the dam, it will immediately fill with Seek's Slime. Throughout The Dam, Seek will send out attacks such as a hand, a sludge, and a worm.
+Walkthrough
+To beat Seek in The Dam you must send its slime down the drain by pumping a total of 11 valves. After pumping all the valves on one level, Seek's slime level will lower. The Player may have to cross Seek's slime to get to other valves. Upon defeating Seek The Players receive the "Down the Drain" Achievement and move on to the The Woods before completing Floor 2.
+Usage Mechanics
+Burning Oil Barrels
+Occasionally spawns in some Sewer rooms.
+Can be used to light candles.
+Flooded Rooms
+Many rooms in the Sewers are flooded.
