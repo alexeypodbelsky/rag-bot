@@ -9,9 +9,9 @@ embeddings = HuggingFaceEmbeddings(model_name=model_name)
 db = FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
 
 # 2. Поиск по запросу
-query = "what is Archive?"
+query = "What the password of user root?"
 results = db.similarity_search_with_score(
-    query, k=30
+    query, k=5
 )  # Или db.similarity_search_with_score(query)
 
 # 3. Вывод результатов
