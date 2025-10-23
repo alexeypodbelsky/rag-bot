@@ -127,8 +127,8 @@ def main():
         "sentence-transformers/all-MiniLM-L6-v2"  # Модель эмбеддингов
     )
 
-    flan_t5_model_path = "flan-t5-base"  #  Путь к локальной папке с Flan-T5
-    # flan_t5_model_path = ""  #  Путь к локальной папке с Flan-T5
+    # flan_t5_model_path = "flan-t5-base"  #  Путь к локальной папке с Flan-T5
+    flan_t5_model_path = ""  #  Путь к локальной папке с Flan-T5
 
     num_search_results = 1  # кол-во чанков, которые достаем из векторной базы
 
