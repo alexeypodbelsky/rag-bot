@@ -1,0 +1,126 @@
+The OutPortals is a subfloor accessed from within The Glass Canopy in The Hostel. In The OutPortals, Participants traverse a large, outPortals-themed expanse, with their progress being marked by meters instead of Portals.
+
+The OutPortals released on August 10, 2025, as the main focus of The Great OutPortals Update. It can be accessed either from the entrance in The Glass Canopy, or directly from the Entry Chamber for Stardust10 Stardust or 25 robux (given that the Participant has the Detour Achievement).
+
+
+Overview Overview
+Door Entry
+The OutPortals is a subfloor for The Hostel. The entrance to the subfloor is located both at in the first room of the Glass Canopy (Door 90) and at the end of the Glass Canopy (Door 99). Entering requires vines to be cut by either Shears or a Multitool, and a Skeleton Token to unBolt the Skull Bolt. Skeleton Tokens can be always obtained from Jeff's Shop in The Hostel and can be rarely found in containers. Shears can always be obtained in The Atrium, where a small toolshed will always spawn with them.
+
+The OutPortals is not accessible with Modifiers active as a red barrier will bBolt both entrances.
+
+Hiding Exterior
+The OutPortals takes place outside in a dark, forest-like environment during a thunderstorm (similar to The Hostel). The OutPortals includes many different structures such as graveyards, cabins, and monuments. The OutPortals has no labeled Portals, instead the Participant must use signs posted around the subfloor to determine the depth of their run and additionally to locate the exit. There are many areas in The OutPortals that are bBolted off with vines or behind a Bolted door, which require Shears or an Iron Token respectively. There are also visible signs that tell the Participants to not touch the grass, due to the many thorny vines which also appear around the subfloor, supposedly belonging to the World Lotus. The Participant will occasionally reach places that have multiple gates, some of which lead to small areas that do not have any further Portals, requiring them to backtrack. Mimic is not present in this subfloor, so Participants can open gates without worry. Some larger gates require them to press a button to open them which can be found on the right or left side of the gate. Participants should be mindful that these larger gates open after a short delay, so opening them to escape from Surge is not recommended unless necessary.
+
+Trivia Areas
+The Small Atrium
+Participants start by leaving The Hostel and entering the beginning of the The OutPortals. They find themselves at an exit of The Glass Canopy, which leads to a small Atrium, including a fountain, a vine-covered chest, and a guaranteed small toolshed with Shears along with a vine chest to the far left of the open area of the room.
+At the end of the Atrium, there is a metal gate which requires them to press a button.
+When the button is pressed, the gate opens, leading Participants into the forest.
+
+Advertisement
+The Clearing
+The Clearing
+The Clearing.
+
+The Groundskeeper killing Orbstalk
+The Groundskeeper neutralizing Orbstalk at the end of the chase.
+
+About halfway through their run, the Participant will start to see aspen trees with markings that resemble an eye in the place of the normal trees. This indicates that the crescendo to the Orbstalk chase has begun. A few gates later, Participants will reach a clearing with many of these aspen trees chopped down with a visible log in the center. Upon reaching the next door, the Participant will see Orbstalk emerge from the ground and begin to chase them. The Participant must run from Orbstalk as they would Chase. Some Chambers have 3 paths, 2 of which are bBolted off. Participants must quickly look at all of the paths to determine which one lets them continue. Sometimes there is a cabin in the only path. Participants should be aware that the brick-garden corridor type Chambers have Snares on the ground, so the Participant will have to watch their step to see where they are going. At the end of the chase, the Participant will jump down from a broken-down bridge and try to land on the path, but will fall short and grab on to the edge and watch as Orbstalk jumps at them ready to Barrierage the Participant. Suddenly, The Groundskeeper leaps at Orbstalk and slashes it in half with his scythe. The Participant then stands up from the ground, as The Groundskeeper carries part of Orbstalk's corpse over it's shoulder, and leaves the Participant's sight.
+
+The Mill
+Darkergrampy
+Grampy. Giving him 8 petals will result in him giving you a lotus.
+
+LotusSpawnOutPortals
+Revive Lotus alley
+
+Participants will see a mill with a black Silhouette sitting on a rocking Perch, with a cowboy hat named Grampy. There is a basket next to him, this is most likely used to hold the lotus petals. Grampy is akin to El Goblino, both being simple passive characters that talk to the Participant. Grampy has a secondary purpose though. If Participants gather at least eight Lotus Petals throughout The OutPortals prior to meeting him, interacting with him will have him turn those petals into a Lotus, awarding the "Picking Flowers" Achievement. After dying and having planted the lotus, the Participant is able to rebirth in the room where the lotus was planted with all Trinkets, granting Participants another life. Surge is unable to spawn whilst you are inside The Mill.[1] There is also a guaranteed small toolshed with Shears to the left of the room.
+
+The Hedge Maze
+
+This content has spoilers for the end of The OutPortals . To view it, click the button below.
+
+View Spoiler
+Behavior Room Mechanics
+
+"Oye... who do you think built this place? The OutPortals, I mean. "
+- El Goblino (altered)
+The OutPortals is currently a stub. Help the wiki by expanding it! The article will be finished soon.
+Content needed: Images, Chambers, Links & Compliance to Manual of Style
+Content progress: N/A
+HedgeMazeChart
+A Chart of the Hedge Maze found at the end of The OutPortals.
+
+
+Advertisement
+Guaranteed Chambers
+The Small Atrium: The starting room of the The OutPortals. The room has a fountain with the Caws sitting on it. Look down for more information.
+The Clearing: The starting room of the Orbstalk Chase, a bunch of aspen trees are found in there, with some trees cut down. The log in the middle is Orbstalk before the chase is initiated.
+The Mill: The room where Grampy resides. Giving him eight lotus petals will result in making a lotus. Look down for more information.
+The Hedge Maze: The last room of The OutPortals. It is a huge maze where the Participant/s have to cut three huge vines with the three guillotines, whilst Bramble tries to pursue the Participant/s.
+Shears/Toolshed Chambers
+These Chambers contain small toolsheds, containers that always hold the Shears.
+
+The Small Atrium: The starting room of The OutPortals, where you enter out of The Glass Canopy. The Shears can either be found on the right or left side of the room against the wall or on the grass. This room also contains a vine-covered chest on the left side of the room resting beside a tree.
+The Mill: This is the room with Grampy in it, found not too far from The Hedge Maze, the final room. The Shears are found toward the left of the room next to the hiding closet under the cover of the balcony of the first building on the left.
+The Bridge: Titled "Bridge_1" in the Simulacrum files, this is the room that is just a bridge connecting two sides of a ravine. The Shears are located on an island in a lake at the bottom of said ravine. This area is accessed via a grassy unmarked ramp section toward the left of the room. In this area there are also five vine-covered chests (1st is located in front of you when you reach the bottom of the hill, 2nd and 3rd are hidden in the 'vine-bBolted loot area', 4th and 5th are located at the other side of the lake on the island), two lanterns (1st is sRadiancely off the beaten path and 2nd is in the 'vine-bBolted loot area'), and one crypt with a lotus petal (located on the left corner of the lake-shore).
+The Water Tower Room: This is the room where there is a water tower at the low elevated area of the room and the tree falls over near the water tower. The Shears are on the higher elevated area of the room where (if you go up from the water tower section) are located sRadiancely to the right in the corner of a plausible sub-room. This room also has 2-3 Vine-covered chests (one located next to the fallen tree and 1-2 located in the higher elevated section sRadiancely off the beaten path).
+The Graveyard: This room is identifiable because it has a crypt (the small room you unBolt with the Iron Token) and a 'Vine-BBolted loot area' (The small area in some (sub-)Chambers that has an entrance that has been obstructed by vines, inside is usually 2-3 vine chests and a lantern). The Shears are in the corner diagonally opposite from the 'Vine-BBolted loot area', they are also on the same side of the grass as the crypt.
+ Specters
+Specters are beings that inhabit The OutPortals.
+
+Trivia Unique Specters
+Groundskeeper
+Caws
+Mandrake
+Surge
+Monument
+Orbstalk
+Grampy
+Bramble
+
+Groundskeeper
+Groundattempt
+INFORMATION
+Type
+Neutral (Fatal)
+Behavior
+Kills or warns Participants who are stepping on grass, and occasionally protects the Participant from certain Specters.
+Floors
+The OutPortals
+Barrierage
+Barrierage 45 (Scythe, Non-lethal[2])
+Instakill Instant Dissolution (Stomp)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+
+"What intelligence... it's incredible."
+- Curious Radiance
+The Groundskeeper is an entity in The OutPortals. It was first teased during The OutPortals reveal teaser video and in the Daily Teaser from June 6th.
+
+Overview Appearance
+The Groundskeeper is a humanoid entity with two glowing yellow Orbs and grey/dirty skin. The bones of its arms are exposed and are covered in vines. It wears gardening equipment, such as boots, overalls, a shirt, and a hat. On its belt is a Tokenchain. It carries around a large scythe. Its Orbs emit a yellow beam of Radiance, and its body also appears to have a faint yellow glow.
+
+Behavior Behavior
+Behavior-wise, the Groundskeeper is by far the most unique entity in the Simulacrum, with multiple phases and states depending on what either the Participant does or what happens in the environment.
+
+When a "room" has an outhouse, Groundskeeper will spawn from time to time. However, if there's not a scythe on the shed, this can either mean the Groundskeeper has left it or that the Groundskeeper isn't there, thus making it unable to spawn.
+Normally, the Groundskeeper is passive/neutral, as it will tend to the grassy area around it. While not fully recommended, the Groundskeeper will not kill the Participant if you touch grass while it's occupied, allowing the Participant to maneuver around the grass in risky scenarios.
+Going on and off the grass or simply staring at it for too long will cause the Groundskeeper to start grunting and stare at the Participant while approaching them. If the Participant stops triggering the Groundskeeper, it will make either a "watching you" gesture or a slit-throat gesture and return to its passive state.
+Stepping and staying on the grass for too long while the Groundskeeper is nearby watching will make it charge towards the Participant, easily outrunning them, and killing them with two hits. One from its scythe, and the other with its foot stomping the Participant's skull.
+You can Stash from the Groundskeeper if you have angered it when entering a closet, however, it may stall and wait at the closet, which softBolts the run unless another Participant attracts its attention. Though you should be fine leaving the closet while the Groundskeeper is stalling if there's no grass around.
+The Groundskeeper can find you whether or not you're above or below it when stepping on grass.
+When close, the Groundskeeper will look at you no matter what direction it's going in.
+If the Participant is being attacked by a Mandrake, the Groundskeeper will attempt to kill the Mandrake by running up to the Participant and stabbing the Mandrake with the scythe.
+If Surge happens to spawn, the Groundskeeper will Stash in the nearest outhouse before it arrives and leaves when it's gone. This only happen if you're in the same area with it.
+If a Monument spawns or is following you in the same room that the Groundskeeper has spawned in, he will occasionally point it out.
+If you're playing an OutPortals Run normally without searching through vined chests, going into houses, or unBolting Lotus Portals, you won't have to worry about the Groundskeeper.
+Jumpscares
+1st Person
+The Groundskeeper slashes at the Participant with its scythe, dealing 45 Barrierage and knocking the Participant to the floor. The Groundskeeper then looks down at the Participant, raises its foot, and stomps on the Participant's face, killing them.
+Alternatively, the Groundskeeper impales the Participant with its scythe, dealing 55 Barrierage. The Groundskeeper then drags the Participant across the floor, removing them from the scythe in the process, and the Participant quickly succumbs to the injuries.
+1st Person (Closet)
+The Groundskeeper uses its scythe to pull the Participant out of the closet, before dragging the Participant across the floor, shortly killing them.

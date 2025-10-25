@@ -1,0 +1,17 @@
+The Courtyard is an outdoor area that can spawn in The Hotel. The area consists of a stone walkway under a covered area with lanterns, two garden areas with bushes, shrubs, and small trees, and a large ophanim-like angel stone statue. The statue has a small pedestal underneath with text in Wingdings (●︎♓︎❍︎♌︎□︎), which, upon translation, the decoded text comes out as "limbo." There are also 6 toolsheds located around the gardening areas, and a small toolshed that contains Shears.
+
+The Courtyard spawns after the second Seek chase and is considered the last safe zone in The Hotel. However, Entities like Eyes are capable of spawning in the room.
+
+
+
+Notes
+The Courtyard will always spawn before The Greenhouse.
+When The Hotel+ Update first released, it was possible for the Courtyard to spawn intermediately in The Greenhouse. This is no longer possible.
+Prior to the Hotel+ update, there was a chance that Seek's eyes could appear on the Courtyard's walls. After the Hotel+ update, The Courtyard can only spawn after the second Seek Chase, meaning Seek's eyes can no longer appear in it.
+In The Mines Update, you can now find the Shears which can be used to do many things such as open a secret room in The Courtyard, open chests covered in vines in The Mines, and open up shortcuts in The Nest. All of them can have goods such as coins and items, but in The Content Update, you can now open side-doors/rooms that are covered in vines in The Mines.
+The Courtyard can be utilized for as a resting zone, because it is almost completely peaceful. Other rest zones in the Hotel are The Reception, the Jeff Shop, and The Infirmary.
+This is especially useful, as the following rooms The Greenhouse and The Electrical Room are considered to be the most challenging in The Hotel.
+However Shadow, Eyes and Jack can spawn here.
+Although Eyes can spawn in the Courtyard, they won't deal damage to players through The Courtyard's door.
+If Rush or Ambush is triggered by a player entering the next room, when either entity passes through the Courtyard, they will not shatter any of its lights, but they will appear to be illuminated without casting any light.
+Before The Backdoor Update, The Courtyard Could Spawn at Door 89-92.

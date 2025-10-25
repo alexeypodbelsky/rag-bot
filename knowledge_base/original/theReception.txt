@@ -1,0 +1,30 @@
+The Reception, also known as Room/Door 0, is the starting area of The Hotel. It introduces the player to crouching and Room keys.
+
+logo
+00:02
+
+41:20
+
+
+
+
+Overview Overview
+The Reception is comprised of 3 elevators facing towards a reception desk. It also includes various containers throughout, and furniture that can include chairs, bookshelves, baggage trolleys, fireplaces, potted plants, rugs and paintings, and various items like briefcases, potted plants, a quill with an ink pot and a sheet of paper next to a hand bell.
+
+The Reception and most of the Hotel is themed off of Victorian and Gothic hotels that existed during the early 1900s. Various objects and items are indicative of this theming, this includes the use of briefcases for luggage, fireplaces for heat, chandeliers and wall-mounted lanterns for light, feather quills and ink pots for writing, and plentiful paintings with elegant frames found throughout the Hotel.
+
+If the player had any items stored in one of the Rifts from previous runs, a Rift will appear near where the Room Key is located.
+
+If the players entered The Reception by escaping The Backdoor, an empty doorway will appear in front of the elevators, brightened up by Curious Light.
+
+Trivia Trivia
+The player can ring the bell in this room, but it breaks after 10 rings.
+Although The Reception is the first room in the Hotel, it is known also as Room 0000, confirmed after The Hunt event update, since when you pass door 0000 in The Backdoor, you continue your run in The Reception.
+Timothy can still jumpscare players in the drawers of The Reception.
+The Reception's decorations and containers along with the amount of such are randomly generated in each round.
+Dread may spawn, though it takes at least an hour for it to spawn. Modifiers do not decrease this number.
+Every kind of damage in The Reception won't decrease the player's health below 2 HP until the first door is opened, except instakill entities. The same applies for The Adit and the first room of every floor and sub-floor.
+If the player dies in The Reception (to an instakill) before opening the first door, they will revive instantly for free. The same applies for The Adit and the first room of every floor and sub-floor.
+This feature was implemented in the Hunt Update, so it doesn't work in SUPER HARD MODE!!! (when dying to the Evil Key).
+During the April Fools 2023 event, Door 1 and the middle elevator were swapped, and the key that is in the normal place will kill you. The real key is on the side of the fireplace.
+

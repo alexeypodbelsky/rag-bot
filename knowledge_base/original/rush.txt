@@ -1,0 +1,119 @@
+Rush is a major hostile entity in DOORS. It is one of the most frequent threats in both The Hotel and The Mines.
+
+Overview Appearance
+Rush appears as a dark gray skull-like face shrouded in a thick dark blue/black smoke with a dense aura. It has a large open smile, and parts of its face are distorted and hollowed out. Two black holes in the center of its face depict eyes, and it has a distorted nose that also fuses itself with other holes. Its lower jaw is also fully broken with its teeth randomly aligned.
+
+Behavior Behavior
+In The Hotel, Rush's spawn is signaled by the lights flickering for approximately 1.5 seconds. After a few seconds, Rush will begin to quickly dash through rooms, shattering most of the lights that it passes (rooms Rush darkens are considered dark rooms, meaning that Screech can spawn in them) while emitting a unique scream/audio, which progressively increases in volume as it approaches a player. When Rush is near a room that a player is in, the lighting will dim slightly. A player entering Rush's "line of sight" at any point will result in an instant death[1]; the intended and guaranteed method to survive Rush is for players to be hiding when it passes them.
+
+When Rush reaches an unopened door, it will open that door, travel through the subsequent room, and despawn once it reaches the unopened door of that room (in The Greenhouse (Doors 90-98) or locked rooms, Rush does not despawn like this; instead, it immediately despawns upon reaching an unopened door).
+
+In The Hotel, Rush can spawn as early as Door 3 and as late as Door 98, with its typical first spawn being between doors 10-15. Once players pass The Library (Door 50), Rush's spawn chance will increase slightly, and increase significantly in The Greenhouse, where it travels at a faster pace.[2] Rush is able to spawn during Seek's crescendo.
+
+In The Mines, Rush's behavior is similar to that of The Hotel, with some key differences. In addition to flickering lights, earthquakes will also signal Rush's spawn. When an earthquake occurs, the room will shake, and an audible rumbling sound can be heard. Rush is also able to attack ahead of players; it will spawn behind an unopened door, wait several seconds, and then open that door, traveling through the rooms in reverse order and can spawn early as Door 103 and as latest as Door 197, with its typical first spawn being after the first Figure cameo encounter.
+
+Notes
+Rush's hitbox operates off of raycasting, meaning that players are able to avoid Rush by staying out of its line of sight, such as keeping a safe distance or positioning yourself behind specific objects.
+The achievement "In Plain Sight" is granted when a player dodges Rush (or Ambush, who operates off of similar raycasting) this way for the first time.
+After The Hunt Update, Rush can spawn in Seek's Crescendo.
+Rush cannot spawn in the following areas:
+Rooms without hiding spots (Can spawn with certain Modifiers)
+On The Hotel the doors: 1, 2, 48, 49, 51, 52, 59, 62, 87, 90, 99.
+On The Mines the doors: 101, 102, 137, 138, 139, 140, 141, 151, 198, 199.
+Safe rooms:
+The Reception, Door 0
+Library Entrance room
+Hotel's Skinny Hallway
+Pre-Jeff shop room hallway (The Hotel & The Mines).
+Jeff Shop, Door 53 - 59. 153-162
+The Rooms's subfloor entrance, Door 60
+Mega Gate Basement, Door 61
+Pre-Infirmary room
+The Infirmary, Around door 67
+Pre-Courtyard room, Door 88
+The Courtyard, Door 89
+The Adit, Door 100.5
+Seek's chases
+The room previous from Seek's chase hallway intro (The Hotel & The Mines).
+2 Rooms after the Seek chase (The Hotel & The Mines).
+The Grand Hallway, variable
+The Caverns, Doors 142-149
+The Sewage Pipes, Doors 170-180
+Halt's sequences
+The next and previous room from a Halt encounter. (The Hotel & The Mines).
+The Dining Hall, variable
+The Bridges, variable
+Bossfight sequences
+The Library, Door 50
+The Electrical Room, Door 100
+The Shafts, variable
+The Nest, Door 150
+The Dam, Door 200
+It is recommended to hide when hearing Rush's scream, so that the player can have enough time to wait for Rush to pass and do not have to worry about Hide.
+Rush, when spawning, will take 11-15 seconds to rush through any Greenhouse room.
+Given this, you know to pay attention the most around 10 seconds after opening a door, and when hearing Rush, quickly getting inside a hiding spot.
+There is a 3 second interval between being able to hear Rush and the entity roaming through the room you're in.
+Keep in mind that Hide has been slightly buffed in 2024 Trick Or Treat Update, and it won't let you hide any longer than 4.5 seconds in the Greenhouse.
+This wasn't the case before the Haunt update, where Rush would take exactly 10 seconds from opening a door to attack. The time window between hearing Rush and it attacking used to be significantly smaller, but hiding on the 9th second from opening the door would result in guaranteed success.
+Sometimes, the lights will flicker but Rush wouldn't spawn, likely to startle players,Seek's eyes that blink or Sally's spawn.
+Rush is one of the many entities capable of breaking lights. Rush will break the lights of the rooms as it rushes through them.
+There are a few exceptions where Rush is uncapable of breaking the lights. Some of them are The Reception, The Library and The Electrical Room after the floor 2 patch.
+However if Rush passes through The Electrical Room, it will make Screech be able to spawn on Door 100 even without any Screech's modifiers.
+Rush is one of the few entities capable of opening doors, this can sometimes cause other entities to spawn and/or despawn or certain events to trigger.
+However, Rush can't open locked doors, Library entrance, Greenhouse doors, The Electrical Room Door, and generator rooms in The Mines.
+Rush could open the entrance to The Library before The Mines Update (and therefore, in SUPER HARD MODE!!! and with HOTEL-).
+Rush could open Greenhouse doors before The Mines Update (and therefore, in SUPER HARD MODE!!! and with HOTEL-), as they had the same appearance as other Hotel doors.
+Rush travels slower the more players there are in a game.
+Players can use the Crucifix to "banish" Rush.
+This does not permanently stop Rush, as it can still spawn later in the run.
+Rush deals 125 damage, meaning it is possible to survive Rush having enough health and/or star shield while still being in its sight.
+Rush "modifies" the room where it spawn, making it capable of having hiding spots, and therefore, having hiding spots.
+The same applies to other node entities.
+Before The Hunt Update, the next two rooms after the room that caused it to spawn were additionally "modified" in a very similar way, making them extremely likely to contain hiding spots too.
+This was made so the players could keep walking into next rooms with a practically almost guaranteed survival instead of having to wait for Rush to come. It also made delayed Rushes less unfair.
+However, this caused some bugs, like delaying certain guaranteed rooms or making them just not spawn. This might be the reason why it was changed.
+This still happens in Super Hard Mode and with the Hotel- modifier.
+Fakeouts occasionally occur, where Rush's audio plays quickly but stops right after to scare players.
+When Sally spawns with Rush, Sally will flicker and break all the lights in every room, sometimes making Rush harder to detect since the lights have broke and it can be delayed sometimes.
+
+Advertisement
+SUPER HARD MODE!!!
+Though it may still spawn in its "normal" state, Rush has a high chance of spawning with a custom decal and emitting alternative audio.
+Rush has a rare chance to rebound similar to Blitz; this does not occur in The Greenhouse.
+Rush's damage will be fatal, no matter how much health and shield you have.
+RETRO MODE
+Rush spawns way more often and when it kills, a red screen will be shown for a few seconds before its normal jumpscare cutscene.
+Rush can still instantly jumpscare the player on this mode.
+BATTLE MODE
+Rush moves faster and can start appearing earlier.
+Rush deals 100 damage instead of 125.
+HOTEL-
+Rush's ambient sounds are slightly quieter.
+If Rush or Ambush passed in a room and broke the lights, Screech won't spawn.
+Rush's damage will be fatal, no matter how much health you have.
+Rush will not use a delayed attack in this mode, it will spawn immediately, same applies for Ambush.
+Trivia Strategy
+As of The Great Outdoors Update, in The Hotel, Rush can spawn as early as Door 3 and as late as Door 98.
+Rush spawning on Door 98 can be proven with no previous modifiers with the seed: 24594708.
+However the latest Rush spawn before The Greenhouse in the current build is door 86.
+In the current build, any other node aside of Rush earliest spawn is door 3 and latest is door 86 in The Hotel.
+Rush earliest spawn in The Greenhouse is door 91.
+In The Mines, Rush (and other natural node entities) can spawn as early as Door 103 and as late as Door 197.
+Although the most common first spawn is (around) the 13th door of the floor.
+When the lights flicker when first entering a room, it is a signal that Rush is close. Players are able to survive Rush's attack by hiding. However, hiding too early can result in Hide kicking the player out. This risk also increases the further you progress, as Hide becomes noticeably more aggressive as the game progresses.
+A good strategy to avoid Hide is to go to the nearest hiding spot as soon as Rush spawns and wait for Rush's audio to get louder, indicating that Rush is getting closer, to hide.
+This strategy can also be effectively used when facing Ambush, as it can be difficult to deal with since it rebounds, and is risky if you are using the Afterimage modifier.
+Doing this in multiplayer might be a little bit riskier, as other players might steal the closet you choose to hide in.
+In multiplayer, if the lights flicker in the room you are behind, e.g. when your group enters door 24 but you are at door 23, if you are in a lit room, the lights will flicker too and warn you as well. If you are in a dark room, you will not be notified and may possibly die without knowing Rush is arriving. This may be the same as to Ambush, although Rush will be easier to survive as it moves slower than Ambush.
+If the "Rent's Due" modifier is active, the player may consider waiting until the screen shakes and then hiding. Screen shaking indicates that Rush is even closer, but Rush's hitbox is quite small, so the player should have enough time to react. This is especially useful with I'm Runnin' Here, where Rush just flies into the next door faster than Hide can trigger, but you are required to have good reflexes and low ping ms, or else Rush will kill you while doing barely the hiding animation or even without triggering the hiding animation.
+Rush spawns in a specific spawn area; however, this may backfire. The spawning goes as follows: 2–4 times between The Reception and the first Seek chase, 0–2 times between the first Seek chase and the Jeff Shop, 2–3 times between the Jeff Shop and the second Seek chase, 1–2 times between the second Seek chase and the Greenhouse, and 2–4 times in The Greenhouse, this completly seed based and also based on spawnrate modiifers, if there are any.
+When progressing through The Greenhouse, Rush is more difficult due to the fact that The Greenhouse has no lights to alert the appearance of Rush.
+There are multiple Snares scattered around The Greenhouse. Stepping on one of these can cause players to get stuck in Rush's path. A crucifix will not work as items cannot be held during Snare's animation. Using a light source will help detect these traps as well.
+When entering the Greenhouse, you should always stay close to an available closet due to Rush's unpredictable cue anytime around Doors 91–98.
+If you can't find a hiding spot before Rush arrives, you should consider using a Starlight Bottle or a Starlight Jug or as this items could overheal you and makes you survive a Rush attack which deals 125 damage or before the attack having buffed health effect from a candy(Starlight shield or Max health effect), glitch fragment or chat control effect.
+Candies like Volatile Starlight, Cough Drop and Hard candy can help with that.
+Rock candy effect has the effect from God modem. Can protect player from Rush for a pretty short time, you have to time its use pretty well in order to survive Rush.
+After The Hunt Update, and also applying for The Great Outdoors Update, Rush and Ambush can spawn again after their last encounter (not including The Rooms or The Backdoor nodes entities) every time at least 2 doors are opened, if players are using timer spawn rate modifiers such as Really bad time, Rush Hour, and Back for Seconds, with all previous modifiers enabled at the same time in the worst scenario. Example: Rush (Door 15), Rush (Door 17), Ambush (Door 19), A-60 (Door 21).
+This does not apply for A-60, A-120 and Blitz. In this case, there is a chance of having another node entity spawn, or even the same entity again after opening the next door from the last encounter spawn. This can also trigger Ambush and Rush to spawn in a row if players are using timer spawn rate modifier such as Really bad time, Room for More, and Blitz, Oh modifiers are enabled at the same time in the worst scenario. Example: A-60 (Door 25), A-120 (Door 26), Blitz (Door 27), Rush (Door 28).
+However all of this can still happen without spawnrate modifiers but is pretty unlikely and can be seed based.
+Rush will never use a delayed attack in The Greenhouse, which means that Rush will attack the player at a certain and predictable period of time even if the "Rush Around" modifier is used. This can be a great advantage if the player is using the "I'm Tip-Toein' Here" or/and "I'm Runnin' Here" modifiers.

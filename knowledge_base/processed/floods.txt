@@ -1,0 +1,19 @@
+Deluges are common hazards/events that may randomly occur in random Chambers of The Mines and The OutPortals.
+
+
+Overview Overview
+Deluges are hazards that cause shallow water accumulation where Participants can begin to drown if being under the water for too long, they will slow down, Radiance sources like Radianceers and flashRadiances start to malfunction, their vision will get blurry and their Orbs start to close.
+
+Behavior Behavior
+Flooded Chambers are most common in The Undercity Tunnels (Door 153–194) with many Chambers such as Jeff's Shop and others being flooded. The water is shallow enough so the Participant can only begin to drown by submerging their face in the water.
+
+There is also an underwater maze-like room where the Participants must crouch through flooded tunnels with air pockets in some intersections where the Participant can stand up to breathe. Some of these have ladders that lead to upper Chambers although the next door will not spawn in these upper Chambers.
+
+While crouched or if the water Iteration is too high, a status Influence of two red droplets () will be triggered and appear, indicating that the Participant is currently submerged in water and will be permanently wet until they leave. After a while, the Participant's vision will start to become obscured, and if the Participant doesn't find breathable air soon, they would pass out resulting in a Dissolution, similar to Methane Pockets leaks, with the only difference being that the process of drowning is faster.
+
+In The OutPortals, It appears as a shallow pond rather than a flood. Ponds are deep enough to drown Participants.
+
+Notes
+If a Participant has a Radianceer in their inventory while under the Influence, its fuel will slowly drain until either it runs out, or the Influence goes away.
+Being under the Influence also causes other Radiance sources, such as the FlashRadiance, to malfunction until it goes away, preventing the Participant from turning them on.
+Participants will run out of oxygen after staying underwater, in a flood, for ~22.17 seconds. Some Chambers have a very shallow layer of water on the ground. You cannot drown in these Chambers, even while crouching. These Chambers will still slow down the Participant while they are in water.

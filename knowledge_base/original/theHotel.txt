@@ -1,0 +1,424 @@
+The Hotel is the first main floor in DOORS. It can be accessed by using one of the elevators in the Lobby, creating or joining an elevator for The Hotel, or after completing The Backdoor.
+
+
+Overview Overview
+The Hotel appears as a cozy, vintage-styled hotel comprised of various rooms and sections. Almost all interior spaces are made of wood, along with other amenities such as couches, beds, bookshelves, and fireplaces. A heavy storm perpetually rains on outside, shrouding The Hotel in an ambience that is particularly noticeable in rooms with windows.
+
+At the start of each run (that was not continued from The Backdoor), players may purchase items at the Pre-Run Shop with Knobs while in the elevator. If every player closes the Pre-Run Shop, they can finish the elevator ride early.
+
+Players will have to make their way through various randomly generated rooms each separated by numbered doors in the corridor. Every player's goal is to reach Door 100 in order to reach the elevator and successfully escape to The Mines.
+
+
+This content has spoilers for Door 100 in The Hotel. To view it, click the button below.
+
+View Spoiler
+
+Advertisement
+Door Doors
+Main article: Doors
+Inside The Hotel, there are several types of doors that players may come across, all making a different noise when opening. There are eight different types of doors that all appear at several locations in the game.
+
+ Entities
+Main article: List of Entities
+Entities are unnatural beings that inhabit The Hotel. Most of them pose as roadblocks and threats to hinder players’ progress and usually attempt to kill or damage them in whatever ways they can.
+
+See their respective pages for more information.
+
+Main Entities
+Guiding Light - A helpful entity that guides players throughout their journey. If players die, it will provide tips on how to survive the entity that killed them most of the time (not including the 2023 April Fool's Event). Guiding Light also highlights important items and objects (such as keys and doors) after a certain amount of time has passed in a room.
+Figure - The main antagonist of The Hotel. It is completely blind, and thus relies on sounds and vibrations to locate players in both The Library and The Electrical Room.
+Seek - Appears twice to chase down players. It announces its presence with eyes appearing from black goo and eye paintings appearing on the walls in earlier rooms. The lights will also flicker in these rooms, even if and when there are no other entities.
+Recurring Entities
+Rush - Flickers the lights before rushing through several rooms up to an unopened correctly labelled door and opens it, breaking all the lights in the process and making the room a dark room. All nearby players that aren't hiding are dealt 125 damage on sight, enough to kill without overheal.
+Ambush - A more elusive entity, which has a rare chance to replace Rush without flickering the lights, rather being announced by a loud sound. It is quicker and rebounds through the rooms 2-6 times to catch players off-guard without breaking the lights. Similarly to Rush, Ambush deals 100 damage on sight to all non-hiding nearby players.
+Eyes - Appears randomly upon entering a room, and are signified by a distinct sound effect and a bright blue/purple glow. The entity deals rapid damage if stared at.
+Screech - Can spawn in any dark rooms (including The Library and The Electrical Room with modifiers) and reveals its presence with a “Psst!” and a slight screen shake. Players must look around in order to spot the entity and counteract the attack, otherwise it will deal 40 damage to them.
+Dupe - Poses as a door with a number label, but the number is always out of order and wrong. Players must not enter the wrong door, or Dupe will attack them, dealing 40 damage. A fake door may be identified by listening for growls or scratching sounds near the door and the wrong door number.
+
+Advertisement
+Miscellaneous Entities
+Halt - Chases down players in The Dining Hall, and tries to ambush them by appearing from behind and in front, the player having to turn around repeatedly in order to get out of The Dining Hall.
+Hide - An unseen entity which becomes aggravated if a player hides for too long in a closet, after which it will push them out, damaging them. Players will be unable to hide again for a few seconds.
+Jack - Rarely appears behind doors (
+1
+2000
+{\displaystyle {\frac {1}{2000}}}) and in closets (
+1
+200
+{\displaystyle {\frac {1}{200}}}) to jumpscare players.
+Timothy - A spider that lurks in containers. When players open a container, it has a 
+1
+200
+{\displaystyle {\frac {1}{200}}} chance to spawn and jump on their face and take away a small bit of health.
+Dread - Attacks players when they stay for too long in one room, and can appear in any room past The Reception. After the time has passed the player's screen will begin to darken, and exhibit a monotone tint. It will slowly chase players while remaining scarcely visible.
+Snare - Appears in The Greenhouse, stopping any player in their tracks if they step on it. Players must avoid them with some sort of light source for identifying their location.
+Sally - Attacks players after a lightning strike or flicker of lights, although being very rare. She won't attack if she is given an item to play with.
+Void - Attacks players that are lagging too far back from the rest of the team when in a multiplayer elevator. It will teleport them back to their team but deals a random amount of damage in the process (Estimatedly, 25% health)
+El Goblino - A friendly entity that players can chat with in Jeff's Shop. After a player talks to him three times, he will go silent.
+Jeff - A friendly entity that resides in its respective shop, selling items to players who are interested.
+Bob - A friendly entity that players can interact with but causes nothing to happen. It appears in Jeff's Shop.
+Shadow - A very rare harmless ghostly entity (
+1
+2000
+{\displaystyle {\frac {1}{2000}}}) that appears briefly when the lights flicker randomly after opening a new door.
+Curious Light - Appears as a yellow rift if the Bottle of Starlight was previously used and while it lights up the entrances to The Rooms and The Outdoors.
+Glitch - Acts as a failsafe (The Mines and The Hotel). It will appear when the next room has failed to load. It also functions as Void in The Rooms and The Backdoor.
+Glitch Fragment Entities - Glitched variations of Screech, Rush and Ambush that appear when interacting with a Glitch Fragment.
+World Lotus - It appears as a thorny vine outside the perimeter gate of The Courtyard.
+Hazards
+Fallen Chandeliers - Fires present in Seek's chases.
+Limited Entities section is collapsed, to expand it, press here.
+
+
+Advertisement
+Puzzles Puzzles
+Door Meeting Room
+Main Article: The Meeting Room
+
+
+
+The Meeting Room is a randomly generated location where players will have to swap paintings around to match each painting's canvas shape outlined with a blue border on the walls, generated by the Guiding Light. Said canvas shapes are horizontally and vertically rectangular, square, and oval. Once all painting canvases are matching, the fireplace will descend with a click, revealing the door to the next room.
+
+Door The Library
+Main Article: The Library
+
+A wide-view of the Library.
+A wide-view of the Library.
+
+The Library is a pre-generated location that players will have to escape whilst avoiding Figure. The Library always spawns at room 50. In this room, players must find books located on the bookshelves. The books are generated protruding out of the shelves and with brighter color than other fake books, making them easier to spot. It will also emit a constant ringing sound when near one. At the left side of the Library, there is a large desk with drawers. On the desk, there is a piece of paper revealing the code for the next door.
+
+The entrance to the Library is shown to be 2 big doors, quite different from the usual, but there is also a small chance that room 50 is displayed with a normal door. When entered, players will experience a scripted sequence with Figure's first appearance in the run, where it'll spawn on the left side of the library.
+
+The player's objective in the Library is acquiring the solution paper and 5-8 books that will aid them in escaping the room, having the passcode and shapes including the number, to unlock the door out of the library. The remaining players that take too long to get to the door will almost inevitably be killed by Figure as it will know exactly where they are, or they will be voided (without damage) if not eaten already.
+
+
+Advertisement
+Library Puzzle Notes
+Players must be wary of climbing on short objects, as they might attract Figure.
+Books emit a sparkling sound, making it easier for players to find them.
+Some books contain symbols that do not match the code in the solution paper and are useless.
+The Figure gets faster, and its detection radius increases with each book collected.
+As of the Hotel+ Update, the Figure cannot sense a player's heartbeat in the Library. The Figure can still do so in the Electrical Room.
+As of The Content Update, it’s been buffed due to the Heartbeat Minigame being added back.
+It is possible to guess the code. However, it is extremely inefficient to do so unless it is only the last digit being guessed.
+Door Circuit Breaker Puzzle
+BreakerPuzzle
+The Circuit Breaker Puzzle.
+
+The Circuit Breaker is a pre-generated puzzle, having to be solved before going down the elevator to Floor 2. It will always spawn in Room 100, The Electrical Room.
+
+The noise that plays when you complete a stage
+
+The noise that plays when the breaker progress bar increases/decreases
+
+The noise that plays whenever a number is shown
+
+The noise that plays whenever a number is shown turned off
+
+The circuit breaker has 10 switches that players can interact with, but they're missing in each place. Players will need to find the 10 switches scattered around the Electrical Room. After finding all of them, a player needs to find the electrical room key (Or use a Lockpick) to unlock a corridor with the circuit breaker. They must put the switches inside the box by interacting with it. After that, a cutscene is shown where Figure will step on a wire, which sparks up catches on fire on oil, causing the Figure to jump out of the window. After that, the screen at the top of the circuit breaker will show ten different numbers with either a glowing box or an empty box. These shows which switches need to be turned on or off to power up the elevator. The bar fills by 10% for each switch correctly set, depending on what the monitor has shown. Once the bar is filled completely, the switches will reset, and the monitor will display another set of switches. When a player gets to the third bar, the last number will be shown as "???", where you will have to guess by picking a random number, or guessing the pattern. This value changes each time if players get it wrong. After a player completes the three bars, the breaker will turn on, giving power to the elevator for the next cutscene. Then, the Figure will break through a door behind the players, making players run as fast as possible to get to the elevator before they are caught.
+
+
+Advertisement
+Circuit Breaker Puzzle Notes
+Completing this puzzle in under a minute will grant players the Expert Technician Achievement.
+An easy strategy to get this achievement involves flickering all the switches on and turning the empty squares off at the start of the 3rd bar.
+If players make an error, the switches will remain on. Players should turn them off while the bar is decreasing to avoid confusion.
+There is no time limit on the puzzle, the Figure will only break down the door once it has been completed.
+After the 2nd complete bar, a "??" symbol will pop up, replacing one of the numbers in the puzzle. Players can guess it, or wait, as the number being hidden is changed each time.
+Behavior Room Mechanics
+Guaranteed Rooms
+Door 0, The Reception
+Doors 3 - 87, The Dining Hall
+Doors 29 - 46, Start of 1st Seek Chase (followed by 5 rooms of the chase)
+Door 49, Library Entrance room (or the first Library Reception)
+Door 50, The Library
+Door 52 - 58, Jeff Shop Entrance rooms
+Door 53 - 59, Jeff Shop
+Door 60, A specific ruined room, where the entrance to The Rooms is situated
+Door 61, Dark Basement
+Door 64 - 69, Pre-Infirmary rooms.
+It can also spawn in other places as a normal room, not only as the room previous to the Infirmary
+Players always spawn in it when coming back from The Rooms
+Door 65 - 70, The Infirmary
+Only appears between 67-68 if the players come back from The Rooms
+Doors 71 - 86, Start of 2nd Seek Chase (followed by 6 rooms of the chase)
+Door 88, Courtyard Entrance
+It can also spawn in other places as a normal room, not only as the room previous to the Courtyard.
+Door 89, The Courtyard, Pre-Greenhouse room
+Doors 90-98, The Greenhouse
+Door 99, Pre-Electrical Room
+Door 100, The Electrical Room
+
+Advertisement
+Locked Rooms
+Lt room. The key can spawn anywhere in the room although it will usually spawn on furniture or inside drawers. The key can rarely also spawn in an extra room, inside of a drawer. Locked Rooms can spawn as the following:
+
+The Reception - One of the two fixed locked rooms. Always spawns on Door 0, and the key is on the shelf, but in the 2023 April Fools Event, a fake key, Known as THE EVIL KEY!!!(numbered 0002) kills players, and the real key is hidden next to a bookshelf.
+An L-Shaped Room, with a sub-room either as a small office or a standard hotel room. This is often said as the easiest key room other than The Reception. It is the only locked room that can spawn as a ruined room, and the only room in the hotel other than The Electrical Room and The Rooms entrance to have a broken wall, as one of the walls will be damaged by a shelf, allowing free access to the sub-room without using the door. This type of room can spawn early as Door 1.Screenshot 2022-11-11 11.32.30 AM
+An example of a L-Shaped Hotel room with the room key on the chair.
+
+A corridor with a window suite on the side. It contains a large compartment with an almost guaranteed item. This room also has many crates. This type of room can spawn as early as Door 10.
+A plus junction, with four small hotel rooms, but many drawers. Dupe doors can spawn. This type of room can spawn as early as Door 5.
+A long corridor with eight small hotel rooms. It also has many drawers. Luggage carts may be in the way. This type of room can spawn as early as Door 4.
+A T-Shaped junction with a blocked middle, with several rooms, some are empty, while others are hotel rooms. Either a Blocked Door, a Door with a Chest/Drawer or a Dupe door can spawn. These rooms can spawn as early as Door 18.
+The Electrical Room - One of the two fixed rooms, with the Electrical Room Key spawning on some shelves. The key opens the High Voltage Door, leading to the Circuit Puzzle. Prior to Hotel+, it spawned in the Mining Elevator. Always spawns on Door 100.
+Players can also use a Lockpick instead if they do not wish to find the key, which is helpful in locked Dark Rooms, which is an event that can also occur.
+
+Lever Gate Rooms
+These rooms have a chain link gate blocking the exit door. In order to progress, Players must find the lever to open the gate. Basements are Lever Gate Rooms.
+
+Small Basements
+Before The Content Update, Basements were known as small basements, which appeared to be very similar to the current Basements. Small basements would always spawn with the exact same room generation. As of The Content Update, small basements and the large basement have been merged.
+
+The Basement
+See The Basement or Special Locations below for information.
+
+Dark Rooms
+Dark Rooms are minor events in which any room can generate with the lights completely off. It can be hard to see without a light source (although difficult either way), so using one is highly recommended, as it helps players see significantly clearer and also heavily lowers the chance of Screech (an entity that can only appear in Dark Rooms) of spawning. It can be told if the room is a Dark Room from the ambience which plays when the door is opened. If a player spends too long inside a Dark Room, the Guiding Light will highlight the correct door to escape, and also a key if necessary. The Guiding Light will also highlight all the doors in a Dark Room, and always highlights the key regardless if the room is a Dark Room or not. Dark Rooms are more likely to generate the further players are in the run. Rush and Ambush cannot spawn in most Dark Rooms, except for the Large Basement and the Greenhouse (which Ambush cannot spawn in) which are rooms that are always dark. Dark Rooms can spawn as early as Door 9 (without modifiers). It is also guaranteed to get at least 10 Dark Rooms in a single run, due to The Greenhouse and The Basement. The buzzing sound of lamps can be heard in the Dark Rooms.
+
+A Dark Room with the door being illuminated by the Guiding Light.
+A Dark Room with the door being illuminated by the Guiding Light.
+
+Advertisement
+Blood Rooms
+Blood Rooms are rooms that can only generate if Jack spawns behind a door. When Jack spawns, it will jumpscare players and then disappear, and they will be left with a room that is completely red. The lights and floor will be covered with a bloody texture, similar to what is seen in Seek's chase. Outside, the rain will be a blood red color, and if there are Seek's eyes in the room, the scleras will turn red as well. Overtime, this room will slowly fade away back to normal, but the rain will stay as it is until they proceed to the next room. Blood Rooms have the lowest chance of spawning out of all Room Mechanics (tied with Shadow), that being a 1 in 2000 chance (not counting 2024 Trick or Treat Event). These rooms can occur as early as Door 1 and as late as Door 100.
+
+A blood room.
+A blood room.
+Jack turning a room into a blood room.
+Jack turning a room into a blood room.
+Ruined Rooms
+Ruinsroomed
+An example of a Ruined Room, which resembles a hallway with broken windows, scratch marks on the wall, and messy furniture.
+
+These Rooms can be described as disheveled; walls crumbled and broken, cabinets and other objects smashed and wrecked, broken pillars, disorganized shelves, destroyed doors, scratches on the walls, fallen chandeliers and large piles of flesh. Players may need to duck under areas to progress. These types of rooms can only spawn after The Library and were added in the Hotel+ Update. It is unknown who or what destroyed these rooms and for what purpose, but it's implied that Figure went through these rooms in a speedy attempt to reach The Electrical Room before players to prevent them from escaping. They can spawn as early as Door 53.
+
+Rift Rooms
+These Rooms are unlikely to spawn in a run; they are subrooms, possible in any room-that are locked with a Skeleton Key. The door is a blue door without a doorknob, and instead, a Skull Lock, like The Infirmary. The lock connected to blue crack-shaped glowing lines, which is implied as Guiding Light, since there is blue. After you open the door, it is possible to find a donut inside, near the rift, but mainly, the room inside contains The Rift (and, the Backdoor Rift if you have it) You can take items you have stored out of The Rift, transform items, exchange, contain, like a normal Rift. Basically a Mid-Run Rift.
+
+Rift Room
+A Mid-Run Rift room in the Dark,
+
+Normal Sub-Rooms
+These Sub-Rooms are possible in any room, either acting as a normal Sub-Room, Pre-Outdoors Update, or the new variant of Sub-Rooms which is a normal bedroom, with an on-suite, which contains a cracked mirror, old sink, a garbage bin, and a toilet, which is flushable.
+
+Door Special Locations
+These are locations in The Hotel that are different and unique to most rooms (such as plain hallways, guest rooms and storage rooms). All are guaranteed locations, with the exception of The Meeting Room and The Dining Hall. In order of appearance during a player's run in The Hotel.
+
+Elevator
+Main Article: Elevator
+
+Elevatorteqnikue
+The Hotel Elevators
+
+ElevatorCutscene1
+The Mining Elevator
+
+The Hotel Elevator is a device used to access the first floor Reception from the Lobby. It is a small, run of the mill elevator, with a metal gate, as well as two sliders. Up to fifty players can be present in one elevator. The Mining Elevator is located in Room 100. It can be operated once the circuit puzzle has been completed. It resembles a typical mining/freight elevator, and inside are lamps, crates, and The Electrical Room Key. As of The Hotel+ Update, The Electrical Room Key will not spawn in the elevator.
+
+TheReceptionRobloxDoors
+The Reception
+
+The Reception
+Main Article: The Reception
+
+The Reception (also known as Room 0) is the first room players enters when they spawn in the elevator. It consists of a desk with an interactive bell (that breaks if rung too many times) and a few other objects scattered around the room, such as chairs and containers. The Reception will always spawn with Room Key 1, which is situated behind the desk, hung on the wall. No entities can spawn in this room other than Glitch, Void, and Timothy. This is also where the item stored in the Rift will appear to be collected if players have done so in a previous run.
+
+The Meeting Room
+Main Article: The Meeting Room
+
+The Meeting Room
+The Meeting Room
+
+The Meeting Room, also referred as the Paintings Puzzle Room, is a small room that has a long, dining table in the middle, with a fireplace at the back. In this room, players must have to solve a puzzle which involves moving and placing various paintings in the right spot. When placing all the paintings in their right frames, the fireplace will descend, revealing a fake wall in front of the doorway to the next room. In the room, there are cupboards and containers, along with a few windows. There is a chance for it to be devoid of all furniture.
+
+The Dining Hall
+Main Article: The Dining Hall
+
+The Ballroom 
+The Dining Hall
+
+Halt's room of residence, The Dining Hall, consists of a long room with tables, chairs and plants either side. Debris are scattered around, and cobwebs like the walls. At the end of the room, there is a stage with a grand piano, as well as the exit door. This room will always spawn after a room that has a longer light flicker and appears as early as Door 1, or as late as Door 87. The room after The Dining Hall may vary, it can either spawn a normal room, a guaranteed room or sometimes a room with Dupe.
+
+The Grand Hallway
+Thegrandesthallway
+The Grand Hallway
+
+Main Article: The Grand Hallway
+
+The Grand Hallway is the room where players starts Seek's chase sequence. It consists of a very long hallway which can either have windows on each side or just plain walls. Shelves can spawn in this room as well as cupboards and containers. Players will encounter this room at least three times in one game. The Grand Hallway is rare to encounter outside of Seek's chase sequence, rarer to appear in said entity's crescendo. If the Grand Hallway is entered in a dark room, they can easily walk through, but still encounter Screech without a light source. After going through a few rooms with Seek's crescendos, players will encounter a Grand Hallway. Once a player has walked at least half of the third window, studs away from the progressing door, Seek will rise out of the ground at the start of the hallway and start chasing players. At the end of every Seek Chase, a modified Grand Hallway will appear. This time, once the door leading to the Grand Hallway mentioned earlier is opened, large hands made of Seek's slime will burst out of the windows and three chandeliers will fall down, creating fires.
+
+LibraryNew3
+The Library
+
+The Library
+Main Article: The Library
+
+The Library is a large room filled with bookshelves with various colored books, along with an office area and a staircase that overlooks the Library. Players will come across this room at Door 50, where they will have to avoid Figure. A grand door which is golden and white will let players know that the Library is the next room, along with Figure making noises on the other side to make its presence known. To escape the Library and Figure, players must collect Library books and decipher the code in order to open the lock and escape. No other entities can spawn in this room besides Figure, Guiding Light, Jack, Window, and Timothy (but you can theoretically encounter Shadow when you open the door).
+
+Jeff Shop
+Main Article: Jeff Shop
+
+JeffInTheHotel
+Jeff Shop
+
+The Jeff Shop is a room in The Hotel, that occurs at a random door slightly after Doors 53-59, acting as a mid-game shop in case you need anything, this shop can prove useful on many terms. It features the entity Jeff including a desk with four items that can be bought, with a variety of seven items, and a tip jar used to tip Jeff for "college funds" as described in the "Pls Donate" achievement you get when you fill his tip jar up. It also features a lot of crates, a partially rolled up carpet, El Goblino and Bob. It first appeared in The Hotel+ Update. These entities are also in a random door slightly after Doors 153-162 in The Mines.
+
+The Rooms Entrance
+The Rooms Entrance is around doors 60-65, being in a specific ruined room. Behind a bookshelf, there is a secret passageway which is gated. To open the gate, you need to go to the next room, just after, and find a lever. Then, go back and it will be open. Behind the gate, there is a door without a doorknob that has a label above it which says "A-000" It is locked with 2 specific star-shaped locks (Which resemble Curious Light) with two holes (which are opened with lockpicks). After that, there is a Skull Lock, opened with a Skeleton Key. The information about The Rooms is in a different article, in this wiki.
+
+
+Advertisement
+The Basements
+BasementNew
+The Basements
+
+Main Article: The Basements The Basements are randomly-generated rooms that spawn in The Hotel. They are maze-like structures with multiple gates blocking certain areas, vents that lead to other areas, and a lever that spawns on a random wall. Basements also contain barrels, pipes, cobwebs, meat substances, tables and Containers. Basements also have windows that display the rain outside, and an arched ceiling. To access a Basement, players must go down a stairwell, that branches from the top floor, containing a gate blocking the door to the next room. The Basement that spawns on Door 61 always spawns as a dark room, and is guaranteed to spawn.
+
+The Infirmary
+Main Article: The Infirmary
+
+Infirmary
+The Infirmary
+
+The Infirmary is a moderately-large room in the Hotel, taking the appearance of a hospital area with many beds, tables, and other amenities. This room contains the Green Herb, (also known as the Herb of Viridis), which is a plant that is hidden behind a door that can only be unlocked with the Skeleton Key. Interacting with it heals players and grants health as doors are opened. There are also many cabinets and containers where players can find loot, most likely gold, especially Gold50 - Gold100.
+
+The Courtyard
+Main Article: The Courtyard
+
+Courtyard Interior v2
+The Courtyard
+
+The Courtyard is an outdoor space in The Hotel which features paths lined with lamps and hedges, with a roofed walkway through the middle. There is also a statue on one side of the pathway representing an angelic character, with the other side absent of a statue. It often occurs at Room 89. Players can enter The Courtyard by going through a black metal gate. Before the Mines update, The Courtyard currently offers nothing, other than some nice scenery. Many players use this level as a place to take a break. It is not required for a player to complete a puzzle or find a key in order to progress. The Courtyard is also currently the only place where players are allowed to step outside of The Hotel. The statue located in here is theorized to be the "Guardian of the Hotel" or the Guiding Light. In the Mines update, the whole courtyard and the statue has been revamped and the statue has a sign next to it that says "●︎♓︎❍︎♌︎□︎". That word means "limbo" in the wing dings font. It also contains Shears and the Courtyard Basement always in the bottom left of the entrance.
+
+
+Advertisement
+The Greenhouse
+Main Article: The Greenhouse
+
+DiningHall
+The Greenhouse
+
+The Greenhouse is a set of unique rooms that occurs between doors 90-99. It is a challenging addition to the hotel with different wardrobes and many other assets such as plants and gardens, which was added in the Hotel+ Update in January of 2023. No items of any type can spawn in The Greenhouse, as there are no tables or containers. It will always take place directly after The Courtyard, acting almost as a transition between the Hotel and The Electrical Room. It is teeming with dangers: Rush, Screech, Eyes, Hide, Dread, and Dupe are all capable of being encountered here. Snare is the only unique entity that resides specifically in this part of the hotel, frequently appearing and can hinder players from hiding from the aforementioned entities. The doors in the greenhouse can be seen through so the player can see the next room through the other side of the door which can be used to avoid Dupe, since Dupe doors in the greenhouse appear to have nothing on the other side. Every room in the Greenhouse has a 100% chance to be pitch black. In the Hotel+ update, the Candle that can be found around the Hotel comes into great use here as Guiding Light uses it to alert you of any entities. However, after The Mines update, only the Possessed Candle has the ability to alert you of entities.
+
+Final room (3)
+The Electrical Room
+
+The Electrical Room
+Main Article: The Electrical Room
+
+The Electrical Room are a series of rooms in which players can enter at Door 100. These rooms include the Elevator (where players can escape the floor), a staircase room which will present players the Rift when walking downstairs, corridors, small rooms, and a small room in which a small electrical wire box is situated. The electrical box is a puzzle in which players needs to solve before escaping. It requires 10 Breaker Poles which are scattered around the corridors and small rooms. These series of rooms all have shelves, electrical equipment and crates. Players must be careful of Figure when navigating these rooms, since it wanders around every single corner.
+
+Secondary Locations
+Secondary Locations are rooms that are unique to most common rooms but are less noticeable and important.
+
+General Rooms
+The Office: A room with its passageway blocked by furniture. On the side, there is an entrance to an Office area. It has a container and a Rolltop Desk, where items can be found. There is a hole in the window of the area that can be crouched through to pass by the blocking furniture, allowing players to progress to the next room.
+Window Suite: A normal hallway with a big room on the side, leading to a large hotel suite with a large window. It always contains a Rolltop Desk with a large chance to contain an item, valuing this room very useful. A Room Key needs to be aquired to exit.
+Suite: A small room with beds and wardrobes, seemingly split into 2 sections. In the Hotel+ update Crucifixes were given a chance of spawning on the wall, between two beds.
+Skeleton Key Room: This room contains the Green Herb, (also known as the Herb of Viridis), which is a plant that gives health as doors are opened and is hidden behind a door that can only be unlocked with the Skeleton Key. This room can be found within the main hallway of The Infirmary.
+Hidden Corridor: This room does not have the door directly in front, but players needs to take a hidden, narrow corridor to get to the next room. It also has many closets.
+Door Corridor: This room is a winding hallway with several doors on the side.
+Courtyard Basement: The Courtyard Basement can be found within The Courtyard. It contains a trapdoor covered with vines, which require the Shears to open. Once the Shears have been used, players enter down a flight of stairs, into a room that is similar to small basements. This room will contains a large amount of Gold. Although, players must be careful of Snare, who inhabits the floor and the entrance.
+Lounge: A room with many bookshelves, chairs, and paintings. It usually spawns between Doors 70-88, but may appear anytime. Crucifixes have a rare chance of spawning above the door.
+Room of Closets: This room is one of the few rooms with seemingly ripped off wallpaper, and barren except for the unusual amount of closets, spawning 12 every time a player enters. This is ironic as the maximum amount of people who can play the game is 12 in a server, boding well for players challenging themselves with such game mode.
+Mid-Run Rift Room: This room requires a Skeleton Key to unlock, allowing the player to access the rift before reaching the final room on a floor. See Mid-Run Rift Room for more information.
+Staircase and Two Elevators Room: A room that has two floors. A stairs to three sub-rooms (one room can lead to the next room) and two elevator doors you cannot enter. There is also another door on the first floor that can be a blocked or openable sub-room or a door that leads to next room and a few of the luggage carts can spawn with a locked chest. Dupe can spawn there.
+Two Elevators in T-Shaped Corridor: A room that is shaped like the letter T, with two elevator doors you cannot enter. A luggage cart can spawn with a locked chest, along with a sub-room that can be blocked or openable.
+Three Elevators Room: A room the can spawn three elevators and a sub-room that appears like it leads to the outside. Dupe can spawn there.Courtyard basement
+The Courtyard Basement covered in vines.
+
+
+Advertisement
+Entity-Related Rooms
+Seek's Chase Rooms:
+Chase Corridor: A normal room with fallen furniture that players must duck under.
+Intersection Corridor: A room with 3 doors, each one on the left, right and ahead. Only one of these is the correct door, as the others are barricaded, broken or lacking a doorknob.
+There are two types of this room: one is a plus-shaped corridor, which is the intersection corridor, and one is an octagonal-shaped corridor. The octagonal-shaped one can spawn outside of the Seek Chase.
+Chase Hallway: A Grand Hallway with fallen chandeliers and Seek's hands coming from the windows.
+The Dining Hall: See The Dining Hall or Special Locations above for information.
+Entrance Rooms
+Library Entrance: The room before the Library, which has a Large Office Desk and is always accessed by the right side of the room. At the front, there is a door leading to the Library. It is always at Door 49.
+The Rooms Entrance: This room is always on Door 60, since The Hunt 2024 update. It is in bad condition, much like a Ruined Room. It always is followed by The Basement. The room contains a normal exit, but behind some furniture, there is a hole in the wall. Passing through that hole, there is a long, narrow walkway into a small room. It contains a mysterious painting, some furniture and a lever-activated door. To open it, players must pull the lever in The Basement Behind the lever-activated door is the entrance to The Rooms. It requires two lockpicks and a skeleton key to open.
+The Outdoors Entrance: This room is guaranteed to spawn in Door 90 and 99 which serves as an entrance to The Outdoors. It looks like a normal Greenhouse room but the room is not dark and there is a double door which has a light showing at it. The door is blocked with vines so Shears is needed to cut the vines. Behind the door is a room with closets on the side and a door which leads to The Outdoors. A Skeleton Key is required to open the door and enter The Outdoors.
+Electrical Room Entrance: A special room in the Greenhouse that always occurs on Room 99.
+Before The Hotel+ Update: It was a large room with drawers, several closets and a bed. Players must run here after Figure arrives in The Electrical Room.
+This room also contains a mysterious door, that also is the entrance to The Outdoors.
+Door Lobby
+Main Article: Lobby
+
+The Lobby is the location where players spawn when joining DOORS. It's a canonical location of the game.
+
+It's also a hub for DOORS players to communicate and strategize for an upcoming run. The Lobby contains twelve elevators, with six on each side of the room, which offer 1-4 player-sized lobbies that players can enter to start a run. There are several extra areas around the Lobby, with most of them just being minor places to explore. The most obvious one is the outdoors, showing the exterior of the Hotel, a sign that simply displays "HOTEL", a stone staircase, the water surrounding the area, and the entrance to The Backdoor (Although the Detour badge is required). Another alcove appears to the right of the entrance, with three boarded up doors and two closets. On the opposite side is a small hallway with a door at the end, and a leaderboard in the middle of the right wall. At the opposite end is a small downstairs area, with The Backdoor-styled items such as a broken and boarded up door, three closets, two tables, plenty of boxes and a locked gate. Meanwhile, at the other side of the downstairs alcove is a blocked off passageway, with Seek's eyes seen inside.
+
+Entities (Non-Lethal)
+Timothy
+Sally
+Seek (Eyes only)
+Figure (Piles of rotten meat only)
+Curious Light
+Items
+Gold
+Stardust
+Door The Rooms
+Main Article: The Rooms
+
+A hidden location similar to Roblox Rooms by nicorocks5555, the original inspiration for DOORS. It contains fewer entities than the Hotel, but they are capable of dealing heavy damage and there are several more rooms players have to traverse in order to complete it. Coins, batteries, and bandages will be scattered throughout the Rooms.
+
+
+Advertisement
+Entities
+A-60: Functions similar to Rush, speeding through rooms at a high speed. It is quite audible when it spawns in, giving away its presence to alert players. To survive it, players must hide in lockers, or they will face instant death.
+A-90: Will randomly appear on the screen. Players must cease all movement and interactions or else it will attack, taking away 90 health. If in conjunction with A-60 or A-120, it will slow down or stop them respectively.
+A-120: May appear rooms ahead of players, indicated by its soft and glitchy metal clanging. It has a delay when spawning in and is slower than A-60, giving players a chance to backtrack and hide in lockers.
+Curious Light: The subfloor counterpart of the Guiding Light. It has a yellow color instead of a blue one, and its hints to surviving the entities are less direct and more questioning than its blue sibling.
+Glitch: The only entity from The Hotel to reappear in the Rooms. It acts if a person is left behind as rooms get despawned.
+Items
+Shakelight: A special variant of the Flashlight that can be purchased at the start of The Rooms for 10 coins. It has a shorter battery life, and a bit dimmer than a normal flashlight, but can be recharged by shaking it, hence the name. It gives off a limey-cyan color.
+Starlight Jug: A larger version of the Starlight Vial and Starlight Bottle from The Backdoor. The Starlight Jug is only available at the completion of the Rooms as a temporary replacement for the NVCS-3000. It can be used 4 times and provides useful effects such as healing 100 health (including overheal) and a speed boost.
+Door The Backdoor
+Main Article: The Backdoor
+
+The Backdoor is a subfloor that can be accessed from a side door in the exterior of the Lobby once the "Detour" Achievement has been obtained.
+
+The Backdoor was initially released on March 15, 2024 for the 2024 Roblox event, The Hunt: First Edition, where it awarded players with the "THE HUNT: First Edition" achievement and a badge for the event, while the trailer was uploaded to YouTube the day prior. After the event concluded on March 30, 2024, the subfloor remained in the game, although its entrance was changed.
+
+
+Advertisement
+Entities
+Blitz acts similar to Rush, but it can rebound, changing to its pink form.
+Lookman looks like old Eyes design and has its old name.
+Haste spawns when time runs out.
+Curious Light has the same behavior that it has in The Rooms.
+Glitch has the same behavior that it has in The Rooms.
+Items
+Backdoor Room Key: Throughout The Backdoor, players will find doors with a lock attached to them. To unlock these doors, players must hunt for the Room Key, find it, and use it on the door.
+Starlight Vial: When used, the Starlight Vial makes players glow, heals 25 health and provides a temporary speed boost.
+Starlight Bottle: The Starlight Bottle, the larger counterpart of the Starlight Vial, when used, heals players by 50 health points, gives them a temporary speed boost, and creates a small circle of light around them.
+Door The Outdoors
+Main Article: The Outdoors
+
+The Outdoors is a subfloor that consists an outside forest area that is out of The Hotel. In order to enter The Outdoors, players should open a door covered with vines with Shears then unlock the skull door with a Skeleton Key.
+
+After entering The Outdoors, players are needed to go through ~2500m of forest area in order to exit. Which there are signs indicating how many meters left till the exit. The doors in there are unlabeled, so the players need to follow the signs or use a Compass to navigate. There are Vine-covered chests which players can open with Shears and houses that players can loot or hide.
+
+Entities
+Surge: The mechanism of Surge is similar to Rush. However, one or two green lightning strikes will occur to warn the players that Surge has spawned. Then the sky with start flashing yellow which means Surge started attacking. Players will need to find a closet to hide or go under houses or caves in order to survive Surge
+Snare: Snare will spawn on the path or the grass. If players stepped on a Snare, it will stun and deal damage to the player.
+The Groundskeeper: The Groundskeeper has a chance to get out if the room contains a shed with a scythe next to it. Normally, the Groundskeeper is passive and won't attack players. But if the player stepped on grass or staring at it for too long, the Groundskeeper will rush towards the player and kills the player. If the player got off the grass before the Groundskeeper kills him, it will warn the player instead if killing the player.
+Mandrake: Mandrake will sometimes jump out of the roots and start screaming towards the player. The player must put the Mandrake back into its hole or walk far away from it. If not, the player will result in an instant death.
+Caws: Caws are a passive entity that will fly away once the player gets near them. Players can feed them Bread for an achievement.
+Monument: Monuments will disguise itself as a regular obelisk. Once no one looks at it. It will start walking towards the nearest player. If the Monument reaches the player, it will kill them. When being looked at, Monument will stop moving and stay in place until the player looks away. Monument can be found easily, since a regular obelisk's ridge is a few inches above the ground, and Monument's ridge is only a few centimeters above the ground.
+Eyestalk: Eyestalk serves as a chase sequence in The Outdoors. Its vines will show up and take control of the birch tree log. Once it does that, it will start chasing the player. Players need to navigate through crossroads, houses and corridors. There are Snares on the ground and players need to avoid them. At the end of the chase, the player jumps of a bridge and couldn't get up. When Eyestalk is about to get the player, the Groundskeeper comes out of nowhere and kill Eyestalk with its scythe, saving the player.
+Grampy: Grampy is a passive entity which talks like El Goblino. If the player gets eight Lotus Petals, Grampy will craft those into a Lotus Flower.
+Bramble: Bramble is the final boss of The Outdoors. It is made out of vines and a lamp as its head. When Bramble's lamp light is on, players must not move. If the player moved, Bramble will summon spikes towards the player.
+World Lotus: World Lotus controls the entities in The Outdoors. In The Hedge Maze, World Lotus's vines blocked the players from progressing so players need to cut off 3 vines to go to the exit.
+Curious Light: It has the same function as in The Backdoor and The Rooms. However, it will not help the players in The Eyestalk Chase or the Bramble Boss Fight.
+Glitch: It has the same function as in The Backdoor and The Rooms. If a player gets glitched multiple times, it will spawn a Glitch Fragment.
+Items
+Iron Key: Can open crypts containing Lotus Petals.
+Lotus Petal: Can be crafted to a Lotus Flower with eight of them, if given to Grampy.
+Lotus Flower: Can let players revive/rebirth at any floor and room. Can have multiple Lotus Flowers at once.
+Shears: Can cut open vines to unlock shortcuts or open Vine-covered chests.
+Compass: Points to the next room, the next guillotine or the exit in The Hedge Maze.
+Lantern: A light source that lasts five minutes. Cannot be refueled.

@@ -1,0 +1,42 @@
+Grumbles are hostile entities in DOORS and secondary antagonists in The Mines, primarily in The Nest. Their main purpose is to roam and hinder players' task in successfully activating all anchors which powers the bridge to escape. They were introduced entities in The Mines Update.
+
+
+
+
+Overview Appearance
+Grumbles are giant, beige-colored creatures, being larger, more matured versions of Giggle. They have 8 tentacles, a giant smiling mouth full of teeth, a tongue, small lips, two purplish-pink eyes with several smaller eyes above and below them with the same color and two lines above the mouth, supposedly being a nose.
+
+Behavior Behavior
+Grumbles initially make their appearance in The Nest, immediately following the end of the first Seek chase. A total of 5 Grumbles, including the Queen Grumble, patrol The Nest. Between the first and second/last chase in The Nest, Grumbles cannot enter the main pathway surrounding the two terminal entrances or the building that contains the room's instructions and Anchor A.
+
+If a player is in the line of sight of a Grumble, it will start chasing them while laughing deeply. If its line of sight of a player is broken, it will stop chasing a player and continue to traverse The Nest. If a Grumble touches a player, it will "fling" the player away from them, stunning a player briefly and dealing 50 damage. The tentacles of a Grumble are collidable, but have no hitbox; only its main body can deal damage. Grumbles cannot hear players walking or dropping items, but is attracted to certain light sources turning on or off.
+
+Fortunately, all Grumbles follow a series of Nodes which are like pathways coded by the game for the Grumbles to walk to the next Node prototype. When it spots a player, the path nodes don't go away but follows a specific Node path.
+Using a Flashlight, Bulklight or Shakelight can disorientate a Grumble to the aforementioned light sources. If a player is being chased by a Grumble, they are able to shine a light source on its face to slow its movement speed, giving them more time to find a safe spot.
+
+If a player is in a safe spot where they can be seen but not reached (such as the possible B anchor spawn with the broken wall), the Grumble that spots them will turn to face them, stare for a few seconds, before turning and going back onto patrol.
+
+Notes
+Grumble tentacles have no collision, so players can walk by them easily.
+Grumbles can damage players through thin objects, such as the shearable vines in the far left Anchor B room.
+Grumbles can be banished by a crucifix as of The Content Update, however the queen cannot.
+Grumble's Path Nodes (AI Walking Paths) by the entrance of each Anchor Room has now been nerfed prior to the Content Update.
+When godmode is enabled, Grumbles will ignore players and won't chase after them. The same goes for the Queen Grumble.
+Door Jumpscare
+1st Person
+Grumble will grab the player with its tentacles, open its mouth, then close it, killing a player. This only occurs if the player has 50 or less HP.
+
+3rd Person
+Grumble will grab the player with its tentacles, then bite into them, devouring the upper half of their body.
+
+Trivia Strategy
+Put volume to max as Grumbles have a roaming sound. This is useful especially against the Queen Grumble who does not laugh at all.
+When a Grumble chases you, run to the gate or run to a nearby room, Grumbles cannot go into small spaces.
+You are able to sense any Grumble (apart from the Queen Grumble) chasing you, because they laugh.
+Grumbles (sometimes more than one) have a tendency to camp around the C Anchor area, in that case, try to find small gaps of time in between to escape them.
+Take advantage of the screen shaking; when there's no shaking, it more than likely means you're safe to enter the tunnels.
+If a Grumble is chasing you, look for tight gaps or any doors or corners that can protect you.
+Once you have powered the bridge, run to the door as fast as you can.
+It is good to have a bright light source to shine on the Grumbles, as this can make them take a wrong turn, leading them away.
+If you see a Grumble from below and you are at the top floor, get to a safe space and wait for it to go away.
+If two Grumbles are on each side, and you are in between, go to the side of the tunnel of where they'll collide as they both will turn around. (Likelihood: likely)

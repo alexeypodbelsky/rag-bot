@@ -1,0 +1,34 @@
+The Dining Hall is a special location in The Hotel, where Halt attempts to attack the player in The Hotel. It was added in The Mines Update to replace Halt's previous hallway, The Corridor.
+
+
+Overview Overview
+Halt's room of residence, The Dining Hall, consists of a long room with tables, chairs and plants either side. Debris scattered around, and cobwebs lining the walls. At the end of the room, there is a stage with a grand piano, as well as the exit door. This room appears as early as Door 1 or as late as Door 87. The room after The Dining Hall may vary, it can either spawn a normal room, a guaranteed room or sometimes a room with Dupe.
+
+Older Version
+Prior to The Mines Update, Halt's attack used to take place inside a long hallway consisting of drawers. It was a 2-part room with both rooms being identical to each other.
+
+Notes
+Prior to The Hotel+ Update, the chances of Halt spawning were 3%. However, after Hotel+, Halt's chances of spawning have decreased from 0.1 - 0.5%. However, this does not seem to be the case for doors that are between the second Seek chase and the The Greenhouse, where Halt’s chances of spawning are increased significantly, unless if Ambush spawns, or Halt or Ambush have spawned in earlier doors. After The Mines update Halt became guaranteed and cannot spawn more than once in a run.
+Halt can be encountered as early as Door 1, as of the Mines update.
+Before The Hotel+ Update, Halt could be encountered as early as Door 7 and as late as Door 96. Halt can no longer spawn in Doors 89-99 due to the addition of The Courtyard and The Greenhouse.
+However, during the early times of the Hotel+ update, Halt could spawn during the first few rooms of the Greenhouse. This was a bug and it has been patched.
+Halt can also spawn on Door 101 and likely 102 in The Mines, though this is probably unintended.
+The player doesn't have to turn around when Halt appears in front of them, as walking backwards can also work, and takes less time.
+If a player does not want to lose speed when going backwards, then they can instead turn ninety degrees to the left or right and alternate between left and right movement based on where Halt is located. Since there is no speed decrease when going sideways, this strategy is effective when the 'My Legs Are Killing Me' modifier is activated.
+Before The Hunt update, there was also another way to beat Halt, for when it appeared in front of players, they could just hug the wall, wait for Halt to pass and then continue on normally. This has been patched.
+Entering The Dining Hall will close the entrance to the hallway immediately, preventing players from backing out.
+In some situations, the player can stand still, and Halt won't be able to reach them, though it is not recommended to rely on this.
+In multiplayer, other players can go further ahead and make Halt faster, therefore making Halt able to get the idle player.
+In multiplayer, other players will be rendered mostly transparent. A similar thing happens during Seek's chase sequences except other players will be fully invisible. This is due to players being distracted by other players, resulting in decreased survival chances.
+Halt will despawn when the player exits the hallway.
+Halt can still go out of bounds. In that scenario, it's best to let it teleport behind the player.
+Halt's speed was increased significantly since the Hotel+ update.
+The closer the player is to the next door, the quicker Halt is, so timing is significant here.
+Users can use vitamins against Halt at the very start of the hallway, as it will not spawn immediately, which will make the player to finish half of the hallway, but the player must keep an eye on "TURN AROUND" screens, but this will force them to return to a greater distance. Vitamins can also be quite risky if a player is using the "Watch Your Step" modifier that makes Snare to appear in Halt's hallway, making it almost unnoticeable.
+The player can obtain gold, and, in some rare occasions, items, from the top of the tables.
+Entering Halt's hallway will instantly despawn any of the following entities: Rush, Ambush.
+If Rush still hasn't started rushing, or if it's too close to the hallway, it won't despawn, and will enter the hallway, causing a guaranteed death as there are no closets in the hallway.
+Being attacked by Halt after opening the exit door in its hallway will not damage the player.
+However, if the player were to encounter Halt for a second time, they will immediately take damage with no way to avoid it.
+In the Modifiers update, if you have unlocked "Hotel Hell" and enabled the "MAXIMUM OVERDRIVE" modifier during your run, you can use any available Vitamins and run through Halt's cue without having to turn around, which makes it easy on one go if you get the right timing. (But still watch out for possible snares)
+Dread can still spawn in this room[1], however, it will take 1 hour instead of 10 minutes.

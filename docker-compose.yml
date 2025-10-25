@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  rag_bot:
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    volumes:
+      - ./src/faiss_index:/app/faiss_index # Mount the faiss_index directory
+    stdin_open: true  # Keep STDIN open
+    tty: true         # Allocate a pseudo-TTY
+    restart: always  # Always restart the container
+    environment:
+      - OMP_NUM_THREADS=1

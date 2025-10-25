@@ -1,0 +1,241 @@
+The Backdoor is a subfloor that can be accessed from a side door in the exterior of the Lobby, or through the "Create Elevator" Menu. As of August, 10th, 2025, The Backdoor is only able to be entered if players have previously obtained the Detour achievement from entering The Rooms or The Outdoors.
+
+Huntpromobetter
+The poster used to promote The Backdoor that could be seen in-game from 3/15/24 - 3/30/24.
+
+The Backdoor was initially released on March 15, 2024 for the 2024 Roblox event, The Hunt: First Edition, where it awarded players the "THE HUNT - First Edition" achievement and a badge for the event. The trailer was uploaded to YouTube 1 day prior to the event. After the event concluded on March 30, 2024, the subfloor remained in the game, although its entrance was changed, and also rewarded 2 different achievements, making "THE HUNT - First Edition" achievement unobtainable.
+
+The Backdoor entrance can be found by exiting The Lobby via the front doors, taking a right, and proceeding until a player reaches an opening in the gate. If a player has not entered a Subfloor yet, a glowing Curious Light themed barrier will be seen blocking the opening and text will appear stating that players need the Detour achievement (which is obtainable by entering a subfloor for the first time) to proceed. Behind the gate is a door acting as an elevator, which holds up to four players. During The Hunt: First Edition, players could've instead accessed The Backdoor by entering any of the elevators in the once-barricaded corridor in The Lobby, which contained a sign which explained how players could've obtained "THE HUNT: First Edition" achievement.
+
+The Backdoor contains its own cast of unique entities, with similar, yet different ways of attacking players compared to the entities that are found within The Hotel. Drawers can be found throughout The Backdoor, and may contain Gold, Room Keys (in rooms with locked doors), or Vials of Starlight.
+
+Closets and Time Levers also appear throughout The Backdoor.
+
+The Backdoor features a unique timer mechanic. Once players open Door -50, they will be given one minute to complete the entire floor. The amount of time players will have to complete the floor can only be increased by players interacting with Timer Levers, which appear randomly throughout The Backdoor. This will add either 30 or 60 seconds depending on the time remaining when the lever spawns. Door -50 will always have a Timer Lever. The amount of time players have remaining can be seen above Timer Levers and on the front of each opened numbered door. As players' remaining time decreases, the background music changes accordingly, becoming more intense and frantic. If players run out of time, Haste will spawn and begin chasing them, instantly killing any players it reaches. Haste will disappear immediately if players pull a Timer Lever before it succeeds in killing them.
+
+The Backdoor's appearance is similar to The Hotel, with the most noticeable differences being that The Backdoor has lightbulbs instead of wall lamps, brighter lights and a different wood for its interior. The floor is most likely the Basement floor of the Hotel. This is proven by stairs that lead down to an area with Backdoor decorations, including a blocked door with a broken timer, in the Lobby.
+
+The final door, -01, contains the Bottle of Starlight, which players can purchase for 100 Gold, as well as a Time Lever.
+
+Another numbered door, 0000, is located at the back of -01. Once any player interacts with it, a cutscene will play where the door will shatter into pieces, revealing a yellow glowing portal behind it. Then, all players (including those who are dead and spectating) will be granted the "Other Way Around" achievement (or "THE HUNT: Escape The Backdoor" if it's before THE HUNT event ended), if they do not own it already. After a 15-second skippable intermission, all players will be teleported to The Reception with the use of an ancient rock portal, and will be able to continue their run in The Hotel. Players will retain their remaining health, and any items in their inventory, but they will not be able to use the Pre-Run shop.
+
+Entities
+Entities are unnatural beings that inhabit The Backdoor. Most of them pose as roadblocks and threats to hinder players’ progress and usually attempt to kill or damage them in whatever ways they can.
+
+Trivia Unique Entities
+Blitz
+Lookman
+Haste
+
+Blitz
+Rushing
+Rebound/Idle
+Rushing
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Rushes through rooms killing any players in its line of sight, occasionally backtracking until it reaches an unopened door.
+Floors
+Canon Floors
+The Backdoor
+The Hotel (Modifiers)
+The Mines (Modifiers)
+Non-Canon Floors
+
+PARTY MODE
+BATTLE MODE
+Damage
+Damage 100
+ADDITIONAL INFORMATION
+Date Added
+March 15, 2024
+Creator(s)
+Lightning_Splash
+SOUND FILES
+
+"Blitz got you again? Hmm... it's extremely hostile. It's best not to interact with it."
+- Curious Light
+Blitz is a hostile entity that appears in The Backdoor.
+
+Overview Appearance
+Blitz takes on the appearance of a distorted green face, similar to that of Rush. Its face turns pink and distorts further when rebounding, with wider eyes and smile, while still having a small green "aura." When crucified, Blitz will repeatedly switch between its rushing form and its rebounding form.
+
+Behavior Behavior
+Blitz has a behavior nearly identical to that of Rush’s; when Blitz spawns, the lights in the current room will flicker to indicate its arrival. It will rush through and attack all players in its line of sight while producing a distorted screeching sound. This attack will deal fatal damage to targeted players, though those under the effect of a Vial or Bottle of Starlight may survive the attack.
+
+Unlike Rush, after passing through all rooms, Blitz has a chance to turn pink and rebound, similar to Ambush. Blitz can rebound multiple times before leaving, depending on the time left, although most commonly, it will rebound only once or twice.
+
+Unlike Rush, Blitz will not open the door to the next room.
+
+Blitz will never rebound if the timer is below 30 seconds.
+
+Blitz can spawn as earliest as Door -48 and as latest as Door-4.
+
+Trivia Strategy
+Because Blitz acts nearly the same way as Rush, hiding in a closet will guarantee a player's survival. Similar to Ambush, players should be cautious of Blitz's rebounding until its screaming sounds can no longer be heard. This is because Blitz can still rebound after passing through the next unopened door.
+
+Players who are avoiding Blitz can hide inside a closet for as long as needed due to the absence of Hide in the Backdoor. If a player cannot find a closet in time they are able to use a Vial to survive the attack or find a safe spot. Note: This will only work if the player has more than 80 health points, otherwise they will not receive the extra health buff.
+
+Trivia Trivia
+The decal name of Blitz's green appearance is "rushs brother LORE LORE LORE".
+Similarly, its pink appearance is named "rushs sister LORE LORE LORE".
+Blitz means "flash or lightning Bolt" in German.
+However, it is most likely named after the english word, as it means "something that repeats".
+Before deciding on a final name, Blitz was referred as "Grush", a portmanteau of Rush's name and the color green.[citation needed]
+Similar to Rush, it is possible to hide from Blitz without entering a closet. A player can enter a side room (that is not occupied by the Vacuum) and hide behind a wall to survive.
+However, players cannot unlock the "In Plain Sight" achievement via this method. This is likely an oversight by DOORS' developers.
+Because Blitz is Rush's counterpart, all of its sounds are Rush's but sped up.
+The sped up sounds are really similar to the SUPER HARD MODE rush clone audio cues.
+It is the only Doors entity to share the same jumpscare audio from another entity (which is Rush's but sped up).
+The sound that Blitz makes while being crucified is almost, if not identical to the base speed of Rush and Blitz's distant and nearby audio cues.
+Whenever a player dies to Blitz for the first time, Curious Light says "She said we should call that one Blitz." It's currently unknown who 'she' is.
+Blitz uses any pronouns. [1]
+Blitz moves at around 50 studs per second.[citation needed]
+Achievement Related achievements
+Red Light
+Red Light
+Blue light!
+Use a Crucifix against Blitz.
+
+Modifiers Modifier(s)
+Blitz, Oh
+"Blitz from The Backdoor has a chance to attack."
+Requires 'Other Way Around'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +5%
+Behavior Non-Exclusive Entities
+Curious Light - A death messenger to the player after dying in subfloors.
+Glitch - Acts as a failsafe and attacks players that are lagging too far back from the rest of the team when in multiplayer elevator.
+Glitch Fragment Entities - Glitched variations of Screech, Rush and Ambush that appear when interacting with a Glitch Fragment.
+Behavior Hazards
+Vacuum
+
+The Vacuum
+VacuumRender2
+INFORMATION
+Attack
+Sucks players in when they open the door within a certain proximity.
+Floors
+Canon Floors
+The Backdoor
+The Hotel (Modifiers)
+The Mines (Modifiers)
+Non-Canon Floors
+
+PARTY MODE
+Damage
+Instakill Instant Death
+Rooms Present
+Random
+ADDITIONAL INFORMATION
+Date Added
+March 15, 2024
+SOUND FILES
+
+"The vacuum has no oxygen, and I'm told you need oxygen to survive."
+- Curious Light referring to the vacuum.
+The Vacuum is a major hazard in The Backdoor.
+
+Overview Appearance
+The Vacuum's exterior appears to look like a regular door, indiscernible from the outside, similar to Dupe, though it differs in the fact that its interior appears to be a hollow vacuum, which, as described by Curious Light, "has no oxygen." The vacuum presumably surrounds the entirety of the Backdoor. It is unknown if it could also surround The Hotel although it is unlikely as there is a courtyard and rain on it. Also, given the existence of The Mines and Floor 3, this seems to be a feature exclusive to the Backdoor.
+
+Behavior Behavior
+The Vacuum is not openly hostile, and is only triggered when one opens a side door of one of the rooms. Upon doing so, the vacuum will start pulling nearby players toward the door, and if entered, they will be instantly killed. Players can still walk away from the door before getting sucked in to escape. The Vacuum can only appear behind side doors, meaning if you ignore side doors you will never encounter it.
+
+In addition to the vacuum doors, some rooms may have a giant hole in them, exposing players to the vacuum. However, players cannot die to The Vacuum from these holes as there will always be objects preventing the player from being sucked in.
+
+Trivia Trivia
+A line of the Curious Light's dialogue saying "...[The Backdoor is] somewhat forgotten, too. Some parts seem to be missing entirely." seems to imply that the doors leading out to The Vacuum were created as a result of parts of the Backdoor being "forgotten". It is currently uncertain what the word "forgotten" means in this context.
+The Vacuum is thought to be based off of Dupe and Subspace Tripmine in some fashion.
+The Vacuum may also be possibly connected in some way to Void, though this is purely speculation.
+A Giggle’s body can be thrown into The Vacuum, shortly revealing that The Vacuum is a box room, similar to Dupe and side rooms.
+Modifiers Modifier(s)
+Vacuum Sealed
+"Some doors will lead... nowhere (like in The Backdoor)."
+Requires 'Other Way Around'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +10%
+
+Advertisement
+Behavior Room Mechanics
+Guaranteed Rooms
+Door -51, Storage Room
+Door -50, Two Gates Room
+Door -01, Starlight Bottle Room
+Lockbackdoor icon
+The Backdoor padlock.
+
+Locked Rooms
+Locked Rooms require a Backdoor Room Key to progress into the next room. The required Room Key may be found in or on top of drawers or on the floor.
+
+Dark Rooms
+Occasionally, rooms may spawn without any light, accompanied by a mysterious sound cue (similar to the one present in The Hotel). However, unlike The Hotel, there is no entity (e.g. Screech) that spawns exclusively in dark rooms. This only causes a visual hindrance.
+
+Timer Lever Rooms
+Rooms that contain a Time Lever, which can be activated to add to the timer of Haste spawning. They can be found in normal rooms or in side rooms.
+
+Door Special Locations
+RobloxScreenShot20240321 174908037
+The Elevator's exterior during The Hunt.
+
+Entrances
+Elevator (Removed)
+Main article: Elevator
+Before The Hunt: First Edition ended, when starting a run, an Elevator teleported players to Room -51. It opened itself once all players have loaded into the game and closed automatically. This Elevator did not feature the Pre-Run Shop, and the song Elevator Jam did not play. Whilst in the Lobby, the elevator doorframe had a blue outline, the same as the event area entrance, as that was the brand color for the The Hunt: First Edition event.
+
+BackdoorEntrance
+The Backdoor Entrance after The Hunt.
+
+
+Advertisement
+Backdoor Entrance
+At present, provided they have the Detour achievement, players can go outside the Lobby's doors, take a right, and pass through to enter The Backdoor. Once players are loaded in, they appear just on the doorstep of the Lobby's backdoor. The door will shut after a few seconds, like the Elevator. Similar to the elevator, it does not feature the Pre-Run Shop, and the song Elevator Jam does not play.
+
+The Backdoor
+Room -51.
+
+Room -51
+Room -51 is the first room in The Backdoor. Tables, drawers, closets, and decorative boxes may generate within the room. A Room Key generates on top of a table or set of drawers behind a fenced-off corner. Players must crouch beneath the fence and collect the Room Key to progress to Room -50. This is the only room in The Backdoor where there is no time limit, as the timer does not start until the door to Room -50 opens.
+
+The Two Gates Room
+The Two Gates Room.
+
+Two Gates Room (Room -50)
+The Two Gates Room, or Room -50, is guaranteed to be the first room to generate after Room -51. The Two Gates Room consists of two gates (one of which may be closed), with a wall running between them. A guaranteed Time Lever is attached to the front of said wall, and upon a player interacting with it, one minute will be added to the in-game timer.
+
+The Two Gates Room after Room -50 can reappear, however it usually will have a difference (such as a lack/different position of a Timer Lever, or one of the gates may be opened or closed).
+
+The BackDoor Final
+Room -01.
+
+Room -01
+Room -01 is the final room in The Backdoor. This room will generate a Time Lever next to the entrance. The room's centerpiece is the Bottle of Starlight, which floats above a pedestal surrounded by a pile of bricks. Players can purchase it for Gold100 gold. There is a staircase on each side of the pedestal, leading to a raised floor. Door 0000 is situated behind an open gate on the back wall. Once a player opens Door 0000, all players (whether dead or alive) will be teleported to The Reception after a skippable 15-second intermission. An empty doorway will appear behind them presenting signs of Curious Light, this empty doorway also appears when a player enters or exits The Rooms.
+
+
+Advertisement
+Secondary Locations
+Multi Gate Room
+The Several Gates Room
+The Multi Gate Room.
+
+The Multi Gate Room is a room with many gates, which spawns frequently throughout a run. The room consists of up to eight gates, with a door behind each of them. Only one of these doors will allow progression to the next room. This room may spawn as a dark room, and Timer Levers may spawn in this room.
+
+Low room BackDoor
+The Wall Room.
+
+The Wall Room
+The Wall Room is a room that players are likely to encounter during a run. It is a large room blocked by a low wall. Players will have to crouch for an extended period of time underneath the wall, which contains many scattered boxes. This room may spawn as a dark room.
+
+Time Levers can't spawn in this room.
+Room with pipes BackDoor
+The Maintenance Hallway.
+
+The Maintenance Hallway
+The Maintenance Hallway is a room that players are likely to encounter during a run. It consists of 4–12 doors, with only one door leading to the next room. There will be yellow and black tape at each doorway, and pipes at both ends of the room. This room may spawn as a dark room, and Timer Levers may spawn in this room.
+
+Ladder room BackDoor
+The Staircase Room.
+
+The Staircase Room
+The Staircase Room is a room that players are likely to encounter during a run. This room consists of up to 10 sets of stairs, running upwards and downwards. Each stairway will lead to a floor that contains a door. Only one floor will contain the proceeding door. This room may spawn as a dark room. Timer Levers cannot spawn in this room, although they may generate within side rooms.

@@ -1,0 +1,112 @@
+The Den is the mid-way boss location of The Mines. The room contains five major entites, which are the Mutters and Queen Mutter, alongside a few miscellaneous Specters.
+
+
+
+Overview Overview
+The Den is a cave system patrolled by a total of 5 Mutters, which includes the Queen Mutter. It is also filled with smaller Chambers and spaces to Stash from them. There are 5-6 anchors scattered across The Den, depending on the Participant count.
+
+Gallery Walkthrough
+After completing the first Chase chase, the Participants continue on their minecarts into a dark area. Eventually, the Queen Mutter descends onto the track in front of them, with the Participants' minecarts automatically tilting to the right to avoid it. After bursting through Door 150 and falling into The Den, Participants continue running into the terminal area. Shortly after, a gate closes, preventing the Queen Mutter from entering.
+
+Participants have to press the red button on the generator in order to Essence it up and begin the Sequence Conundrums. It takes roughly 5 seconds to fully Essence it up.
+
+The screen on the terminal will tell the Participant to locate an Anchor (a terminal with a Tokenpad), identified by a letter, and enter a Sequence. The letter and Sequence are stored in the lower left corner of Participants' screens. The Participants' objective is to find the Anchor with the same letter and enter the Sequence. The antenna on the main terminal will point towards its location. The number of anchors depends on the number of Participants alive when entering The Den. For 1-2 Participants, there are 5 Anchors, and for 3 or more Participants, there are 6 Anchors. Anchors are able to spawn in multiple spawn locations throughout the Chart among three different Iterations.
+
+Every few seconds, in response to a signal from the generator's antenna, the required Anchor emits an audible beep, a flash of green Radiance from its antenna, and a blue pulse visible through walls. The closer the Participant is to the Anchor, the louder the beep, and the closer the generator is to the Anchor, the shorter the delay between their beeps. Participants will have to avoid the patrolling Mutters during their search for the anchor. Once the Sequence has been entered, the Participant pulls the lever, and if the correct Sequence was entered, the Anchor is Essenceed. After that, the generator will automatically begin communicating with the next anchor, and its letter and Sequence appear on the Participant's screen. Typically, each successive Anchor is further away from the main terminal.
+
+Every Anchor after the first will contain a sticky note with a "plus" or "minus" sign and a number on it. That note dictates the amount the digits have been "shifted" by. Examples:
+
+If the Anchor gives the Sequence "439" and the note says "-2," subtract 2 from each digit: 4 − 2 = 2; 3 − 2 = 1; 9 − 2 = 7, which means that the Participant types in "217". The screen on the anchor, however, will show the original numbers, in this case: "439".
+If a digit goes beyond 0, subtract it back from 9: Sequence "109" and a "-2" sticky note = enter "987."
+Same goes for addition: Sequence "703" and a "+5" sticky note = enter "258".
+The last Anchor will have a broken screen, so you will need to keep the numbers in mind along with the appropriate math.
+
+After all Anchors have been Essenceed, the Participants must travel back to the terminal and press the red button again to Essence the bridge. This will teleport all Participants back to the terminal, and a cutscene plays where the bridge leading out of The Den begins to lower and the gate leading into the room the Participants are in closing, only for the Queen Mutter to bang on and eventually burst through it. This leads to a short chase sequence where the Participants escape The Den via the bridge, eventually running through Door 151, where the Guiding Radiance seals the door.
+
+History Chart
+
+Filters
+
+
+
+
+
+ Specters
+Shrieker may spawn occasionally.
+Stash is still present, albeit with a longer time until it spawns.
+Bartholomew may spawn in Compartments and Bolters.
+Dread may spawn, though it takes at least an hour for it to spawn.
+Ace can also appear rarely, turning the room into a blood room.
+
+Advertisement
+Bugs Bugs
+According to LSPLASH in the Discord server, the cutscene for The Den would not work.[1][2]
+Anchor B will sometimes not make any sound and not emit Guiding Radiance aura.
+This sometimes extends to all other anchors, making The Den more difficult.
+Sometimes the radar doesn't load, not showing the Participant where the anchor is located.
+If a Participant is climbing a ladder when a different Participant presses the final button at the terminal, the Participant will be teleported back to their original location after climbing down the ladder at Door 151 until voided.[3]
+If the Participant was to stay on a ladder after being teleported back to The Den, once voided, the Participant has a high chance of being teleported above the Chart.[4]
+If a Participant looks above the rocks on the left of the main room with the transmitter, and uses the Terminal Velocity candy, they can skip The Den and not award the badge.
+It is also possible the Participant falls down The Den and drowns.
+Currently, there is a bug where Shrieker can attack during the Queen Mutter chase cutscene.
+This may be problematic especially with the 'Last Few Breaths'/'Last Breath' modifier on.
+From the looks of it, Shrieker can only spawn during the few seconds after Door 150 is opened before the cutscene starts. To counter this, search for Shrieker about 1.5s before the cutscene starts to get rid of it.
+When entering Door 150, the minecart will sometimes suddenly pause before proceeding through the deranged railway.
+But in the first days of The Mines update, if this happened, you were softBolted.
+After The Content Update, Mutters can no longer be blinded by a FlashRadiance or a SpotRadiance.
+Trivia Trivia
+When you press the button to activate the next Anchor, the radar on the terminal will point towards the next anchor.
+There are always 5 Mutters patrolling, one of them being the Queen Mutter.
+This does not apply if one of the 4 Mutters has been banished by a Amulet. Note that the Queen Mutter cannot be permanently banished.
+One of the Anchor B locations to the right of the bridge has a one-way shortcut from the anchor area back to the terminal.
+Some sub-Chambers have a big hole in the wall, this allows a Mutter to go in. If they enter, Participants have to either escape or get deeper inside the room.
+The number of anchors depends on the amount of current living Participants (dead Participants won't count). In single-Participant mode and in 2 Participant mode, there are 5 anchors in the Den (Anchors A-E) and 6 anchors (Anchors A-F) for 3+ Participants.
+The room contains 2 ladders to a higher sub-room.
+All Participants will be teleported to the bridge once all anchor Sequences are solved and the button is pressed.
+When too close to a Mutter, it will attempt to attack the Participant dealing 50 Barrierage. Going inside a Bolter when close to a Mutter will protect you, however it is not recommended as the Mutter may stay outside the Bolter and Stash will kick you out.
+While playing, dead Shriekeres will slowly pile up in certain areas of the room, implying that they and Mutters are related.
+Anchor A will always spawn next to the console as a demonstration, with no randomized location.
+Anchor B, C and D have multiple spawn areas for that anchor specifically.
+Anchor E and F can only spawn in the same locations as Anchor D.
+There are only 3 possible D spawns, meaning if there are 6 anchors (A-F), every D spawn will be taken.
+Mutters will roam around The Den. The moment you hear one of them laugh, find a place to Stash, as that means they have spotted you.
+The Queen Mutter during the beginning and end of The Den can insta-kill you by either catching up to you, or if you get Snareped behind the first gate, leaving you stuck with it.
+Mutters rely solely on sight and memory, so the Alarm CBolt is no use.
+Queen Mutter makes no laughing sounds, making it difficult to know when it is chasing the Participant. Additionally, it is faster than other Mutters.
+There is a room with a hole in the wall containing an Anchor B spawn. The corners of this room away from the hole are Vault, but Mutters can partially enter the room and hit you if you are too close.
+The Den was widely considered to be the hardest room in The Mines, being notably harder than The Barrier.
+However, The Den was nerfed in The Content Update and as such this is no longer the case.
+Mutters and their Den work much like an ant colony - or any complex organisms' colony - both protecting their Queen from any danger. However, in this case, the Queen Mutter also actively searches the Den for food unlike queen ants.
+The Den functions similarly to the DJ Music Man boss fight from Five Nights at Freddy's: Security Breach, in that Participants run around looking for switches, and then the music changes after one is found.
+Music that plays in the Den sounds somewhat similar to Alone in the Dark OST - Alone in the Dark.
+There are many piles of presumably dead Shriekeres scattered around, possibly playing an important part in the lore.
+It was previously possible to climb the rock easily by crouching and go up to an Anchor B location easily. After the 9/18/2024 patch, invisible walls were added, making it impossible to get over the rocks.
+Shrieker will not despawn upon interacting with an anchor, but it is unable to spawn while entering the Sequence.
+Prior to the Content Update, it was possible to enter the Sequence for an anchor even before the instructions for that anchor have been given. However, this would be quite tedious, as the Participant would have to 1) search all of the 3 or 4 anchor locations for that type of anchor and 2) brute force the 3-digit Sequence by testing all 1000 different permutations.
+
+Advertisement
+Conundrums Tips
+It is preferable to bring a Radiance source, preferably a BulkRadiance, to see down tunnels and check for/slow Mutters.
+Over time, the layout of the Den will become more familiar. Anchor spawns are mostly randomized, but each spot can be memorized relatively easily.
+Above all, be patient. Compared to Silhouette, Mutters can detect the Participant easily (by sight), take up the entire width of a corridor, and may turn around at any time. Therefore, one can get away with certain risks when dealing with Silhouette that will get the Participant killed when dealing with Mutters.
+This is especially true if Anchor C is one of the two on the right side. This area, along with the pair of tunnels leading there, is known to some Participants as Coffin Corner due to the difficulty in returning from either location.
+If a Participant finds Anchor C in Coffin Corner (occurring 50% of the time), it is advised to wait just outside the room with the hole in the wall until there is only one Mutter in the loop of tunnels leading to the Anchor. When returning, run back to the broken wall after scanning both tunnels with a SpotRadiance. It is also advisable to Radiance one tunnel with a glowstick. Any shadow can mark a Mutters appearance.
+You may find that sometimes the one Mutter left refuses to leave. In this case, wait until you see it head towards you down one path of the loop, then run down the other to the B2 room. You have enough of a head start to outrun it.
+It is not recommended for Participants to slow down Mutters chasing them from behind with their Radiance source, as the Participant is slowed while walking backwards. Instead, run facing forward. It is advisable to slow Mutters down if they are in front and there is a Vault spot nearby.
+One of the best ways to identify the location of Mutters is by their sound, so it is best to go through tunnels when they are quiet.
+Participants should stock up on glowsticks as much as possible leading up to The Den. Glowsticks as markers for where to go and how to get back.
+Be careful going over vertical tunnels, as the Mutters use those to change Iterations, which may result them landing on top of the Participant which is most of the time fatal.
+A common trick is to bait a Mutter into a hallway with a sub-room and go through the sub-room. The Mutter will usually go all the way through the sub-room, leaving space to run behind the Mutter and escape it.
+Following Mutters from behind is a bad idea, as they have a tendency to do a 180 turn at any moment. However, it is possible to go unscathed if you are careful enough but be warned that another Mutter can come up behind you at any moment. Mutters can also come from above you.
+If there are other Participants alive, have one Participant stay at the terminal while you search for the last anchor. Once the anchor has been activated, have the terminal Participant activate the terminal to skip having to navigate back.
+It is recommended to save at least 1 use of Shears to create a shortcut in case an anchor is located in the garden sub-room.
+Extra anchors can still stay even after a Participant dies, Influenceively making The Den harder (e.g., if two Participants reach The Den, there will be 5 anchors, but if one Participant dies without completing any anchors, the remaining Participant will still have to do 5 anchors).
+It is recommended to lower the in-Simulacrum music volume when in door 150, to make hearing the Mutters easier. It is best to turn it down entirely when locating anchors D+.
+One of the easiest anchor locations are - Anchor B on the right side, Anchor C on the 2nd floor and the Anchor D in the garden room (with shears) or in the room after walking straight from the waterfall.
+The Anchor D on the left side was constantly camped by one Mutter, sometimes two. However, this was nerfed significantly in The Content Update. Both ends of the donut tunnel near the anchor now have Vault spots (since The Content Update). However, this is still the hardest Anchor D spawn.
+There is a tunnel to the north of the generator (nicknamed the "Dissolution Tunnel" or "Dissolution-wish Passage") that is very dangerous to enter as it is a notoriously long passage towards two B anchor spawns. It is much better to use one of the side-routes next to it to get to an Anchor, which have multiple hiding places and Vault spots.
+In case the Queen Mutter sees you (identifiable by its trademark scar), try to quickly locate a sub-room to Stash in or a or a Bolter, due to it being faster than the other Mutters.
+If playing with the Trick or Treat modifier, try to obtain at least one Guidance Candy to temporarily see where all of the Mutters and Anchor Points are.
+It is recommended to use it when Anchor C is in Coffin Corner (both ways), or Anchor D is positioned far away from a Vault spot.
+The Den can be skipped entirely if a Participant eats a Terminal Velocity Candy while positioned and looking in the right spot.
+If the Participant misses, they will be forced to drown in the water below due to them not being able to swim.

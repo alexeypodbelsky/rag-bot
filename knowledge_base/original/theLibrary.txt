@@ -1,0 +1,51 @@
+Overview
+The Library features multiple tall bookshelves arranged in rows, a small library desk area, a large table, and an elevated area where the exit is present, connected by 2 stairways. Multiple randomly-placed furniture barricades are scattered around, including one barring a randomly determined stairway to the elevated area. Two stairways leading to a balcony are present on the elevated area, but are both blocked. Meat piles are scattered around the corners of the room. The two entrances to this room are large, detailed double doors.
+
+The room prior to The Library is a smaller, unique room. A large office desk inside contains an Alarm Clock, and the entrance to the Library proper is located on the right from when the room is entered. Once the door is opened, a cutscene will play in which the Figure roars, walks out from behind a bookshelf, then stumbles towards the player due to the sound of the door opening. A moment later, the Guiding Light pushes a lamp to the left of the entrance to the ground, with the Figure detecting the sound of it shattering and running towards it. After this cutscene, the Figure will stomp on the lamp and begin patrolling the library.
+
+LibraryMap
+Map of The Library in HOTEL-, SUPER HARD MODE!!! and Before Content Update.
+
+Gallery Walkthrough
+To complete The Library, players must collect Books that randomly generate on the bottom three shelves of the various bookshelves. The books are blue with a unique moonlight symbol on their spine, and they emit a shimmering noise. After interacting with a library book, the book will temporarily enter a player's inventory whilst displaying a number and a shape. The book will then be put away by a player and the combination from within the book will be recorded and displayed to the other players on the bottom left corner of the screen.
+
+All players can interact with the Solution Paper, which is located on large office desk and contains instructions to open the exit door as well as the correct combination. It should also be noted that while only five books are included in the combination, the 8th and last book found is guaranteed to be the last digit to the code. Then player/s need to go upstairs, the stairs to the second floor can be on the left in The Library, or on the right. Then, when you get up, you will need to collect the remaining books to get the code. On this floor, you can hide on or under the stairs leading to the third floor. It is important to note that the third floor is always barricaded, and is only needed for decoration or hiding under its stairs.
+
+The combination is inputted on the combination lock barring Door 51. To enter the correct combination, players must locate a shape's corresponding number and enter it into the correct position. If another player unlocks the door, it is unlocked for all players, allowing everyone alive to escape.
+
+Shortly Door 51 is unlocked and opened, the Guiding Light will seal the door, and if a player is left behind, Void will teleport them to Door 51.
+
+The Mines Update Changes
+The biggest change to The Library in The Mines Update is the removal of safe spots. Prior to The Mines Update, there were many places the Figure would never go unless chasing someone, most notably and most used among them being the corner to the right of the exit door, right in front of the entrance door, and beside the barricaded staircase on the left. All of these locations have been removed, meaning the Figure may easily path find into said areas.
+
+To compensate for that, two changes were made. First, the Alarm Clock was added. The Alarm Clock is an item that is found on large office desk before entering The Library, in Library Entrance room, and on the table next to the sofa at the end of The Library's main walkway. The alarm clock can be wound up by left clicking and placed on the floor at the player's feet. It will tick down for about ten seconds and then go off, alerting Figure and making it rush to that location. It is advised to use it as a distraction to get somewhere in The Library, but make sure you are not in Figure's path to the clock when it goes off. When Figure finds the clock, it will angrily run around it, searching for players, before stomping on the clock and smashing it to pieces. It is not usable after that. You can also keep an alarm clock after The Library, and use it in The Electrical Room or in a room containing the Figure in The Mines. The smashing animation is also used to smash the lamp that gets knocked over when the player enters the library.
+
+The second change is the removal of the Heartbeat Control Minigame. This change applies to The Electrical Room as well. Instead of rushing to the closet and starting a minigame in which you have to line up hearts that get faster, the Figure instead just lingers outside your closet for a few seconds before walking away, making it much easier to hide from the Figure. However, Hide will attack the player if they remain in a closet, albeit it takes much longer to attack.
+
+After The Content Update, the Heartbeat Control Minigame was readded to Hide, which still attacks during The Library sequence.
+
+Other changes to The Library include the changing of which staircase is barricaded - one of the two will be blocked and it's random every time The Library is generated which one. The bust in the center of The Library titled 'Awesome Tony' was replaced with a couch and a table with the second alarm clock. Finally, Figure's animations have been also improved as it is now fully animated instead of being fully ragdoll.
+
+
+Advertisement
+The Content Update Changes
+The Content Update has become the biggest update for The Library. The entrance has been redesigned. Now there are more windows, broken columns and furniture in The Library. The Library itself has become much larger. When you enter it, the light will now flicker like before The Hotel+ Update or in HOTEL-. Also, many paths have been barricaded, and the location of the barricades is random. Also, there are now inactive stairs to the third floor on the second floor, under which you can hide. All the bookshelves have been rearranged and there are more of them. The design of the books has been redesigned. Now the books you need are always blue with a Guiding Light sign. The books on the bookshelves now also have new colors and highly detailed models, just like in the entire The Hotel. And lastly, Heartbeat Control Minigame was re-added to closets.
+
+Notes
+Players can open the door by guessing and the process of elimination, although this is only recommended if you are missing one digit (it could take up to ten tries) and any more than that would take exponentially more tries (up to one hundred tries at two).
+The Figure can catch players actively attempting to open the combination lock - and the Figure often goes right in front of it, so be careful.
+Jack has the chance to spawn in The Library, and if so, will transform it to a subtle red ambience, which also modifies the Figure.
+SUPER HARD MODE!!!
+There are 15 books scattered across The Library, and only 10 of them will resemble the exit code.
+Figure is recolored into a "noob".
+In SUPER HARD MODE, if a player uses Holy Hand Grenade against the Figure in the Library, Hide will not spawn throughout the rest of the run, making hiding from entities far easier, particularly in The Greenhouse. This is due to the door not closing behind players after escaping The Library.
+The Code Paper in The Library will require players to hold key (or button) to collect instead of just simply pressing.
+Due to a player having to collect 10-15 books in The Library, the Figure may run extremely fast, being harder to avoid the more books than a player has.
+Jeff The Killer Has A Extremely Rare Chance to Appear At Door 49.
+
+Advertisement
+Modifiers
+If any Modifiers that make Eyes spawn in all rooms are enabled, players may get killed after the intro cutscene if any Eyes spawned behind Figure, due to the cutscene forcing players to look forward and therefore at the Eyes.
+If the "Again & Again & Again", "I'm Everywhere", "Stop Right There", or "Room For More" Modifiers are enabled, it's possible for Ambush, Screech, and A-90, respectively, to attack in the Library.
+If the "Make Haste" Modifier is enabled, The Library will be filled with Time Levers in various locations, each of which giving 30 seconds.
+When The Content Update first released, these levers would instead give one full minute each. This was nerfed because it would give players far too much time, removing all tension from the Modifier.

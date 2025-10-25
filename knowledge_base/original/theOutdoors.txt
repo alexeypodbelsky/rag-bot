@@ -1,0 +1,126 @@
+The Outdoors is a subfloor accessed from within The Greenhouse in The Hotel. In The Outdoors, players traverse a large, outdoors-themed expanse, with their progress being marked by meters instead of doors.
+
+The Outdoors released on August 10, 2025, as the main focus of The Great Outdoors Update. It can be accessed either from the entrance in The Greenhouse, or directly from the Lobby for Stardust10 Stardust or 25 robux (given that the player has the Detour Achievement).
+
+
+Overview Overview
+Door Entry
+The Outdoors is a subfloor for The Hotel. The entrance to the subfloor is located both at in the first room of the Greenhouse (Door 90) and at the end of the Greenhouse (Door 99). Entering requires vines to be cut by either Shears or a Multitool, and a Skeleton Key to unlock the Skull Lock. Skeleton Keys can be always obtained from Jeff's Shop in The Hotel and can be rarely found in containers. Shears can always be obtained in The Courtyard, where a small toolshed will always spawn with them.
+
+The Outdoors is not accessible with Modifiers active as a red barrier will block both entrances.
+
+Hiding Exterior
+The Outdoors takes place outside in a dark, forest-like environment during a thunderstorm (similar to The Hotel). The Outdoors includes many different structures such as graveyards, cabins, and monuments. The Outdoors has no labeled doors, instead the player must use signs posted around the subfloor to determine the depth of their run and additionally to locate the exit. There are many areas in The Outdoors that are blocked off with vines or behind a locked door, which require Shears or an Iron Key respectively. There are also visible signs that tell the players to not touch the grass, due to the many thorny vines which also appear around the subfloor, supposedly belonging to the World Lotus. The player will occasionally reach places that have multiple gates, some of which lead to small areas that do not have any further doors, requiring them to backtrack. Dupe is not present in this subfloor, so players can open gates without worry. Some larger gates require them to press a button to open them which can be found on the right or left side of the gate. Players should be mindful that these larger gates open after a short delay, so opening them to escape from Surge is not recommended unless necessary.
+
+Trivia Areas
+The Small Courtyard
+Players start by leaving The Hotel and entering the beginning of the The Outdoors. They find themselves at an exit of The Greenhouse, which leads to a small courtyard, including a fountain, a vine-covered chest, and a guaranteed small toolshed with Shears along with a vine chest to the far left of the open area of the room.
+At the end of the courtyard, there is a metal gate which requires them to press a button.
+When the button is pressed, the gate opens, leading players into the forest.
+
+Advertisement
+The Clearing
+The Clearing
+The Clearing.
+
+The Groundskeeper killing Eyestalk
+The Groundskeeper neutralizing Eyestalk at the end of the chase.
+
+About halfway through their run, the player will start to see aspen trees with markings that resemble an eye in the place of the normal trees. This indicates that the crescendo to the Eyestalk chase has begun. A few gates later, players will reach a clearing with many of these aspen trees chopped down with a visible log in the center. Upon reaching the next door, the player will see Eyestalk emerge from the ground and begin to chase them. The player must run from Eyestalk as they would Seek. Some rooms have 3 paths, 2 of which are blocked off. Players must quickly look at all of the paths to determine which one lets them continue. Sometimes there is a cabin in the only path. Players should be aware that the brick-garden corridor type rooms have Snares on the ground, so the player will have to watch their step to see where they are going. At the end of the chase, the player will jump down from a broken-down bridge and try to land on the path, but will fall short and grab on to the edge and watch as Eyestalk jumps at them ready to damage the player. Suddenly, The Groundskeeper leaps at Eyestalk and slashes it in half with his scythe. The player then stands up from the ground, as The Groundskeeper carries part of Eyestalk's corpse over it's shoulder, and leaves the player's sight.
+
+The Mill
+Darkergrampy
+Grampy. Giving him 8 petals will result in him giving you a lotus.
+
+LotusSpawnOutdoors
+Revive Lotus alley
+
+Players will see a mill with a black figure sitting on a rocking chair, with a cowboy hat named Grampy. There is a basket next to him, this is most likely used to hold the lotus petals. Grampy is akin to El Goblino, both being simple passive characters that talk to the player. Grampy has a secondary purpose though. If players gather at least eight Lotus Petals throughout The Outdoors prior to meeting him, interacting with him will have him turn those petals into a Lotus, awarding the "Picking Flowers" Achievement. After dying and having planted the lotus, the player is able to rebirth in the room where the lotus was planted with all items, granting players another life. Surge is unable to spawn whilst you are inside The Mill.[1] There is also a guaranteed small toolshed with Shears to the left of the room.
+
+The Hedge Maze
+
+This content has spoilers for the end of The Outdoors . To view it, click the button below.
+
+View Spoiler
+Behavior Room Mechanics
+
+"Oye... who do you think built this place? The Outdoors, I mean. "
+- El Goblino (altered)
+The Outdoors is currently a stub. Help the wiki by expanding it! The article will be finished soon.
+Content needed: Images, Rooms, Links & Compliance to Manual of Style
+Content progress: N/A
+HedgeMazeMap
+A map of the Hedge Maze found at the end of The Outdoors.
+
+
+Advertisement
+Guaranteed Rooms
+The Small Courtyard: The starting room of the The Outdoors. The room has a fountain with the Caws sitting on it. Look down for more information.
+The Clearing: The starting room of the Eyestalk Chase, a bunch of aspen trees are found in there, with some trees cut down. The log in the middle is Eyestalk before the chase is initiated.
+The Mill: The room where Grampy resides. Giving him eight lotus petals will result in making a lotus. Look down for more information.
+The Hedge Maze: The last room of The Outdoors. It is a huge maze where the player/s have to cut three huge vines with the three guillotines, whilst Bramble tries to pursue the player/s.
+Shears/Toolshed Rooms
+These rooms contain small toolsheds, containers that always hold the Shears.
+
+The Small Courtyard: The starting room of The Outdoors, where you enter out of The Greenhouse. The Shears can either be found on the right or left side of the room against the wall or on the grass. This room also contains a vine-covered chest on the left side of the room resting beside a tree.
+The Mill: This is the room with Grampy in it, found not too far from The Hedge Maze, the final room. The Shears are found toward the left of the room next to the hiding closet under the cover of the balcony of the first building on the left.
+The Bridge: Titled "Bridge_1" in the game files, this is the room that is just a bridge connecting two sides of a ravine. The Shears are located on an island in a lake at the bottom of said ravine. This area is accessed via a grassy unmarked ramp section toward the left of the room. In this area there are also five vine-covered chests (1st is located in front of you when you reach the bottom of the hill, 2nd and 3rd are hidden in the 'vine-blocked loot area', 4th and 5th are located at the other side of the lake on the island), two lanterns (1st is slightly off the beaten path and 2nd is in the 'vine-blocked loot area'), and one crypt with a lotus petal (located on the left corner of the lake-shore).
+The Water Tower Room: This is the room where there is a water tower at the low elevated area of the room and the tree falls over near the water tower. The Shears are on the higher elevated area of the room where (if you go up from the water tower section) are located slightly to the right in the corner of a plausible sub-room. This room also has 2-3 Vine-covered chests (one located next to the fallen tree and 1-2 located in the higher elevated section slightly off the beaten path).
+The Graveyard: This room is identifiable because it has a crypt (the small room you unlock with the Iron Key) and a 'Vine-Blocked loot area' (The small area in some (sub-)rooms that has an entrance that has been obstructed by vines, inside is usually 2-3 vine chests and a lantern). The Shears are in the corner diagonally opposite from the 'Vine-Blocked loot area', they are also on the same side of the grass as the crypt.
+ Entities
+Entities are beings that inhabit The Outdoors.
+
+Trivia Unique Entities
+Groundskeeper
+Caws
+Mandrake
+Surge
+Monument
+Eyestalk
+Grampy
+Bramble
+
+Groundskeeper
+Groundattempt
+INFORMATION
+Type
+Neutral (Fatal)
+Behavior
+Kills or warns players who are stepping on grass, and occasionally protects the player from certain entities.
+Floors
+The Outdoors
+Damage
+Damage 45 (Scythe, Non-lethal[2])
+Instakill Instant Death (Stomp)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+
+"What intelligence... it's incredible."
+- Curious Light
+The Groundskeeper is an entity in The Outdoors. It was first teased during The Outdoors reveal teaser video and in the Daily Teaser from June 6th.
+
+Overview Appearance
+The Groundskeeper is a humanoid entity with two glowing yellow eyes and grey/dirty skin. The bones of its arms are exposed and are covered in vines. It wears gardening equipment, such as boots, overalls, a shirt, and a hat. On its belt is a keychain. It carries around a large scythe. Its eyes emit a yellow beam of light, and its body also appears to have a faint yellow glow.
+
+Behavior Behavior
+Behavior-wise, the Groundskeeper is by far the most unique entity in the game, with multiple phases and states depending on what either the player does or what happens in the environment.
+
+When a "room" has an outhouse, Groundskeeper will spawn from time to time. However, if there's not a scythe on the shed, this can either mean the Groundskeeper has left it or that the Groundskeeper isn't there, thus making it unable to spawn.
+Normally, the Groundskeeper is passive/neutral, as it will tend to the grassy area around it. While not fully recommended, the Groundskeeper will not kill the player if you touch grass while it's occupied, allowing the player to maneuver around the grass in risky scenarios.
+Going on and off the grass or simply staring at it for too long will cause the Groundskeeper to start grunting and stare at the player while approaching them. If the player stops triggering the Groundskeeper, it will make either a "watching you" gesture or a slit-throat gesture and return to its passive state.
+Stepping and staying on the grass for too long while the Groundskeeper is nearby watching will make it charge towards the player, easily outrunning them, and killing them with two hits. One from its scythe, and the other with its foot stomping the player's skull.
+You can hide from the Groundskeeper if you have angered it when entering a closet, however, it may stall and wait at the closet, which softlocks the run unless another player attracts its attention. Though you should be fine leaving the closet while the Groundskeeper is stalling if there's no grass around.
+The Groundskeeper can find you whether or not you're above or below it when stepping on grass.
+When close, the Groundskeeper will look at you no matter what direction it's going in.
+If the player is being attacked by a Mandrake, the Groundskeeper will attempt to kill the Mandrake by running up to the player and stabbing the Mandrake with the scythe.
+If Surge happens to spawn, the Groundskeeper will hide in the nearest outhouse before it arrives and leaves when it's gone. This only happen if you're in the same area with it.
+If a Monument spawns or is following you in the same room that the Groundskeeper has spawned in, he will occasionally point it out.
+If you're playing an Outdoors Run normally without searching through vined chests, going into houses, or unlocking Lotus Doors, you won't have to worry about the Groundskeeper.
+Jumpscares
+1st Person
+The Groundskeeper slashes at the player with its scythe, dealing 45 damage and knocking the player to the floor. The Groundskeeper then looks down at the player, raises its foot, and stomps on the player's face, killing them.
+Alternatively, the Groundskeeper impales the player with its scythe, dealing 55 damage. The Groundskeeper then drags the player across the floor, removing them from the scythe in the process, and the player quickly succumbs to the injuries.
+1st Person (Closet)
+The Groundskeeper uses its scythe to pull the player out of the closet, before dragging the player across the floor, shortly killing them.

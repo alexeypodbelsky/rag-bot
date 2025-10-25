@@ -1,0 +1,101 @@
+The Electrical Room, is the final boss location of The Hotel. It is the setting of the second encounter with Figure.
+
+
+
+Overview Overview
+The Electrical Room is a maintenance room and a largely vertical area, consisting of multiple floors connected via staircase. The floors themselves are simply different rooms in the area:
+
+The first and main floor is a large and dimly lit storage area with flickering lights, closets akin to those in the Greenhouse, several metal shelves, and spare doors scattered about.
+The lower floor is where the rift can be found, situated in the middle of the room with some boxes laying around.
+The top floor contains the room with the elevator.
+The interactive map of The Electrical Room can be found here.
+
+Door100Map
+Map of Door 100. Link to the interactive map version in the Overview section.
+
+The staircase lies behind wide metal gates, which can only be opened with a lever. The door to the breaker room, locked with a special key exclusive to The Electrical Room, resides in the same room as said gates.
+
+Gallery Walkthrough
+Players enter The Electrical Room through the storage room, but wire gates will initially force them to walk down a path to a room with a lever, closed gates with an exit sign above, and a locked breaker room containing the Circuit Breaker Puzzle.
+
+Flipping the lever will open the exit gates, triggering a cutscene where Figure will appear, run down the stairs, and begin chasing players. During this initial chase, the wire gates will be lifted, allowing full access to the storage area. Figure will end its pursuit once players have hidden in a closet or if Figure is unable to reach them, after which it will begin its normal patrol behavior.
+
+In order to activate the Mining Elevator and exit The Hotel, players must find all 10 Breaker Poles scattered throughout the area while avoiding Figure. The Poles may be found in shelves, on the floor, or on top of pipe supports. Players must also unlock the door to the breaker room, with either a Lockpick or the Electrical Room Key found at the top floor. Interacting with the Circuit Breaker in the room will automatically place all found Breaker Poles in the box.
+
+Once all 10 Breaker Poles have been placed, a cutscene will play where an exposed live wire will light up a puddle of oil; Figure will walk over it, get burned by the newly started fire, and start panicking as it repeatedly bumps into the walls, eventually escaping by jumping out of a window. Players will then have to solve the Circuit Breaker Puzzle, a memory game that involves flipping the correct switches according to what was shown in the box's visual panel. After the puzzle is solved, a short cutscene plays where the elevator receives power, and Figure's muffled roar is heard as it bangs on a door in the breaker room, which it breaks down shortly after the cutscene ends.
+
+Finally, players need to sprint up the stairs and reach the elevator, leaving The Hotel with a final cutscene. Figure slams on the doors of the elevator as it begins descending. All remaining players lay down to rest until Figure hops onto the roof of the elevator. It tears off the cords, but the sparks and instability of the now free-falling elevator, trips Figure into a mineshaft, leading to the end of floor 1 as the elevator falls at terminal velocity and crashes.
+
+Notes
+Similar to The Library, Hide will not appear after the lever opening the exit gates has been flipped, allowing players to hide inside the closets for as long as they like. (Super Hard Mode and Hotel- modifiers only).
+The heartbeat minigame won't be here in the current build of the game because the absent of Hide, however if the player are using ''New roommate'' modifier. Hide will reside on the last closet that the player hid.
+Entering or exiting closets may alert Figure if it's nearby, however, so exercise caution when using them.
+The Guiding Light will eventually highlight any remaining Breaker Poles if a player has not collected them in a certain amount of time.
+As such, a good strategy would be to wait for a couple minutes before pulling the lever so Guiding Light has time to highlight all the switches.
+As of The Mines Update, Figure can now enter the storage rooms without needing to chase a player.
+To counter this, it is recommended that you circle the shelves to avoid Figure and prevent it from touching you.
+This does not work for the room on the left as there is no shelf you can circle, there is no way to guarantee you survive Figure, however, if you are stuck in a room with it, it is recommended you go behind the shelves on the left side of the room.
+The only way to reduce the chances of getting unfairly cornered by The Figure on that room, is constantly moving inside the room before Figure reaches the entrance to make this latter not enter the room or crash into breakers shelf resulting to Figure exiting the room.
+It is recommended that the player goes down to the Rift and puts any smoothies in and taking it back out. This will give the player a Moonlight Float which can be consumed to highlight Figure and any poles.
+The storage area is dark, save for the occasional flickering lights. It is recommended that players bring items that can serve as a light source.
+It is not considered a dark room, so Screech will not spawn, unless you have the "I'm Everywhere" modifier on.
+As of the Mines update, Figure can hear you turn on light sources if they are close enough, it is recommended that you listen for if Figure is nearby before using one.
+Additionally, Figure can hear when a Flashlight flickers, due to this it is ill-advised you use one, same for the Shakelight as they can hear when you shake it. Leaving you with Lighters and Candles as valid light sources.
+After this room, an Intermission starts that will teleport all players to The Mines, including dead players. If there was a Modifier active during the run, players will not be teleported to The Mines.
+Revives are not permitted in this room. This also goes for The Greenhouse, The Rooms and The Backdoor.
+The breaker poles may appear nearby where the elevator is, especially the key to the breaker room.
+Since Figure disappears from the area after all breaker poles have been placed, players can take as long as they need with solving the puzzle.
+The bar on the visual panel of the breaker box will go up or go down depending on the number of correctly flipped breaker poles. It will aptly stay still when no progress has been made.
+Upon completion of the Circuit Breaker Puzzle, all currently alive players will be teleported to be in front of the electrical box for the final chase sequence.
+In SUPER HARD MODE!!!!!!, there are a few changes present:
+Figure will sport a John Doe outfit.
+Figure will be in T-poses in the animation cutscenes.
+In the Circuit Breaker Puzzle, the numbers switch by extremely fast and the last number is always replaced with question marks, making the puzzle tougher for Players to complete.
+Players can use a Lockpick to enter the High Voltage room before pulling the lever.
+This strategy is highly recommended, especially if you are bad at the heartbeat minigame or have any spare lockpicks, since The Mines do not contain any locked doors.
+As of The Mines update, this is not reliable as Figure may track the player inside the room and due to the heartbeat minigame being removed, its best to hide in a closet than to run into the room.
+The Content Update also adds locked containers and the ability to lockpick generators, so it may be more worthwhile to conserve your lockpicks.
+If you have "Are Those Pancakes?!" "I Love Pancakes!!!" or any other modifiers that spawn Snares on, they can potentially spawn in The Electrical Room.
+Figure can follow you into the Rift or the elevator areas if you aggravate it.
+
+Advertisement
+Puzzles Breaker Poles
+Main article: Breaker Poles
+History Map
+
+Filters
+
+
+
+
+
+Trivia Trivia
+The Electrical Room is currently the tallest location in terms of verticality, due to containing several floors.
+After the Hotel+ Update, the door to the breaker room may now be opened using Lockpicks.
+Before the Hotel+ Update, Lockpicks couldn't be used to open it and would give you the message, "Your Lockpick doesn't work on this lock."
+Breaker Switches aren't actually items stored in the inventory but are more akin to the likes of Batteries and Bandages; being counted on a bar that fills up on your screen.
+If The Reception is referred to as Room 0, then technically, The Adit, which contains the entrance to Door 101, is part of Room 100.
+Breaker Switches and the Electrical Room Key are currently the only items exclusive to Room 100.
+There is a blue portal below the Electrical Room called the Rift, which can make items travel from run to run.
+The downstairs area used to be blocked off, but it was opened after the Hotel+ Update.
+The downstairs area will be blocked off after completing the Circuit Breaker Puzzle.
+The elevator cutscene can hold up to 4 people performing an animation.
+If more than 4 people try to walk into the activated elevator, the cutscene will most likely bug and some players will die to Figure, while 4 of them escape.
+Using Roblox's Free Camera behind the door inside the breaker room, reveals that there is a corridor with a broken window at the end. This explains how Figure was able to re-enter The Electrical Room for the final chase after previously jumping out of a window.[1]
+Again, using the Free Camera in the place Figure emerges from in the first cutscene reveals that, for some odd reason, there lies a rig of builderman behind the wall.[2]
+In a future update, the builderman rig was removed, and a picture of a bald KreekCraft was added near the shattered window.
+Sometimes, Figure will make unpredictable moves when hitting an object like a closet. It will turn around and go to that side. So always remember to be careful, and listen every time you suspect Figure around.
+The Electrical Room is Ghostly Wowzers favorite room.[3]
+The Electrical Room is often considered by fans as the hardest Room in the hotel, along with The Greenhouse.
+Figure sports a John Doe outfit in Super Hard Mode.
+The Electrical Room was significantly easier before the Hotel+ Update, lacking most of the storage room and the Breaker Switch finding segment. When Figure begins chasing the players, they must backtrack to the previous rooms to find closets to hide in, and once Figure loses interest in the players, it locks itself out of the rooms the players are in, allowing them to complete the Circuit Breaker Puzzle before Figure is able to enter the Electrical room via the main entrances.
+If you use the Bad Electrical Work modifier, there is a chance that the room will turn completely dark.
+Seek's eyes can be seen on the walls above the elevator.
+Before the game was out, there was planned to be a solution paper like in The Library, but for some reason it was scrapped, probably because the solution paper looked confusing or/and was not needed.
+The lights in the Electrical Room are from a showcase game made by RediblesQW. However, it is a modified version.
+Jack can spawn in the Electrical Room, at least with the "Nothing?" candy. It is unknown if it can spawn naturally (without candies).
+The path for node entities (Rush, Ambush...) in this room has been changed a lot of times. Currently, since The Haunt update, entities will go through most of the room, in a straight line to the door 101 (outside of the map), sometimes opening it. Because of this, players can die instantly during the starting cutscene or right after it if they activated it too fast (with speed modifiers like "MAXIMUM OVERDRIVE").
+In SUPER HARD MODE!!! or before The Backdoor update, when Rush reached door 100 it would slowly go down through the floor despawning, while still going forward.
+After The Backdoor or Hunt update, the path was very strange. It went through all 3 rooms in the main maze, doing a rebound and then despawning.
+After The Mines update, but before The Haunt update, Rush despawned when it reached door 100, going vertically down.
+When the opening cutscene concludes, the previous rooms leading up to The Electrical Room remain.
